@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 23-03-2026 H. 20.24---[/COLOR]
+#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 23-03-2026 H. 21.09---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="NEWS ITALIA",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
@@ -21,7 +21,7 @@ https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS INTERNATIONAL",--- NEWS INTERNATIONAL ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 23-03-2026 H. 20.24---[/COLOR]
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 23-03-2026 H. 21.09---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",3CatInfo
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
