@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/icon.png" group-title="Campania",=== Campania===
+http://patbuweb.com/iptv/e2liste/startend.avi
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/antenna-3-campania.png" group-title="Campania",Antenna 3 Campania
+https://eu1.servers10.com:8081/8046/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-21-campania.png" group-title="Campania",Canale 21 Campania
+https://stream.mariatvcdn.com/canaleventuno/f5d2060b3682e0dfffd5b2f18e935ad3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-8.png" group-title="Campania",Canale 8
+https://59d8c0cee6f3d.streamlock.net/canale8/canale8/chunklist_w592700549.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-uno-tivù.jpg" group-title="Campania",Canale Uno Tivù
+https://eu1.servers10.com:8081/8096/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cilentano-tv.png" group-title="Campania",Cilentano Tv
+https://video1.getstreamhosting.com:1936/8022/8022/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cilento-channel.jpg" group-title="Campania",Cilento Channel 
+https://streaming.dimind.it/live/cilentocnn/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/enjoy-tv.jpg" group-title="Campania",Enjoy Tv 
+https://panel.latuatv.eu:1936/enjoytv/enjoytv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fl-television.jpg" group-title="Campania",FL Television
+https://eu1.servers10.com:8081/8144/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/italia2-tv.png" group-title="Campania",Italia2 Tv
+https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/jone-tv.png" group-title="Campania",Jone TV
+https://streamlive.arcapuglia.it:8080/live/jonetv/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/lab-tv.png" group-title="Campania",Lab TV
+http://live.sloode.com:1935/labtv_live/labtv/chunklist_w2038941170.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/lira-tv.png" group-title="Campania",Lira Tv
+https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/media-tv.png" group-title="Campania",Media Tv
+http://live.sloode.com:1935/mediatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/napoli-e-musica-tv.jpg" group-title="Campania",Napoli e Musica Tv 
+https://tsw.streamingwebtv24.it:1936/napoliemusicatv/napoliemusicatv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/napoli-in-television.jpg" group-title="Campania",Napoli in Television
+https://tv.radiosaiuz.com:3237/hybrid/play.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/nora-tv.jpeg" group-title="Campania",Nora TV 
+https://57068da1deb21.streamlock.net/noratv/noratv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/nuvola-tv.jpg" group-title="Campania",Nuvola TV
+https://604e46ac2bdee.streamlock.net:1936/nuvolatv4/nuvolatv4/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ondaweb-tv.png" group-title="Campania",OndaWeb Tv
+https://stream.ondaweb.tv:4433/hls/ondaweb/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ora-tv.png" group-title="Campania",Ora TV
+https://5db313b643fd8.streamlock.net/OraTv/OraTv/chunklist_w1858583108.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ottochannel.png" group-title="Campania",OttoChannel
+https://meridelive-lh.akamaihd.net/i/ottop_1@118465/master.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/paradise-tv.jpg" group-title="Campania",Paradise Tv
+https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/partenope-tv.png" group-title="Campania",Partenope TV
+https://streamlive.arcapuglia.it:8080/live/partenope/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/planetweb-tv.png" group-title="Campania",PlanetWeb TV
+https://stream.ondaweb.tv:4433/hls/planetwebtv/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/prima-tivvù.png" group-title="Campania",Prima Tivvù
+https://celinel.akamaized.net/hls/live/2032089/2032089/primativvu/primativvu/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/prima-tv-napoli.jpg" group-title="Campania",Prima Tv Napoli
+https://stream1.aswifi.it/primatvnapoli/live/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/quarto-canale.png" group-title="Campania",Quarto Canale
+http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rcs-75.jpg" group-title="Campania",RCS 75 
+https://stream9.xdevel.com/video0s975429-131/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rst-saiuz-tv.JPG" group-title="Campania",RST Saiuz Tv
+rtmp://rst.saiuzwebnetwork.it/static/saiuz
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtn-tv-607.png" group-title="Campania",RTN TV (607)
+https://panel.latuatv.eu:1936/rtntv/rtntv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-marte-tv.png" group-title="Campania",Radio Marte Tv
+https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-napoli-emme-tv.png" group-title="Campania",Radio Napoli Emme TV
+http://eco.streams.ovh:1935/radionapoliemme/radionapoliemme/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtc-quarta-rete.png" group-title="Campania",Rtc Quarta Rete
+http://msh0232.stream.seeweb.it:1935/live/stream012.sdp/chunklist_w331355960.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rtc-targato-napoli.png" group-title="Campania",Rtc Targato Napoli
+https://rst1.saiuzwebnetwork.it:19360/rtctargatonapoli/rtctargatonapoli.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/stile-tv.png" group-title="Campania",Stile Tv
+https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sud-tv-salerno.png" group-title="Campania",Sud Tv Salerno
+https://tivustream.website/urls/sudtvsalerno
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tvm-napoli-web.JPG" group-title="Campania",T.V.M. Napoli Web
+https://rst.saiuzwebnetwork.it:8081/tvmnapoliweb/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tla-tv-canale-93.png" group-title="Campania",TLA TV Canale 93 
+https://tivusto.org/sh/tlatv93
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tlc-teleliberacampania.png" group-title="Campania",TLC TeleLiberaCampania
+https://eu1.servers10.com:8081/8064/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-campane.png" group-title="Campania",TV Campane 1
+https://rst1.saiuzwebnetwork.it:19360/tvcampane1/tvcampane1.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-campane-2.JPG" group-title="Campania",TV Campane 2
+https://rst1.saiuzwebnetwork.it:19360/tvcampane2/tvcampane2.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv7-benevento-7csza6sv7zdu.png" group-title="Campania",TV7 Benevento
+https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-a-canale-18-campania.png" group-title="Campania",Tele A (Canale 18 Campania)
+http://82.62.190.94/hls/telea/video.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-club-italia.png" group-title="Campania",Tele Club Italia
+https://tivusto.org/sh/teleclubita
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-colore-salerno.png" group-title="Campania",Tele Colore Salerno
+https://cdn3.wowza.com/5/eDNRMjZKVWF2Q0Y1/Telecolore/tcs_web/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-futura.png" group-title="Campania",Tele Futura
+https://cloudvideo.servers10.com:8081/8164/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-oltre.png" group-title="Campania",Tele Oltre
+http://1se1.troydesign.eu/np_teleoltre/_definst_/channel1_np_teleoltre/playlist.m3u8?ext=.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleblu-la-notte.png" group-title="Campania",TeleBlu La notte 
+https://stream.ondaweb.tv:4433/hls/teleblulanotte/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telespazio1.png" group-title="Campania",TeleSpazio1
+https://tivusto.org/sh/telespazio1
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telespazio2.png" group-title="Campania",TeleSpazio2
+https://tivusto.org/sh/telespazio2
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleischia.png" group-title="Campania",Teleischia
+https://eu1.servers10.com:8081/8130/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telelaser.png" group-title="Campania",Telelaser
+https://585b674743bbb.streamlock.net/9022/9022/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telemiracoli.JPG" group-title="Campania",Telemiracoli
+https://rst.saiuzwebnetwork.it:8081/telemiracoli/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleprima-canale91.jpg" group-title="Campania",Teleprima (Canale91)
+https://5cbd3bc28341f.streamlock.net:444/teleprima/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleuniverso.png" group-title="Campania",Teleuniverso
+https://media.velcom.it:19360/teleuniverso/teleuniverso.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/televallo-polla.png" group-title="Campania",Televallo (Polla)
+https://tivusto.org/sh/televallopolla
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-3-baiano.JPG" group-title="Campania",Tv 3 Baiano
+https://rst2.saiuzwebnetwork.it:8081/tvbaiano/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-luna-napoli.png" group-title="Campania",Tv Luna Napoli
+https://streamlive.arcapuglia.it:8080/live/teleluna/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-yes-italia.png" group-title="Campania",Tv Yes Italia 
+https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/uno-tv-campania.jpg" group-title="Campania",Uno Tv Campania
+https://59d8c0cee6f3d.streamlock.net/unotv/unotv/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/videonola-dibtmrfa4k9a.jpg" group-title="Campania",VideoNola 
+https://stream3.aswifi.it/videonola/live/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/abc-tv.png" group-title="Campania",abc Tv 
+https://streamlive.arcapuglia.it:8080/live/abctv/index.m3u8
