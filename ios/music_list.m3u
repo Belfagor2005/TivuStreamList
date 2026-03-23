@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="MUSICA",--- MUSICA = RADIO TV ---
-http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 23-03-2026 H. 15.05---[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 23-03-2026 H. 19.52---[/COLOR]
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",4 Fun TV
