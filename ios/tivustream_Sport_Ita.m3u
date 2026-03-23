@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://tivustream.website/logoz/regioni/sport.png" group-title="Canali Sport Italiani",=== Canali Sport Italiani===
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="Canali Sport Italiani",---LAST UPDATE 02-12-2025 H. 00.58---
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/aci-sport-tv.JPG" group-title="Canali Sport Italiani",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/andrea-liconti.png" group-title="Canali Sport Italiani",Andrea Liconti 
@@ -154,7 +154,7 @@ https://tivusto.org/sh/vivaelfubol
 #EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/ilpengwin.JPG" group-title="Canali Sport Italiani",ilpengwin
 https://tivusto.org/sh/ilpengwin
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c78ebf2a-cb07-4a00-8129-acdb2d0a73c9" group-title="Canali Sport Internazionali Free",=== Canali Sport Internazionali Free===
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="6675bc9450bec7ad1dd144e8" tvg-name="6675bc9450bec7ad1dd144e8" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c78ebf2a-cb07-4a00-8129-acdb2d0a73c9" group-title="Canali Sport Internazionali Free" tvg-chno="3", Court Sports Network
 https://b01bd331ff0249b5a62e52ff0cd4104a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-627-COURT-SPORTS-NETWORK-SPORTSTRIBALTV/mt/sportstribaltv/627/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="6675c105dfa6f735be514aea" tvg-name="6675c105dfa6f735be514aea" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/a7426856-4b2e-401c-b4a6-29086ef9cd5b" group-title="Canali Sport Internazionali Free" tvg-chno="5", Billiard TV

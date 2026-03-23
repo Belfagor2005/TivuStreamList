@@ -1,16 +1,16 @@
 ﻿#EXTM3U
 #EXTINF:-1 group-title="",--- ALL_IOS VOD LIST ---
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="",---LAST UPDATE 20-01-2021 H. 13.30---
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="SERIE TV: 0-9" tvg-logo="https://patbuweb.com/tivustream/logos/logo.png",[COLOR lime]---SERIE TV: 0-9---[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="UNDER MAINTENANCE" tvg-logo="https://patbuweb.com/tivustream/logos/logo.png",[COLOR red]-- UNDER MAINTENANCE --[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="SERIE TV: A-E" tvg-logo="https://patbuweb.com/tivustream/logos/logo.png",[COLOR lime]---SERIE TV: A-E---[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="" tvg-name="[COLOR red]--BRACCIALETTI ROSSI--[/COLOR]" tvg-logo="https://www.raiplay.it/dl/img/2016/06/22/1466605408395_braccialetti-orizz.jpg" tvg-shift="0" group-title="SERIE TV: A-E",[COLOR red]--BRACCIALETTI ROSSI--[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2020/03/31/1585662794958_br_s1e1.jpg" tvg-name="St 1 Ep 1 - Episodio 1" group-title="SERIE TV: A-E",St 1 Ep 1 - Episodio 1
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=1zwaGqGmXoOjrBLwCDHLTAeeqqEEqualeeqqEEqual
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2020/03/31/1585663263809_br_s1e2.jpg" tvg-name="St 1 Ep 2 - Episodio 2" group-title="SERIE TV: A-E",St 1 Ep 2 - Episodio 2
@@ -50,7 +50,7 @@ http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=gRssSlashCuKO8ehnA
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2020/04/02/1585849788818_braccialetti-rossi-s3e8.jpg" tvg-name="St 3 Ep 8 - Episodio 8" group-title="SERIE TV: A-E",St 3 Ep 8 - Episodio 8
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=fZ2R3nIleHlQ4q9GSJ05rgeeqqEEqualeeqqEEqual
 #EXTINF:-1 tvg-id="" tvg-name="[COLOR red]--DOC NELLE TUE MANI--[/COLOR]" tvg-logo="https://www.raiplay.it/dl/img/2020/03/09/1583764515410_2048x1152.jpg" tvg-shift="0" group-title="SERIE TV: A-E",[COLOR red]--DOC NELLE TUE MANI--[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2020/03/24/1585050648854_doc_11.jpg" tvg-name="St 1 Ep 1 - Meno 12" group-title="SERIE TV: A-E",St 1 Ep 1 - Meno 12
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=BWpPpPluss6qUGdEDk3p485z6ssSlashJBweeqqEEqualeeqqEEqual
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2020/03/24/1585051559986_doc_12.jpg" tvg-name="St 1 Ep 2 - Selfie" group-title="SERIE TV: A-E",St 1 Ep 2 - Selfie
@@ -84,7 +84,7 @@ http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=F1ztUKf4XBzUssSlas
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2020/11/17/1605632266828_doc_116.jpg" tvg-name="St 1 Ep 16 - Io ci sono" group-title="SERIE TV: A-E",St 1 Ep 16 - Io ci sono
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=xYCd4Mn6WE9ySGdwqDfneQeeqqEEqualeeqqEEqual
 #EXTINF:-1 tvg-id="" tvg-name="[COLOR red]--DON MATTEO--[/COLOR]" tvg-logo="https://www.raiplay.it/dl/img/2019/07/05/1562322303608_2048x1152.jpg" tvg-shift="0" group-title="SERIE TV: A-E",[COLOR red]--DON MATTEO--[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2017/11/02/1509621141799_Don%20Matteo%20S1E1.jpg" tvg-name="St 1 Ep 1 - Lo straniero" group-title="SERIE TV: A-E",St 1 Ep 1 - Lo straniero
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=VQQ8QusNNsseeqqEEqual
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2017/11/02/1509618735981_S1E2.jpg" tvg-name="St 1 Ep 2 - Una banale operazione" group-title="SERIE TV: A-E",St 1 Ep 2 - Una banale operazione
@@ -596,13 +596,13 @@ http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=neT5IiAL0W9toVBDDt
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2020/03/19/1584639374533_dm_1012.jpg" tvg-name="St 12 Ep 10 - Non desiderare la roba d'altri" group-title="SERIE TV: A-E",St 12 Ep 10 - Non desiderare la roba d'altri
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=Xec0B4TDssSlashlaNWqKo9ussSlashtAgeeqqEEqualeeqqEEqual
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://patbuweb.com/tivustream/logos/logo.png" group-title="SERIE TV: F-K",[COLOR red]--- SERIE TV: F-K ---[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://patbuweb.com/tivustream/logos/logo.png" group-title="UNDER MAINTENANCE",[COLOR red]-- UNDER MAINTENANCE --[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://patbuweb.com/tivustream/logos/logo.png" group-title="SERIE TV: L-R",[COLOR lime]---SERIE TV: L-R---[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2018/10/24/1540370983382_2048x1152.jpg" tvg-name="[COLOR red]--L'ALLIEVA--[/COLOR]" tvg-shift="0" group-title="SERIE TV: L-R",[COLOR red]--L'ALLIEVA--[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2017/06/27/1498575877873_allieva11.jpg" group-title="SERIE TV: L-R",St 1 Ep 1 - Sindrome da cuore in sospeso
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=SOvAMjxMh48eeqqEEqual
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2016/10/05/1475657096188_Allieva%20s1e2.jpg" tvg-name="St 1 Ep 2 - L'allieva" group-title="SERIE TV: L-R",St 1 Ep 2 - L'allieva
@@ -674,7 +674,7 @@ http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=cEfhvBa5E9rRhcHj11
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2020/11/03/1604416275564_alli_312.jpg" tvg-name="St 3 Ep 12 - Insieme connessi finché morte non ci separi" group-title="SERIE TV: L-R",St 3 Ep 12 - Insieme connessi finché morte non ci separi
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussnZOdhRZyaLrlv1uzkLZugeeqqEEqualeeqqEEqual
 #EXTINF:-1 tvg-id="" tvg-name="[COLOR red]--NERO WOLFE--[/COLOR]" tvg-logo="https://www.raiplay.it/dl/img/2019/07/05/1562321063924_2048x1152.jpg" tvg-shift="0" group-title="SERIE TV: L-R",[COLOR red]--NERO WOLFE--[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="SERIE TV: L-R" tvg-logo="https://www.raiplay.it/dl/img/2017/07/11/1499787161361_nw_11.jpg",St 1 Ep 1 - La traccia del serpente
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=0Ohe3Qxqd3ceeqqEEqual
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2019/07/05/1562321063924_2048x1152.jpg" tvg-name="St 1 Ep 2 - Champagne per uno" group-title="SERIE TV: L-R",St 1 Ep 2 - Champagne per uno
@@ -692,9 +692,9 @@ http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=BPIZXRVXIyIeeqqEEq
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2017/07/25/1500990147927_NW_8.jpg" tvg-name="St 1 Ep 8 - Coppia di spade" group-title="SERIE TV: L-R",St 1 Ep 8 - Coppia di spade
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=pPpPlussN25zd8T1IYeeqqEEqual
 #EXTINF:-1 group-title="SERIE TV: S-Z" tvg-logo="https://patbuweb.com/tivustream/logos/logo.png",[COLOR lime]---SERIE TV: S-Z---[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="" tvg-name="[COLOR red]--SANDOKAN--[/COLOR]" tvg-logo="https://www.raiplay.it/dl/img/2016/06/23/1466694493964_sandokan_2048.jpg" tvg-shift="0" group-title="SERIE TV: S-Z",[COLOR red]--SANDOKAN--[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="" tvg-name="St 1 Ep 1" tvg-logo="https://www.raiplay.it/dl/img/2016/06/23/1466694493964_sandokan_2048.jpg" tvg-shift="0" group-title="SERIE TV: S-Z",St 1 Ep 1
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=L4XnbFa2jwseeqqEEqual
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2016/06/23/1466694493964_sandokan_2048.jpg" tvg-name="St 1 Ep 2" group-title="SERIE TV: S-Z",St 1 Ep 2
@@ -708,17 +708,17 @@ http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=79MYLYsQaS8eeqqEEq
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://www.raiplay.it/dl/img/2016/06/23/1466694493964_sandokan_2048.jpg" tvg-name="St 1 Ep 6" group-title="SERIE TV: S-Z",St 1 Ep 6
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=NEspWgIURjkeeqqEEqual
 #EXTINF:-1 group-title="FILM: A-F",--- FILM A-F ---
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="30 Caffè Per Innamorarsi" group-title="FILM: 0-9",30 Caffè Per Innamorarsi
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=PhxuyynUA5Aa5185ZxASOAeeqqEEqualeeqqEEqual
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Aspirante Vedovo" group-title="FILM: A-F",Aspirante Vedovo
 https://streamcdng17-b70cb04c54ab478189e9d8ee45637b13.msvdn.net/dom6/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/11954291_,1200,1800,2400,.mp4.csmil/chunklist-f3-v1-a1.m3u8
 #EXTINF:-1 group-title="FILM: G-L",--- FILM G-L ---
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="La Slitta Dei Desideri" group-title="FILM: G-L",La Slitta Dei Desideri
 https://streamcdng15-b70cb04c54ab478189e9d8ee45637b13.msvdn.net/dom6/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/13620099_,1200,1800,2400,.mp4.csmil/chunklist-f3-v1-a1.m3u8
 #EXTINF:-1 group-title="FILM: M-R",--- FILM M-R ---
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Natale In Casa Cupiello" group-title="FILM: M-R",Natale In Casa Cupiello
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=qtozJhAaoZxs8JRWHakzvgeeqqEEqualeeqqEEqual
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Non Ci Resta Che Il Crimine" group-title="FILM: M-R",Non Ci Resta Che Il Crimine
@@ -734,7 +734,7 @@ http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=sQRsYW64XUEeeqqEEq
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Quel piccolo grande miracolo di Natale" group-title="FILM: M-R",Quel piccolo grande miracolo di Natale
 https://b70cb04c54ab478189e9d8ee45637b13.msvdn.net/dom7/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/13662678_,1200,1800,2400,.mp4.csmil/chunklist-f3-v1-a1.m3u8
 #EXTINF:-1 group-title="FILM: S-Z",--- FILM S-Z ---
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Smetto Quando Voglio Ad Honorem" group-title="FILM: S-Z",Smetto Quando Voglio Ad Honorem
 https://streamcdng17-b70cb04c54ab478189e9d8ee45637b13.msvdn.net/dom6/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD/13649612_,1200,1800,2400,.mp4.csmil/chunklist-f3-v1-a1.m3u8
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Smetto Quando Voglio Masterclass" group-title="FILM: S-Z",Smetto Quando Voglio Masterclass
@@ -746,6 +746,6 @@ https://streamcdng17-b70cb04c54ab478189e9d8ee45637b13.msvdn.net/dom6/podcastcdn/
 #EXTINF:-1 tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="Zorro" group-title="FILM: S-Z",Zorro
 http://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=W0nClhXDE3weeqqEEqual
 #EXTINF:-1 group-title="FILM IN VERSIONE ORIGINALE" tvg-logo="https://patbuweb.com/tivustream/logos/logo.png",[COLOR red]--- FILM IN VERSIONE ORIGINALE ---[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="UNDER MAINTENANCE" tvg-logo="https://patbuweb.com/tivustream/logos/logo.png",[COLOR red]-- UNDER MAINTENANCE --[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi

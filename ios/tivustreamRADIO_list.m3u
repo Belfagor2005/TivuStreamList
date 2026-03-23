@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="",--- TIVUSTREAM RADIO LIST ---
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="RADIO ITALIANE",---RADIO ITALIANE---
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="RADIO",[COLOR lime]---LAST UPDATE 26-02-2026 H. 01.10---[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="RADIO: ITALIA",Rai Radio 1
 http://icestreaming.rai.it/1.mp3
 #EXTINF:-1 group-title="RADIO: ITALIA",Rai Radio 1 Sport 
@@ -718,9 +718,9 @@ http://icecast.unitedradio.it/Virgin.mp3
 #EXTINF:-1 group-title="RADIO: ITALIA",Yes Dance Radio
 http://sr2.inmystream.info:8013/stream
 #EXTINF:-1 group-title="INTERNATIONAL RADIO",---INTERNATIONAL RADIO by Genre thx to junguler---
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="RADIO",[COLOR lime]---LAST UPDATE 12-06-2022 H. 22.30---[/COLOR]
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/im/1/1537513721.jpg" group-title="60S Radio", Beatles Radio - 128 kbit/s
 http://64.40.99.76:8000/stream/1/
 #EXTINF:-1 tvg-logo="https://www.radio.pervii.com/logo/1403636185.png" group-title="60S Radio", RadioSuperoldie HIGH - 192 kbit/s
