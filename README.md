@@ -44,4 +44,4 @@ Oppure usa le liste specializzate:
 - I canali possono non essere sempre funzionanti; le liste vengono aggiornate ogni giorno.
 - Per segnalazioni o richieste, apri una issue in questo repository.
 
-*Repository mantenuto con ❤️ da [Belfagor2005](https://github.com/Belfagor2005)*
+*Repository mantenuto con ❤️ da [Belfagor2005](https://github.com/Belfagor2005)* e da [Buio2005](https://github.com/buio2005)*
