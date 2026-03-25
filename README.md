@@ -1,5 +1,9 @@
 # TivuStreamList
 
+
+![Screenshot](logo-tivustream.jpg)
+
+
 Questo repository contiene playlist M3U generate automaticamente con canali **gratuiti e pubblici**, raccolti da fonti aperte su internet.  
 Non viene fornito alcun canale a pagamento (es. Sky, Netflix, DAZN, ecc.) né contenuti protetti da copyright in violazione di licenze.
 
