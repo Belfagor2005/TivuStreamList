@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.25---[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",[COLOR lime]---LAST UPDATE 26-03-2026 H. 22.52---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="ITALIA",--- ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="ITALIA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.24---[/COLOR]
+#EXTINF:-1 group-title="ITALIA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 22.52---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="ITALIA",7 RadioVisione
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
@@ -474,8 +474,66 @@ http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",RAI 1(mx player)-ott
 http://ott-cdn.ucom.am:80/s29/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="ITALIA",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="ITALIA",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="ITALIA",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="ITALIA",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="ITALIA",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="ITALIA",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="ITALIA",Rai Radio 2
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="ITALIA",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="ITALIA",Rai Yoyo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="ITALIA",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="ITALIA",RaiPlay 3
+https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/playlist_mo.m3u8
+#EXTINF:-1 group-title="ITALIA",27 Twentyseven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Cine 34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",GF Regia 1 Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",GF Regia 2
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
+#EXTINF:-1 group-title="ITALIA",GF Un'ora fa
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b9)/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",La 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Mediaset 20
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Top Crime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.24---[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",[COLOR lime]---LAST UPDATE 26-03-2026 H. 22.52---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",--- SPORT ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
@@ -892,7 +950,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.24---[/COLOR]
+#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 22.52---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS ITALIA",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
@@ -932,7 +990,7 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS INTERNATIONAL",--- NEWS INTERNATIONAL ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.24---[/COLOR]
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 26-03-2026 H. 22.52---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",3CatInfo
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
@@ -1991,7 +2049,7 @@ https://streaming.televizor-24-tochka.ru/live/30.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="MUSICA",--- MUSICA = RADIO TV ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.24---[/COLOR]
+#EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 22.52---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
