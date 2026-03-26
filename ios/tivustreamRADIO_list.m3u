@@ -75,8 +75,6 @@ http://streaming.novaradio.info:8000/
 http://91.121.38.216:8046/
 #EXTINF:-1 group-title="RADIO: ITALIA",PassWordWebRadio
 https://fps2.listen2myradio.com:2199/listen.php?ip=109.169.23.17&port=8539&type=s1
-#EXTINF:-1 group-title="RADIO: ITALIA",Picentia Radio 
-https://tivusto.org/sh/picentiaradio
 #EXTINF:-1 group-title="RADIO: ITALIA",Primaradio Sicilia
 https://onair15.xdevel.com/proxy/primaradio?mp=/;stream/;
 #EXTINF:-1 group-title="RADIO: ITALIA",Punto Radio Veneto

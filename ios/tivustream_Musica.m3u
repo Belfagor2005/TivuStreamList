@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/regioni/musical.png" group-title="Musica",=== Canali Musicali  e (Web Radio)===
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/musical.png" group-title="Musica",=== Canali Musicali  e (Web Radio)===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="Canali Musicali (Web Radio)",---LAST UPDATE 01-02-2026 H. 17.27---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
@@ -51,8 +51,6 @@ https://59d7d6f47d7fc.streamlock.net/jonicaradio/jonicaradio/playlist.m3u8
 https://streamcdnm8-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/lady-radio-tv.jpg" group-title="Canali Musicali (Web Radio)",Lady Radio TV
 https://stream12.xdevel.com/video0s978435-2636/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/mj-radio-tv.png" group-title="Canali Musicali (Web Radio)",MJ Radio TV
-https://tivusto.org/sh/mjradio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/miami-vice-radio-tv.jpg" group-title="Canali Musicali (Web Radio)",Miami Vice Radio Tv
 https://5926fc9c7c5b2.streamlock.net/9326/9326/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/mito-italia-tv.jpg" group-title="Canali Musicali (Web Radio)",Mito Italia Tv 
@@ -159,8 +157,6 @@ https://585b674743bbb.streamlock.net/calimafm/calimafm/playlist.m3u8
 https://samson.streamerr.co:8081/carinatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-casasanremo.png" group-title="Canali Musicali (Web Radio)",Radio CasaSanremo
 https://stream7.xdevel.com/video0s975911-684/stream/chunks_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-centro-musica.png" group-title="Canali Musicali (Web Radio)",Radio Centro Musica 
-https://tivusto.org/sh/radiocentro
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-cittadella.png" group-title="Canali Musicali (Web Radio)",Radio Cittadella
 https://59d7d6f47d7fc.streamlock.net/radiocittadella/radiocittadella/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-core-de-roma-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Core de Roma Tv
@@ -173,16 +169,12 @@ https://stream6.xdevel.com/video0s976486-1271/stream/playlist.m3u8
 https://64b16f23efbee.streamlock.net/radiodoctv/radiodoctv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-empire-taormina.png" group-title="Canali Musicali (Web Radio)",Radio Empire Taormina
 https://5f22d76e220e1.streamlock.net:443/radioempiretv/radioempiretv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-fm-faleria.jpg" group-title="Canali Musicali (Web Radio)",Radio FM Faleria
-https://tivusto.org/sh/radiofmfaleria
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-ferentino.png" group-title="Canali Musicali (Web Radio)",Radio Ferentino
 https://stream10.xdevel.com/video0s977777-2230/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-freccia-tv.png" group-title="Canali Musicali (Web Radio)",Radio Freccia Tv 
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-gs-channel.png" group-title="Canali Musicali (Web Radio)",Radio GS Channel (Retereggio2)
 https://www.radiosaiuz.it/retereggio2.html
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-gioconda.png" group-title="Canali Musicali (Web Radio)",Radio Gioconda
-https://tivusto.org/sh/radiogioconda
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-gold-alessandria.png" group-title="Canali Musicali (Web Radio)",Radio Gold Alessandria
 https://load-balancer.azotosolutions.com/cdnedge5/smil:live5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-ibiza-tv.jpg" group-title="Canali Musicali (Web Radio)",Radio Ibiza Tv
@@ -225,14 +217,8 @@ https://5926fc9c7c5b2.streamlock.net/9318/9318/playlist.m3u8
 https://w1.mediastreaming.it/movidatv/movidatv/chunklist_w621208970.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-ntr-264.png" group-title="Canali Musicali (Web Radio)",Radio N.T.R. 264
 https://primaset.servizistreaming.it/hls/streamingcanale2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-musica-indie.png" group-title="Canali Musicali (Web Radio)",Radio Musica Indie
-https://tivusto.org/sh/radmusindie
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-musica-tutta-unaltra-musica.png" group-title="Canali Musicali (Web Radio)",Radio Musica tutta un'altra musica
-https://tivusto.org/sh/radiomusicatutt
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-nbc-milano-tv.png" group-title="Canali Musicali (Web Radio)",Radio NBC Milano Tv
 http://wz3.newradio.it:1935/9050/9050/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-nettuno-bologna-uno.png" group-title="Canali Musicali (Web Radio)",Radio Nettuno Bologna Uno
-https://tivusto.org/sh/bolognauno
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-norba-tv-unazk28heexd.jpg" group-title="Canali Musicali (Web Radio)",Radio Norba TV
 https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-number-one-tv.png" group-title="Canali Musicali (Web Radio)",Radio Number One Tv

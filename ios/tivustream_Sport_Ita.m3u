@@ -1,90 +1,44 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tivustream.website/logoz/regioni/sport.png" group-title="Canali Sport Italiani",=== Canali Sport Italiani===
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/sport.png" group-title="Canali Sport Italiani",=== Canali Sport Italiani===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="Canali Sport Italiani",---LAST UPDATE 02-12-2025 H. 00.58---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/aci-sport-tv.JPG" group-title="Canali Sport Italiani",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/andrea-liconti.png" group-title="Canali Sport Italiani",Andrea Liconti 
-https://tivusto.org/sh/aliconti
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/lasso-di-roma.jpg" group-title="Canali Sport Italiani",AssodiRoma_Official 
-https://tivusto.org/sh/assodiroma
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/bandw-rally-tv.png" group-title="Canali Sport Italiani",BandW Rally Tv
 https://59d7d6f47d7fc.streamlock.net/bandw/bandw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/bandwtv.jpg" group-title="Canali Sport Italiani",BandW.tv
 https://59d8c0cee6f3d.streamlock.net/bandw/bandw/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/bepitv_1.png" group-title="Canali Sport Italiani",BepiTv_1
-https://tivusto.org/sh/bepitv1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/bike-channel.jpg" group-title="Canali Sport Italiani",Bike Channel
 https://cdn06.milano.nxmedge.net/bikechannel/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/bobotvchannel.png" group-title="Canali Sport Italiani",BoboTvChannel
-https://tivusto.org/sh/bobotv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-crc-tv-targato-italia.jpg" group-title="Canali Sport Italiani",Radio C.R.C. Tv Targato Italia
 https://flash2.xdevel.com/crctv/crctv/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/calciomercatoit.png" group-title="Canali Sport Italiani",CalcioMercato.it
-https://tivusto.org/sh/calciomercatoit
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/calcissimo.png" group-title="Canali Sport Italiani",Calcissimo
-https://tivusto.org/sh/calcissimo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/campione-sport.jpg" group-title="Canali Sport Italiani",Campione Sport 
 https://5f22d76e220e1.streamlock.net/campionesport/campionesport/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/centro-suono-sport-1015-roma.png" group-title="Canali Sport Italiani",Centro Suono Sport 101.5 Roma 
 Centro Suono Sport
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/christian-vieri-official.JPG" group-title="Canali Sport Italiani",Christian Vieri Official 
-https://tivusto.org/sh/christianvieri
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/citta-celeste-tv.jpg" group-title="Canali Sport Italiani",Citta' Celeste Tv
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/controcalcio.png" group-title="Canali Sport Italiani",ControCalcio 
-https://tivusto.org/sh/controcalcio
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/cronache-di-spogliatoio.JPG" group-title="Canali Sport Italiani",Cronache di spogliatoio
-https://tivusto.org/sh/cronachedispogliatoio
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/dam-sport.png" group-title="Canali Sport Italiani",DAM Sport 
-https://tivusto.org/sh/damsport
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/daje-roma-tv.png" group-title="Canali Sport Italiani",Daje Roma Tv 
-https://tivusto.org/sh/dajeroma
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/domusbet-tv.png" group-title="Canali Sport Italiani",DomusBet Tv
 https://nrvideo1.newradio.it:1936/jsudrgxbnb/jsudrgxbnb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/en3rix.png" group-title="Canali Sport Italiani",En3rix
-https://tivusto.org/sh/enrix
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/fabrizio-cerrone.png" group-title="Canali Sport Italiani",Fabrizio Cerrone
-https://tivusto.org/sh/fcerrone
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/fantacalcio.JPG" group-title="Canali Sport Italiani",Fantacalcio
-https://tivusto.org/sh/fantacalcio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/giocabet-tv.jpg" group-title="Canali Sport Italiani",GiocaBet Tv
 https://live1.giocabet.tv/stream/1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/giornale-radio-tv-sport.png" group-title="Canali Sport Italiani",Giornale Radio Tv Sport
 https://5e73cf528f404.streamlock.net/GR_sport/livestream/chunklist_w1501899689.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/go-tv.png" group-title="Canali Sport Italiani",Go-Tv
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/goalitalia.jpg" group-title="Canali Sport Italiani",GoalItalia
-https://tivusto.org/sh/goalitalia
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/il-napulegno.png" group-title="Canali Sport Italiani",Il Napulegno
-https://tivusto.org/sh/napulegno
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/il-bello-del-calcio.jpg" group-title="Canali Sport Italiani",Il bello del Calcio 
-https://tivusto.org/sh/belcalcio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/italian-horse-tv.jpg" group-title="Canali Sport Italiani",Italian Horse TV
 https://horsetv.aswifi.it/horsetv/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/juventibus.png" group-title="Canali Sport Italiani",Juventibus
-https://tivusto.org/sh/juventibus
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/la-voce-nerazzurra-dopo-ore-21-a-giorni-alterni.png" group-title="Canali Sport Italiani",La Voce Nerazzurra (dopo ore 21 a giorni alterni)
 https://tivustream.website/urls/lavocenerazzurra
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/la-voce-di-dajeale.png" group-title="Canali Sport Italiani",La voce di DajeAle 
-https://tivusto.org/sh/dajeale
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/ms-channel.JPG" group-title="Canali Sport Italiani",MS Channel
 https://96vd9q7ryxq7-hls-live.mariatvcdn.it/ms/ea0e4a77baa23e917acaf517042ac7d8.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/ms-motors-tv.JPG" group-title="Canali Sport Italiani",MS Motors Tv
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/media-sport-tv.png" group-title="Canali Sport Italiani",Media Sport Tv
-https://tivusto.org/sh/medsport
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/motori-tv.png" group-title="Canali Sport Italiani",Motori Tv
 https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/motorsport-tv.png" group-title="Canali Sport Italiani",Motorsport Tv
 https://stream10.xdevel.com/video7s977812-2253/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/napolità.png" group-title="Canali Sport Italiani",Napolità 
-https://tivusto.org/sh/napolita
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/ocw-sport.png" group-title="Canali Sport Italiani",OCW Sport
-https://tivusto.org/sh/ocwsport
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/operwrestling-tv.png" group-title="Canali Sport Italiani",OperWrestling TV
-https://tivusto.org/sh/openwrestling
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/plus-tv-motori.jpg" group-title="Canali Sport Italiani",Plus+ Tv Motori
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/plus-tv-sport.png" group-title="Canali Sport Italiani",Plus+ Tv Sport
@@ -97,32 +51,18 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunk
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-firenze-viola.jpg" group-title="Canali Sport Italiani",Radio Firenze Viola
 https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-laziale-tv.jpeg" group-title="Canali Sport Italiani",Radio Laziale Tv
-https://tivusto.org/sh/radlaziale
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-napoli-centrale.jpg" group-title="Canali Sport Italiani",Radio Napoli Centrale 
-https://tivusto.org/sh/radionapolicentrale
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-sei-roma.png" group-title="Canali Sport Italiani",Radio Sei Roma
-https://tivusto.org/sh/radioseiroma
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-tv-serie-a.jpg" group-title="Canali Sport Italiani",Radio TV Serie A
 https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/radio-tutto-napoli.png" group-title="Canali Sport Italiani ",Radio Tutto Napoli 
 https://tmw.fluid.stream/rtn_tv/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/rai-sport-hd.png" group-title="Canali Sport Italiani",Rai Sport + Hd
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/rete-sport-roma.png" group-title="Canali Sport Italiani",ReteSport Tv
-https://tivusto.org/sh/retesportroma
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/rete8-sport.jpg" group-title="Canali Sport Italiani",Rete8 Sport 
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/sosfantalive.JPG" group-title="Canali Sport Italiani",SOSFantaLive
-https://tivusto.org/sh/sosfantalive
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/si-gonfia-la-rete.png" group-title="Canali Sport Italiani",Si Gonfia la Rete 
-https://tivusto.org/sh/gonfiarete
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/sport-outdoor-tv.png" group-title="Canali Sport Italiani",Sport Outdoor Tv
 https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/sport-tv-pistoia.png" group-title="Canali Sport Italiani",Sport Tv Pistoia
 http://live.mariatvcdn.com/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/sportchannelnews-214.jpg" group-title="Canali Sport Italiani",SportChannelNews 214
-https://tivusto.org/sh/sportchan
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/sportitalia-24-live.jpg" group-title="Canali Sport Italiani",SportItalia 24 LIVE
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/sportitalia.png" group-title="Canali Sport Italiani",SportItalia HD Plus
@@ -135,24 +75,14 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/tele-radio-stereo.jpg" group-title="Canali Sport Italiani",Tele Radio Stereo
 https://odmsto.com/returned/teleradiostereo-manifest.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/telecapri-15.png" group-title="Canali Sport Italiani",TeleCapri 15 
-https://tivusto.org/sh/telcapri15
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/teleclubitalia.jpg" group-title="Canali Sport Italiani",TeleClubItalia 
 https://teleclubitalia.iostream.it/teleclubitalia.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/tuttonapoli.png" group-title="Canali Sport Italiani",TuttoNapoli
-https://tivusto.org/sh/tuttonapoli
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/un-angolo-sul-calcio.png" group-title="Canali Sport Italiani",Un Angolo sul calcio 
-https://tivusto.org/sh/angolocalcio
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/uniretv-blu.jpg" group-title="Canali Sport Italiani",UnireTV Blu (test)
 https://ippicabetflag-live.morescreens.com/IPPICA_1_003/304p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/uniretv-grigio.jpg" group-title="Canali Sport Italiani",UnireTV Grigio (test)
 https://ippicabetflag-live.morescreens.com/IPPICA_1_001/304p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/uniretv-verde.link" group-title="Canali Sport Italiani",UnireTV Verde (test)
 https://ippicabetflag-live.morescreens.com/IPPICA_1_002/304p.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/vivaelfutbol.png" group-title="Canali Sport Italiani",VivaelFutbol
-https://tivusto.org/sh/vivaelfubol
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/ilpengwin.JPG" group-title="Canali Sport Italiani",ilpengwin
-https://tivusto.org/sh/ilpengwin
 #EXTINF:-1 tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c78ebf2a-cb07-4a00-8129-acdb2d0a73c9" group-title="Canali Sport Internazionali Free",=== Canali Sport Internazionali Free===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-id="6675bc9450bec7ad1dd144e8" tvg-name="6675bc9450bec7ad1dd144e8" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/c78ebf2a-cb07-4a00-8129-acdb2d0a73c9" group-title="Canali Sport Internazionali Free" tvg-chno="3", Court Sports Network

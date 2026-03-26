@@ -231,8 +231,6 @@ https://nrvideo1.newradio.it:1936/jsudrgxbnb/jsudrgxbnb/playlist.m3u8
 https://live1.giocabet.tv/stream/1/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Go-Tv
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Media Sport Tv
-https://tivusto.org/sh/medsport
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Motori Tv
 https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Plus+ Tv Sport
@@ -241,10 +239,6 @@ https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Radio Firenze Viola
 https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Radio Laziale Tv
-https://tivusto.org/sh/radlaziale
-#EXTINF:-1 tvg-logo="" group-title="SPORT",Radio Sei Roma
-https://tivusto.org/sh/radioseiroma
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Radio Tutto Napoli
 https://tmw.fluid.stream/rtn_tv/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Rete8 Sport
