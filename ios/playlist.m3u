@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",[COLOR lime]---LAST UPDATE 26-03-2026 H. 15.44---[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.25---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="ITALIA",--- ITALIA ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
-#EXTINF:-1 group-title="ITALIA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 15.42---[/COLOR]
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 group-title="ITALIA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.24---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="ITALIA",7 RadioVisione
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
@@ -314,9 +314,169 @@ https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Yu-Gi-Oh! Italy
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Byoblu -Davvero Tv
+https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/chunklist_b5256000.m3u8
+#EXTINF:-1 group-title="ITALIA",Nuova TV Nazionale ( NTN )
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Canale 10
+http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Canale 21 Extra
+https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",CANALE 7
+http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Canale 7
+http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",CANALE 8
+http://wms.shared.streamshow.it/canale8/mp4:canale8/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Canale 8
+http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Casa Italia 53
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Cusano Italia TV
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Euro Indie Music Chart TV
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Italia 2 TV
+http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Lazio TV
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Le Cronache TV
+http://77.68.40.210:8888/hls/cronache.m3u8
+#EXTINF:-1 group-title="ITALIA",MediterraniaTV
+https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",NTN
+https://stream4.xdevel.com/video0s975955-782/stream/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Padre Pio TV
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Paradise TV
+https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Radio 51 TV
+http://178.32.140.155/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Radio Iglesias
+http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",RAI 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Rai 5
+http://78.130.250.2:8023/play/a04o/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Rai Gulp
+http://78.130.250.2:8023/play/a04m/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Rai News 24
+http://78.130.250.2:8023/play/a04l/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Rai Scuola
+http://78.130.250.2:8023/play/a04h/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Rai Yoyo
+http://78.130.250.2:8023/play/a04d/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Rete 55
+https://stream.internet.one/Rete55_Live/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Retemia
+https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",SL48 TV
+http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Sportitalia Solocalcio
+https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Super TV Brescia
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 group-title="ITALIA",Super TV Oristano
+http://193.70.81.40:1935/supertvoristano/supertvoristano/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",T9
+https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Tele Abruzzo
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Tele Pavia
+http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Tele Sondrio News
+https://59d8c0cee6f3d.streamlock.net/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",TeleCampione
+https://5f22d76e220e1.streamlock.net/telecampione/telecampione/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Telechiara
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Telemolise
+http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",telePAVIA
+http://wms.shared.streamshow.it/telepavia/mp4:telepavia/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",TeleTusciaSabina 2000
+http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",TV 2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+#EXTINF:-1 group-title="ITALIA",tv9 Telemaremma
+https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
+#EXTINF:-1 group-title="ITALIA",TVA (Vicenza)
+http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Visual Radio
+http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+#EXTINF:-1 group-title="ITALIA",RDS Social TV
+https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Radio 51
+https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Radio 80 - Rovereto (TN)
+https://585b674743bbb.streamlock.net/9076/9076/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Stereo 5 TV ITA
+https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Studio 100
+https://59d8c0cee6f3d.streamlock.net/studio100ta/studio100ta/index.m3u8
+#EXTINF:-1 group-title="ITALIA",TR24
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",TV7 Benevento
+http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Uninettuno
+https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",CafeTV24 Veneto
+https://srvx1.selftv.video/cafe/live/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",Canale 7 Puglia
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+#EXTINF:-1 group-title="ITALIA",Canale 8 Campania
+http://wms.shared.streamshow.it:80/canale8/canale8/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Castrovillari TV
+rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
+#EXTINF:-1 group-title="ITALIA",Eden 86 TV
+http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Esperia TV Calabria
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",Icaro TV Rimini
+https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",La Nuova TV Potenza
+http://162.244.81.145:1962/live/livestream/chunklist_w532094535.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",Onda TV Sicilia
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",Orler TV Favaro Veneto
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",Radio Piterpan
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",Radionorba TV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Rai Sudtirol
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Reteconomy
+http://streaming.reteconomy.it/live/reteconomy/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",RTP Sicilia
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",Siciliamedia TV
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",TeleArena Verona
+http://wma07.fluidstream.net:1935/TeleArena/livestream/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",TeleChiara Vicenza
+http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Telequattro Friuli
+http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w352656972.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",TeleRama Lecce
+https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",TeleRomagna24
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",TeleRomagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Teletricolore Reggio
+https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",TRC Modena
+http://o1.senape.tv:1935/webtv_live/_definst_/VC3TCRHI9LNP/playlist.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="ITALIA",Trentino TV
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+#EXTINF:-1 group-title="ITALIA",RTP Italia
+https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",RAI 1(mx player)-ott
+http://ott-cdn.ucom.am:80/s29/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",[COLOR lime]---LAST UPDATE 26-03-2026 H. 15.42---[/COLOR]
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.24---[/COLOR]
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",--- SPORT ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORT",30A Golf Kingdom
@@ -731,8 +891,8 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
-#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 15.42---[/COLOR]
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.24---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS ITALIA",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
@@ -771,8 +931,8 @@ https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index
 #EXTINF:-1 group-title="NEWS ITALIA",Tgcom24
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS INTERNATIONAL",--- NEWS INTERNATIONAL ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 26-03-2026 H. 15.42---[/COLOR]
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.24---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",3CatInfo
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
@@ -1830,8 +1990,8 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 https://streaming.televizor-24-tochka.ru/live/30.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="MUSICA",--- MUSICA = RADIO TV ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
-#EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 15.42---[/COLOR]
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 21.24---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
