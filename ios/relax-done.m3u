@@ -1,0 +1,59 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="--- LOOK AND RELAX ---"group-title="LOOK AND RELAX",--- LOOK AND RELAX ---
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="RELAX: Camino"group-title="LOOK AND RELAX",RELAX: Caminohttp://a.jsrdn.com/broadcast/aee08372e5/+0000/high/c.m3u8#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="RELAX: Acquario"group-title="LOOK AND RELAX",RELAX: Acquariohttp://a.jsrdn.com/broadcast/8b43a16c1e/+0000/mid/c.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="RELAX: Thunderstorms"group-title="LOOK AND RELAX",RELAX: Thunderstormshttp://a.jsrdn.com/broadcast/18b42f9aef/+0000/mid/c.m3u8#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="RELAX: Island Escape"group-title="LOOK AND RELAX",RELAX: Island Escapehttp://a.jsrdn.com/broadcast/41e3e6703e/+0000/mid/c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gmrVKEC.jpg" tvg-name="RELAX: Island Escape" group-title="LOOK AND RELAX",RELAX: Better Life Nature Channel (480p)
+https://tgn.bozztv.com/betterlife/betternature/betternature/index.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="RELAX: Island Escape" group-title="LOOK AND RELAX",RELAX: Island Escape
+https://dai.google.com/linear/hls/event/IpUm6gZ6Tz-pEotpMRsZ4w/master.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="RELAX: Island Escape" group-title="LOOK AND RELAX",RELAX: Local Now ZEN TV
+https://ln-zen.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_5fd8fd0625dd2a6b74008872_ln-zen/playlist.m3u8
+#EXTINF:-1 tvg-logo="" tvg-name="RELAX: Island Escape" group-title="LOOK AND RELAX",RELAX: Relax
+http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8?cur=tva.org.ua&key=3i277
+#EXTINF:-1 tvg-logo="" tvg-name="RELAX: Island Escape" group-title="LOOK AND RELAX",RELAX: RELAXON
+http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Fruit Feeder"group-title="LOOK AND RELAX",Fruit Feederhttps://outbound-production.explore.org/stream-production-127/.m3u8#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Hummingbird Trees"group-title="LOOK AND RELAX",Hummingbird Treeshttps://outbound-production.explore.org/stream-production-209/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Hummingbird Feeder"group-title="LOOK AND RELAX",Hummingbird Feeder
+https://outbound-production.explore.org/stream-production-189/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Tau Waterhole"group-title="LOOK AND RELAX",Tau Waterhole
+https://outbound-production.explore.org/stream-production-317/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Bush Lodge"group-title="LOOK AND RELAX",Bush Lodge
+https://outbound-production.explore.org/stream-production-276/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Tembe"group-title="LOOK AND RELAX",Tembe
+https://outbound-production.explore.org/stream-production-110/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Rosies Pan"group-title="LOOK AND RELAX",Rosies Pan
+https://outbound-production.explore.org/stream-production-108/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Honey Bees"group-title="LOOK AND RELAX",Honey Bees
+https://outbound-production.explore.org/stream-production-207/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Penguin Beach"group-title="LOOK AND RELAX",Penguin Beach
+https://outbound-production.explore.org/stream-production-14/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Penguins"group-title="LOOK AND RELAX",Penguins
+https://outbound-production.explore.org/stream-production-13/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Tropical Fish"group-title="LOOK AND RELAX",Tropical Fish
+https://outbound-production.explore.org/stream-production-16/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Tropical Aquarium"group-title="LOOK AND RELAX",Tropical Aquarium
+https://outbound-production.explore.org/stream-production-10/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Shark Aquarium"group-title="LOOK AND RELAX",Shark Aquarium
+https://outbound-production.explore.org/stream-production-12/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Homosassa Springs"group-title="LOOK AND RELAX",Homosassa Springs
+https://outbound-production.explore.org/stream-production-319/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Orcas"group-title="LOOK AND RELAX",Orcas
+https://outbound-production.explore.org/stream-production-95/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Underwater Manatee"group-title="LOOK AND RELAX",Underwater Manatee
+https://outbound-production.explore.org/stream-production-162/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Underwater Coral"group-title="LOOK AND RELAX",Underwater Coral
+https://outbound-production.explore.org/stream-production-105/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Kelp Forest"group-title="LOOK AND RELAX",Kelp Forest
+https://outbound-production.explore.org/stream-production-70/.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="RELAX: Beach TV"group-title="LOOK AND RELAX",RELAX: Beach TV
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Brazil: Rio"group-title="LOOK AND RELAX",Brazil: Rio
+http://189.90.46.138:80/mirante_rio_01/index.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Brazil: Rio (Copacabana Beach)"group-title="LOOK AND RELAX",Brazil: Rio (Copacabana Beach)
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/6593/2017/10/01/1300.mp4/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Canada: Charlottetown"group-title="LOOK AND RELAX",Canada: Charlottetown
+http://media.gpei.ca/islandcam/guild.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="Canada: Toronto (Niagara Falls 1)"group-title="LOOK AND RELAX",Canada: Toronto (Niagara Falls 1)
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/4559/2019/08/11/1300.mp4/chunklist_w1595912559.m3u8
+#EXTINF:-1 tvg-id="EPG N/A" tvg-logo="https://poster.keepcalmandposters.com/default/5735599_keep_calm_and_relax.jpg" tvg-name="France: Biarritz (Esplanade du Rocher de la Vierge)"group-title="LOOK AND RELAX",France: Biarritz (Esplanade du Rocher de la Vierge)
+https://5c8a7c996322e.streamlock.net/live/AquariumBiarritz-RocherdelaVierge-1080p/chunklist_w1767223388.m3u8
