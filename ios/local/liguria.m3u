@@ -1,23 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="Liguria",=== Liguria===
+#EXTINF:-1,=== Liguria===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/111-tv.png" group-title="Liguria",111 Tv
-https://5db313b643fd8.streamlock.net/111TV/111TV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/entella-tv.png" group-title="Liguria",Entella Tv
+#EXTINF:-1,Entella Tv
 https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/chunklist_w217528347.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/entella-tv.png" group-title="Liguria",Entella TV (720p) [Not 24/7]
+#EXTINF:-1,Entella TV (720p) [Not 24/7]
 https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/new-signal-tv-genova.jpg" group-title="Liguria",New Signal Tv Genova
-https://5f22d76e220e1.streamlock.net/NewSignalTV/NewSignalTV/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/primocanale-zzm5kzrefx8u.png" group-title="Liguria",Primocanale
+#EXTINF:-1,Primocanale
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-liguria-sud.png" group-title="Liguria",Tele Liguria Sud
-https://live.teleliguriasud.it/hls/tls/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telegenova.png" group-title="Liguria",TeleGenova
-https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telenord.png" group-title="Liguria",Telenord
+#EXTINF:-1,Telenord
 https://5f22d76e220e1.streamlock.net:443/telenord/telenord/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telenord.png" group-title="Liguria",Telenord
-https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/welcome-liguria.png" group-title="Liguria",Welcome Liguria
+#EXTINF:-1,Welcome Liguria
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8

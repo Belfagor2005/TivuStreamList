@@ -1,13 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="Sardegna",=== Sardegna===
+#EXTINF:-1,=== Sardegna===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/canale-40.png" group-title="Sardegna",Canale 40
-https://video2.azotosolutions.com:1936/canale40/canale40/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/galluralive.png" group-title="Sardegna",Galluralive
-https://5f22d76e220e1.streamlock.net/galluralive/galluralive/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/sardegna1.png" group-title="Sardegna",Sardegna1
-https://ctr-10075-eu-it.dailymotion-live-hls-2.qwilted-cds.cqloud.com/sec(OZ0ERGOH4oE-_Xr-zBQ5vz6s2wOo_HespGuozMcMRPU)/dm/3/x893du6/d/live-2.m3u8#cell=qlit1
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/super-tv-oristano.png" group-title="Sardegna",Super TV Oristano
+#EXTINF:-1,Super TV Oristano
 https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/chunklist_w370669592.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-radio-maristella.jpg" group-title="Sardegna",Tele Radio Maristella
-https://cp1.server89.com:19360/telsar/telsar.m3u8

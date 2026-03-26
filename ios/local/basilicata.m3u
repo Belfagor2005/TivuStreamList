@@ -1,13 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="Basilicata",=== Basilicata===
+#EXTINF:-1,=== Basilicata===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/carina-tv.jpg" group-title="Basilicata",Carina TV
-http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/la-nuova-tv.jpeg" group-title="Basilicata",La Nuova Tv
+#EXTINF:-1,La Nuova Tv
 https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/lucania-tv.png" group-title="Basilicata",Lucania TV
-http://wms.shared.streamshow.it:80/lucaniatv/lucaniatv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/set-tv-cilento.png" group-title="Basilicata",Set Tv Cilento
+#EXTINF:-1,Set Tv Cilento
 https://stream1.aswifi.it/settv/live/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/trm-h24.png" group-title="Basilicata",Trm H24
-http://w1.streamingmedia.it:1935/trmh24/live/playlist.m3u8
