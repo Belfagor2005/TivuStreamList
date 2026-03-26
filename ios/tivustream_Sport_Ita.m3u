@@ -1,7 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",[COLOR lime]---LAST UPDATE 26-03-2026 H. 12.52---[/COLOR]
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/sport.png" group-title="Canali Sport Italiani",=== Canali Sport Italiani===
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="Canali Sport Italiani",---LAST UPDATE 02-12-2025 H. 00.58---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/aci-sport-tv.JPG" group-title="Canali Sport Italiani",ACI Sport Tv
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
@@ -15,8 +15,6 @@ https://cdn06.milano.nxmedge.net/bikechannel/video.m3u8
 https://flash2.xdevel.com/crctv/crctv/manifest.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/campione-sport.jpg" group-title="Canali Sport Italiani",Campione Sport 
 https://5f22d76e220e1.streamlock.net/campionesport/campionesport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/centro-suono-sport-1015-roma.png" group-title="Canali Sport Italiani",Centro Suono Sport 101.5 Roma 
-Centro Suono Sport
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/citta-celeste-tv.jpg" group-title="Canali Sport Italiani",Citta' Celeste Tv
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sm/domusbet-tv.png" group-title="Canali Sport Italiani",DomusBet Tv
