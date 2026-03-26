@@ -1,47 +1,47 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="Lazio",=== Lazio===
 http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-10.png" group-title="Lazio",Canale 10
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/canale-10.png" group-title="Lazio",Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-16.png" group-title="Lazio",Canale 16
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/canale-16.png" group-title="Lazio",Canale 16
 https://streaming.softwarecreation.it/Canale16/Canale16/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-18.png" group-title="Lazio",Canale 18 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/canale-18.png" group-title="Lazio",Canale 18 
 https://streaming.softwarecreation.it/Canale18/Canale18/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale21-extra.png" group-title="Lazio",Canale21 Extra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/canale21-extra.png" group-title="Lazio",Canale21 Extra
 https://stream.mariatvcdn.com/canaleventunodue/61d14e72c90980498c9d7cee64fde847.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/cittaceleste-tv.png" group-title="Lazio",CittaCeleste TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/cittaceleste-tv.png" group-title="Lazio",CittaCeleste TV
 https://www.dailymotion.com/video/x15ngku
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/gold-tv-roma.png" group-title="Lazio",Gold TV Roma
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/gold-tv-roma.png" group-title="Lazio",Gold TV Roma
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/laziotv.png" group-title="Lazio",LazioTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/laziotv.png" group-title="Lazio",LazioTV
 http://151.0.207.99:1935/live/LAZIOTV12/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/odeon-24.png" group-title="Lazio",Odeon 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/odeon-24.png" group-title="Lazio",Odeon 24
 https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-oro.png" group-title="Lazio",Rete Oro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/rete-oro.png" group-title="Lazio",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-sole-lazio.png" group-title="Lazio",Rete Sole (Lazio)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/rete-sole-lazio.png" group-title="Lazio",Rete Sole (Lazio)
 http://5c389faa13be3.streamlock.net:1935/8056/8056/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/roma-71.png" group-title="Lazio",Roma 71 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/roma-71.png" group-title="Lazio",Roma 71 
 https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/sl-48.jpg" group-title="Lazio",SL 48 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/sl-48.jpg" group-title="Lazio",SL 48 
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/t9.png" group-title="Lazio",T9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/t9.png" group-title="Lazio",T9
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/trc-telecivitavecchia.png" group-title="Lazio",TRC TeleCivitavecchia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/trc-telecivitavecchia.png" group-title="Lazio",TRC TeleCivitavecchia
 https://tivustream.website/urls/trctelecivitavecchia
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-lazio-nord.png" group-title="Lazio",Tele Lazio Nord
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-lazio-nord.png" group-title="Lazio",Tele Lazio Nord
 http://145.239.199.155:8081/tln/regia_viterbo/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-roma-1-teleromauno.png" group-title="Lazio",Tele Roma 1 (TeleRomaUno)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-roma-1-teleromauno.png" group-title="Lazio",Tele Roma 1 (TeleRomaUno)
 https://stream9.xdevel.com/video0s976607-1377/stream/playlist_dvr.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teletibur.png" group-title="Lazio",TeleTibur
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/teletibur.png" group-title="Lazio",TeleTibur
 https://57068da1deb21.streamlock.net/teletibur/teletibur/chunklist_w1505891546.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telegolfo-rtg.png" group-title="Lazio",Telegolfo RTG
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telegolfo-rtg.png" group-title="Lazio",Telegolfo RTG
 https://585b674743bbb.streamlock.net/9058/9058/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telesirio-9zgnte4q0at8.png" group-title="Lazio",Telesirio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telesirio-9zgnte4q0at8.png" group-title="Lazio",Telesirio
 https://www.telesirio.it/live/stream.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleuniverso-mb4w8ab4fxik.png" group-title="Lazio",Teleuniverso
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/teleuniverso-mb4w8ab4fxik.png" group-title="Lazio",Teleuniverso
 https://media.velcom.it:19360/teleuniverso/teleuniverso.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tevere-tv.png" group-title="Lazio",Tevere TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tevere-tv.png" group-title="Lazio",Tevere TV
 https://5926fc9c7c5b2.streamlock.net/9098/9098/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tuscia-sabina-2000.png" group-title="Lazio",Tuscia Sabina 2000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tuscia-sabina-2000.png" group-title="Lazio",Tuscia Sabina 2000
 https://streaming.ts2000tv.it:30443/ts2000tv/ts2000tv/playlist.m3u8

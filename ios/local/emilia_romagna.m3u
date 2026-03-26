@@ -1,43 +1,41 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="Emilia Romagna",=== Emilia Romagna===
 http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/12-tv-parma.png" group-title="Emilia Romagna",12 Tv Parma
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/12-tv-parma.png" group-title="Emilia Romagna",12 Tv Parma
 https://meridelive01-lh.akamaihd.net/i/tvparma_1@356964/master.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/di-tv.png" group-title="Emilia Romagna",DI-TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/di-tv.png" group-title="Emilia Romagna",DI-TV
 http://163.172.88.73:1935/di_tv_90/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/etv-rete7.png" group-title="Emilia Romagna",ETV Rete7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/etv-rete7.png" group-title="Emilia Romagna",ETV Rete7
 https://live.ipstream.it/etv/etv.stream/chunklist_w802107428.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/icaro-tv.png" group-title="Emilia Romagna",Icaro Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/icaro-tv.png" group-title="Emilia Romagna",Icaro Tv
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/lepida-tv.png" group-title="Emilia Romagna",Lepida Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/lepida-tv.png" group-title="Emilia Romagna",Lepida Tv
 https://tivustream.website/urls/lepidatv
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/madeinbo-radio-tv.JPG" group-title="Emilia Romagna",MadeinBO Radio Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/madeinbo-radio-tv.JPG" group-title="Emilia Romagna",MadeinBO Radio Tv
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/one-tv-emila.png" group-title="Emilia Romagna",One Tv Emila
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/one-tv-emila.png" group-title="Emilia Romagna",One Tv Emila
 https://5db313b643fd8.streamlock.net:443/OneTvEmilia/OneTvEmilia/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rta-videotaro.jpg" group-title="Emilia Romagna",RTA Videotaro
-https://tivusto.org/sh/rtavideotaro
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-8-vga.jpg" group-title="Emilia Romagna",Rete 8 Vga
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/rete-8-vga.jpg" group-title="Emilia Romagna",Rete 8 Vga
 https://604e46ac2bdee.streamlock.net:1936/rete8_1/rete8_1/chunklist_w1253716399.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-liberta-hd.png" group-title="Emilia Romagna",Tele Liberta' HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-liberta-hd.png" group-title="Emilia Romagna",Tele Liberta' HD
 https://vod.livestream.com/5eca3caf_3270ef03d75cf2c55156da20a47acef133afa5cc/events/00000000004acd52/0433fa94-ac2b-4635-8567-ba6c37a475ee_446.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-romagna-24.jpg" group-title="Emilia Romagna",Tele Romagna 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-romagna-24.jpg" group-title="Emilia Romagna",Tele Romagna 24
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-romagna-mia.png" group-title="Emilia Romagna",Tele Romagna Mia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-romagna-mia.png" group-title="Emilia Romagna",Tele Romagna Mia
 http://livetr.teleromagna.it/news/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-tricolore.png" group-title="Emilia Romagna",Tele Tricolore
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-tricolore.png" group-title="Emilia Romagna",Tele Tricolore
 https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleromagna.png" group-title="Emilia Romagna",TeleRomagna
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/teleromagna.png" group-title="Emilia Romagna",TeleRomagna
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telelibertà-piacenza.jpg" group-title="Emilia Romagna",Telelibertà ( Piacenza )
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telelibertà-piacenza.jpg" group-title="Emilia Romagna",Telelibertà ( Piacenza )
 https://livestream.com/accounts/17114188/events/4902226/player
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telesanterno.jpg" group-title="Emilia Romagna",Telesanterno
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telesanterno.jpg" group-title="Emilia Romagna",Telesanterno
 https://5929b138b139d.streamlock.net/telesanterno/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/telestense.png" group-title="Emilia Romagna",Telestense
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telestense.png" group-title="Emilia Romagna",Telestense
 https://5e73cf528f404.streamlock.net/TeleEstense/livestream/chunklist_w530758405.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teletricolore.png" group-title="Emilia Romagna",Teletricolore
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/teletricolore.png" group-title="Emilia Romagna",Teletricolore
 http://api.new.livestream.com/accounts/701633/events/4147166/live.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tv-qui-modena.png" group-title="Emilia Romagna",Tv Qui Modena
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tv-qui-modena.png" group-title="Emilia Romagna",Tv Qui Modena
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tvb-studio-85.png" group-title="Emilia Romagna",Tvb Studio 85
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tvb-studio-85.png" group-title="Emilia Romagna",Tvb Studio 85
 https://5f22d76e220e1.streamlock.net/Tvbstudio85/Tvbstudio85/playlist.m3u8
