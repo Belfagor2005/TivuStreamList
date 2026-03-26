@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="Piemonte",=== Piemonte===
-http://patbuweb.com/iptv/e2liste/startend.avi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/blu-radio-arona.jpg" group-title="Piemonte",Blu Radio Arona 
-https://tivustream.website/urls/bluradio
+https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/grp-televisione.jpg" group-title="Piemonte",GRP Televisione
 https://5cbd3bc28341f.streamlock.net:444/grp/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/primantenna.png" group-title="Piemonte",Primantenna
@@ -17,8 +15,6 @@ http://live.livevideosolution.it/telecupole/dd6d85e5b7452f7b85a099509292b421.sdp
 https://ed06.top-ix.org/avtvlive/teleritmo/streaming/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telegranda.png" group-title="Piemonte",Telegranda
 http://live.sloode.com:1935/telegranda_live/C2AD-0664-DC75-4744/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telesettelaghi.png" group-title="Piemonte",Telesettelaghi
-https://tivustream.website/urls/tele7laghi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/vco-azzurra-tv.png" group-title="Piemonte",VCO Azzurra TV
 https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/video-novara.png" group-title="Piemonte",Video Novara

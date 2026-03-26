@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="Sicilia",=== Sicilia===
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/alpa-uno.png" group-title="Sicilia",Alpa uno
 https://5cbd3bc28341f.streamlock.net:444/alpauno/alpauno/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/antenna-sicilia.png" group-title="Sicilia",Antenna Sicilia
@@ -73,6 +73,8 @@ https://stream9.xdevel.com/video0s976532-1292/stream/playlist.m3u8
 https://5cbd3bc28341f.streamlock.net:444/mediaone_live/teleone/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-radio-monte-kronio-sciacca-rmk-tv.png" group-title="Sicilia",Tele Radio Monte Kronio Sciacca (RMK TV)
 http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/chunklist_w758377964.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-radio-monte-kronio-sciacca-rmk-tv.png" group-title="Sicilia",Tele Radio Monte Kronio Sciacca (RMK TV)
+http://vod1.kronopress.com:1935/tmk_live/5123-CA5C-9EBE-428A/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-radio-sciacca.png" group-title="Sicilia",Tele Radio Sciacca
 https://5cbd3bc28341f.streamlock.net:444/trs_live/teleradiosciacca-tv/chunklist_w1663836028.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-spazio-messina.png" group-title="Sicilia",Tele Spazio Messina
@@ -97,6 +99,8 @@ https://telejato.liberotratto.com/hls/0/stream.m3u8
 https://stream4.xdevel.com/video0s86-1158/stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telesud3-trapani.png" group-title="Sicilia",Telesud3 Trapani
 https://5cbd3bc28341f.streamlock.net:444/telesud/_definst_/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/telesud3-trapani.png" group-title="Sicilia",Telesud3 Trapani
+http://5cbd3bc28341f.streamlock.net:1935/telesud/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/televallo.jpg" group-title="Sicilia",Televallo
 https://5cbd3bc28341f.streamlock.net:444/televallo/live/chunklist_w459667047.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tremedia-tv.jpg" group-title="Sicilia",Tremedia Tv

@@ -1,8 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="Lazio",=== Lazio===
-http://patbuweb.com/iptv/e2liste/startend.avi
+https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/canale-10.png" group-title="Lazio",Canale 10
 http://37.187.142.147:1935/ch10live/high.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/canale-10.png" group-title="Lazio",Canale 10 Ostia (540p) [Not 24/7]
+http://canale10.cloud:1935/ch10live/high.stream/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/canale-16.png" group-title="Lazio",Canale 16
 https://streaming.softwarecreation.it/Canale16/Canale16/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/canale-18.png" group-title="Lazio",Canale 18 
@@ -27,8 +29,6 @@ https://streaming.softwarecreation.it/RomaCH71/RomaCH71/playlist.m3u8
 http://media.velcom.it:1935/sl48/sl48/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/t9.png" group-title="Lazio",T9
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/trc-telecivitavecchia.png" group-title="Lazio",TRC TeleCivitavecchia
-https://tivustream.website/urls/trctelecivitavecchia
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-lazio-nord.png" group-title="Lazio",Tele Lazio Nord
 http://145.239.199.155:8081/tln/regia_viterbo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/tele-roma-1-teleromauno.png" group-title="Lazio",Tele Roma 1 (TeleRomaUno)
