@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
-#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 13.17---[/COLOR]
+#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 26-03-2026 H. 15.23---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS ITALIA",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
@@ -19,9 +19,29 @@ https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/p
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",Telegela 647
 https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Cusano Italia Tv
+https://stream9.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Cusano News 7
+https://stream2.xdevel.com/video1s975363-2103/stream/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Finanza Now
+https://5ecf54a359075.streamlock.net:443/Finanzanow2/Finanzanow2/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Giornale Radio Tv
+https://5f204aff97bee.streamlock.net/GR_tv/livestream/chunklist_w1593681155.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Obiettivo News (ON Tv)
+https://load-balancer.azotosolutions.com/cdnedge7/smil:live7.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Per Sempre News
+https://rst2.saiuzwebnetwork.it:8081/persemprenews/index.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Qui Radio Londra Tv
+https://load-balancer.azotosolutions.com/cdnedge6/smil:live6.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Senato Tv
+https://senato-live.morescreens.com/SENATO_1_001/1080p/chunklist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",TG COM 24
+https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Tgcom24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS INTERNATIONAL",--- NEWS INTERNATIONAL ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 26-03-2026 H. 13.17---[/COLOR]
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 26-03-2026 H. 15.23---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",3CatInfo
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
