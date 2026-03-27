@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="MUSICA",--- MUSICA = RADIO TV ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 27-03-2026 H. 18.13---[/COLOR]
+#EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 27-03-2026 H. 18.32---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
@@ -886,7 +886,7 @@ https://bbtv.intvstream.net:3942/live/rmaaltrisuonilive.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",RMC 101 Tv
 https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",RTR99
-https://rtr99.fluidstream.eu/rtr99.mp3
+https://str38.fluid.stream/RTR99TV/livestream/chunklist_w1296751667.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio 4 You Tv
 https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Radio 51 Tv Lombardia
