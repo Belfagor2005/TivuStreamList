@@ -1,5 +1,5 @@
 # TivuStreamList
-
+![](https://komarev.com/ghpvc/?username=Belfagor2005)
 ![Screenshot](https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logo-tivustream.png)
 
 Questo repository contiene playlist M3U generate automaticamente con canali **gratuiti e pubblici**, raccolti da fonti aperte su internet.  
