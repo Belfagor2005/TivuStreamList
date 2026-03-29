@@ -1,0 +1,62 @@
+Dirlister output for directory:
+D:\PcBeatrice\Documents\GitHub\TivuStreamList\ios\*.*
+Total files: 47 (28.5MB)
+
+http://www.hot.ee/dukelupus/
+
+
+
+==================================================
+D:\PcBeatrice\Documents\GitHub\TivuStreamList\ios\
+==================================================
+estero_list.m3u (736.5KB)
+ios_startend.avi (4.4MB)
+italia_regionali.m3u (37.6KB)
+ita_list.m3u (32.4KB)
+list.txt (30.0B)
+monaco.m3u (425.0B)
+movie_countdown.mp4 (870.5KB)
+music_list.m3u (69.9KB)
+news_list.m3u (74.1KB)
+playlist.m3u (228.3KB)
+plex-tv.m3u (47.2KB)
+radio_country.m3u (2.8MB)
+radio_genre.m3u (6.9MB)
+radio_list.m3u (2.8MB)
+rai_med_list.m3u (9.4KB)
+rakuten_it.m3u (24.8KB)
+relax_list.m3u (5.5KB)
+samsung_tv_plus_italia.m3u (25.9KB)
+seriekodi.txt (641.0B)
+sorry.m3u (374.0B)
+sports_list.m3u (14.4KB)
+startend.avi (4.4MB)
+switzerland.m3u (1.8KB)
+tivustream_Estero.m3u (3.9MB)
+tivustream_List.m3u (40.6KB)
+tivustream_RADIO_list.m3u (1021.7KB)
+webcam_list.m3u (107.4KB)
+
+========================================================
+D:\PcBeatrice\Documents\GitHub\TivuStreamList\ios\local\
+========================================================
+abruzzo.m3u (1.3KB)
+basilicata.m3u (451.0B)
+calabria.m3u (2.8KB)
+campania.m3u (3.4KB)
+emilia_romagna.m3u (1.8KB)
+friuli_venezia_giulia.m3u (1.9KB)
+lazio.m3u (1.6KB)
+liguria.m3u (1.5KB)
+lombardia.m3u (4.1KB)
+marche.m3u (1.3KB)
+molise.m3u (507.0B)
+piemonte.m3u (2.1KB)
+puglia.m3u (2.7KB)
+sardegna.m3u (864.0B)
+sicilia.m3u (3.8KB)
+toscana.m3u (2.4KB)
+trentino_alto_adige.m3u (767.0B)
+umbria.m3u (908.0B)
+valdaosta.m3u (800.0B)
+veneto.m3u (2.7KB)
