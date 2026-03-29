@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1,Monaco Info
+https://webtv.monacoinfo.com/live/prod/index.m3u8
+#EXTINF:-1,Superyatch TV
+https://sy.wns.live/hls/stream.m3u8
