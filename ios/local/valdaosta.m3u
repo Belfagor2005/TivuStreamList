@@ -5,3 +5,5 @@ https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.
 https://585b674743bbb.streamlock.net/9062/9062/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/rete7.png" group-title="Valle D'Aosta",Rete7
 https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
+#EXTINF:-1,Telecity Valle d'Aosta
+https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
