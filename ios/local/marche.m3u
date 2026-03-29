@@ -3,7 +3,27 @@
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Arancia Television
 https://stream3.xdevel.com/video0s975447-164/stream/playlist.m3u8
-#EXTINF:-1,Etv Marche
+#EXTINF:-1,EmmeTv
+https://live20.bozztv.com/akamaissh101/ssh101/emmetv89/playlist.m3u8
+#EXTINF:-1,ETV Marche
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+#EXTINF:-1,ETV+
+https://live.ipstream.it/etvmarche2/etvmarche2.stream/playlist.m3u8
+#EXTINF:-1,Fano TV
+https://diretta.arcapuglia.it:8080/live/fanotv/index.m3u8
+#EXTINF:-1,FMTV75
+https://bbtv.intvstream.net:3988/live/fmtvlive.m3u8
+#EXTINF:-1,RADIO LINEA N.1 TV
+https://64b16f23efbee.streamlock.net/radiolineatv/radiolineatv/playlist.m3u8
+#EXTINF:-1,Rossini TV
+https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
+#EXTINF:-1,SKYLINE TV
+https://64b16f23efbee.streamlock.net/skylinetv/skylinetv/playlist.m3u8
+#EXTINF:-1,Studio 7 TV
+https://stream9.xdevel.com/video0s976596-1371/stream/playlist.m3u8
+#EXTINF:-1,TVRS Marche
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
+#EXTINF:-1,VeraTV
+https://cdn9.streamshow.it/cloud-veratv/veratv/playlist.m3u8
 #EXTINF:-1,VideoTolentino
 https://5c389faa13be3.streamlock.net:9553/8006/8006/playlist.m3u8
