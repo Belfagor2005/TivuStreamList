@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:16,Canal Alpha Jura
+https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
+#EXTINF:0,Canal Alpha Neuchatel
+https://canalalpha.vedge.infomaniak.com/livecast/ik:canalalpha/playlist.m3u8
+#EXTINF:15,CARAC1
+https://edge15.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
+#EXTINF:15,CARAC2
+https://edge11.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
+#EXTINF:15,CARAC3
+https://edge11.vedge.infomaniak.com/livecast/ik:lfmmd/manifest.m3u8
+#EXTINF:15,CARAC4
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/manifest.m3u8
+#EXTINF:0,Die Neue Zeit
+https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+#EXTINF:60,dieu
+https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:14,La Télé
+https://edge11.vedge.infomaniak.com/livecast/ik:latele2/manifest.m3u8
+#EXTINF:16,QS24
+https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:10,Radio 3i
+https://vstream-cdn.ch/hls/radio3i.m3u8
+#EXTINF:21840,RTS Couleur 3
+https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTINF:8,Telebasel
+https://tb-simplex-cdn-live.akamaized.net/smsla-o-1080-720-360/ngrp:simplex-live-srt-49166.stream_all/playlist.m3u8
+#EXTINF:10,TeleTicino
+https://vstream-cdn.ch/hls/teleticino.m3u8
+#EXTINF:15,TVM3
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:30,wetter.tv
+https://streaming.meteonews.net/hls/stream.m3u8
