@@ -5,3 +5,7 @@ https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.
 https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
 #EXTINF:-1,Set Tv Cilento
 https://stream1.aswifi.it/settv/live/index.m3u8
+#EXTINF:-1,Le Cronache
+https://lorenzocarbone.me/hls/cronache.m3u8
+#EXTINF:-1,Radio Carina TV
+https://samson.streamerr.co:8081/carinatv/index.m3u8
