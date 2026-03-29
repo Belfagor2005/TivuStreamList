@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="REGIONALI ITALIA",[COLOR lime]---LAST UPDATE 29-03-2026 H. 20.41---[/COLOR]
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+
 #EXTINF:-1,=== Abruzzo===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,OndaTv (1984)
