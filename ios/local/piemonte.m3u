@@ -1,11 +1,47 @@
 #EXTM3U
 #EXTINF:-1,=== Piemonte===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
+#EXTINF:-1,GRP VeraTV
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
+#EXTINF:-1,LOVE MUSIC
+https://d4k.it/hls/live1/live.m3u8
+#EXTINF:-1,Motori TV
+https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
+#EXTINF:-1,Onda Novara TV
+https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
+#EXTINF:-1,Oropa TV
+https://5926fc9c7c5b2.streamlock.net/9078/9078/playlist.m3u8
+#EXTINF:-1,Primantenna
+https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:-1,Radio 4 You TV
+https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
+#EXTINF:-1,Radio Gold
+https://load-balancer.azotosolutions.com/cdnedge5/smil:live5.smil/playlist.m3u8
+#EXTINF:-1,Radio JukeBox
+https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
+#EXTINF:-1,RBE-TV
+https://5f22d76e220e1.streamlock.net/rbetv/rbetv/playlist.m3u8
 #EXTINF:-1,Rete Biella
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+#EXTINF:-1,Rete Biella TV
+https://wb.top-ix.org/redirect/retebiella/_definst_/streaming?type=m3u8
+#EXTINF:-1,Sesta Rete
+https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
+#EXTINF:-1,Telebiella
+https://wb.top-ix.org/redirect/avtvlive/telebiella/streaming?type=m3u8
+#EXTINF:-1,Telecity Piemonte
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
+#EXTINF:-1,Telecupole
+https://d4k.it/hls/live2/live.m3u8
 #EXTINF:-1,TeleRitmo
 https://ed06.top-ix.org/avtvlive/teleritmo/streaming/playlist.m3u8
+#EXTINF:-1,TeleRitmo
+https://wb.top-ix.org/redirect/avtvlive/teleritmo/streaming?type=m3u8
+#EXTINF:-1,VCO Azzurra TV
+https://wb.top-ix.org/redirect/avtvlive/azzurra/streaming?type=m3u8
 #EXTINF:-1,VCO Azzurra TV
 https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 #EXTINF:-1,Video Novara
 https://ed04.top-ix.org/avtvlive/videonovara/streaming/chunklist_w1517872620.m3u8
+#EXTINF:-1,Videonovara
+https://wb.top-ix.org/redirect/avtvlive/videonovara/streaming?type=m3u8
