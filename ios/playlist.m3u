@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",[COLOR lime]---LAST UPDATE 29-03-2026 H. 20.41---[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",[COLOR lime]---LAST UPDATE 30-03-2026 H. 06.54---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="ITALIA",--- ITALIA ---
@@ -538,6 +538,9 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1 group-title="ITALIA",Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="REGIONALI ITALIA",[COLOR lime]---LAST UPDATE 29-03-2026 H. 20.41---[/COLOR]
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 
 #EXTINF:-1,=== Abruzzo===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
