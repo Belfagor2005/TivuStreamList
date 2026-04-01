@@ -246,12 +246,6 @@ https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://amg14891-amg14891c3-amgplt0033.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg14891-amg14891c3-amgplt0033/playlist.m3u8?
 #EXTINF:-1 group-title="ITALIA",Geordie Shore
 https://jmp2.uk/plu-65c4960d11ced7000812c433.m3u8
-#EXTINF:-1 group-title="ITALIA",GF Regia 1 Mediaset Extra
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",GF Regia 2
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b8)/index.m3u8
-#EXTINF:-1 group-title="ITALIA",GF Un'ora fa
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(b9)/index.m3u8
 #EXTINF:-1 group-title="ITALIA",Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 #EXTINF:-1 group-title="ITALIA",Giornale Radio News Tv
@@ -398,8 +392,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls%3aCHANNEL_2/chunklist.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1 group-title="ITALIA",Mediaset 20
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 group-title="ITALIA",Mediaset Extra
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 group-title="ITALIA",Mediaset Extra
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 group-title="ITALIA",Mediasud
