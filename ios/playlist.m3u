@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",[COLOR lime]---LAST UPDATE 31-03-2026 H. 06.18---[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",[COLOR lime]---LAST UPDATE 01-04-2026 H. 06.49---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="ITALIA",--- ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="ITALIA",[COLOR lime]---LAST UPDATE 30-03-2026 H. 07.53---[/COLOR]
+#EXTINF:-1 group-title="ITALIA",[COLOR lime]---LAST UPDATE 31-03-2026 H. 07.26---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="ITALIA",7 RadioVisione
 https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
@@ -307,7 +307,7 @@ https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Yu-Gi-Oh! Italy
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="REGIONALI ITALIA",[COLOR lime]---LAST UPDATE 30-03-2026 H. 06.54---[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="REGIONALI ITALIA",[COLOR lime]---LAST UPDATE 31-03-2026 H. 06.18---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 
 #EXTINF:-1,=== Abruzzo===
@@ -1097,7 +1097,7 @@ https://5cdb29755e02b.streamlock.net:1936/live/diretta_1/playlist.m3u8
 #EXTINF:-1,TVA Vicenza
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",[COLOR lime]---LAST UPDATE 30-03-2026 H. 07.53---[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",[COLOR lime]---LAST UPDATE 31-03-2026 H. 07.26---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",--- SPORT ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
@@ -1302,7 +1302,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 30-03-2026 H. 07.53---[/COLOR]
+#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 31-03-2026 H. 07.26---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS ITALIA",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
@@ -1320,7 +1320,7 @@ https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS INTERNATIONAL",--- NEWS INTERNATIONAL ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 30-03-2026 H. 07.53---[/COLOR]
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 31-03-2026 H. 07.26---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",3CatInfo
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
@@ -2357,7 +2357,7 @@ https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="MUSICA",--- MUSICA = RADIO TV ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 30-03-2026 H. 07.53---[/COLOR]
+#EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 31-03-2026 H. 07.26---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",3ABN Praise Him Music Network
 https://3abn.bozztv.com/3abn1/PraiseHim/smil:PraiseHim.smil/playlist.m3u8
