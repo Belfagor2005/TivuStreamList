@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="ITALIA",--- ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="ITALIA",[COLOR lime]---LAST UPDATE 01-04-2026 H. 17.14---[/COLOR]
+#EXTINF:-1 group-title="ITALIA",[COLOR lime]---LAST UPDATE 01-04-2026 H. 17.18---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="ITALIA",111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
