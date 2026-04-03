@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",[COLOR lime]---LAST UPDATE 03-04-2026 H. 20.31---[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",[COLOR lime]---LAST UPDATE 03-04-2026 H. 20.46---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="ESTERO",--- AD ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
@@ -4433,10 +4433,6 @@ https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_cou
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",12 TV Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italia",20 Mediaset
-https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italia",27 Twentyseven
-https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",27 Twentyseven
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",3BMeteo
@@ -4757,10 +4753,6 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
 https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",Mediaset 20
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italia",Mediaset Extra
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italia",Mediaset Extra
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",Mediasud
 https://5f22d76e220e1.streamlock.net/mediasud/mediasud/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",MediterraniaTV
@@ -4788,7 +4780,7 @@ https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",Onda TV
 https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",Onda TV Sicilia
-https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8?fluxustv.m3u8
+https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",Orler TV
 https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",Paci Contemporary Channel
@@ -5005,14 +4997,10 @@ https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/chunklist_w.m3u8
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italia",Rete Oro (720p)
-https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",Rete TV Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",Rete Veneta
 http://wms.shared.streamshow.it/reteveneta/reteveneta/chunklist_w1047580983.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Italia",Reteconomy
-http://streaming.reteconomy.it/live/reteconomy/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",Reteconomy
 http://streaming.reteconomy.it/live/reteconomy/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Italia",Retemia
