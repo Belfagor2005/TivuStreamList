@@ -1,45 +1,27 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 05-04-2026 H. 07.16---[/COLOR]
+#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 06-04-2026 H. 07.54---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
-#EXTINF:-1 group-title="NEWS ITALIA",Cusano Italia Tv
-https://stream9.xdevel.com/video0s975363-69/stream/playlist.m3u8
-#EXTINF:-1 group-title="NEWS ITALIA",Cusano News 7
-https://stream2.xdevel.com/video1s975363-2103/stream/playlist.m3u8
-#EXTINF:-1 group-title="NEWS ITALIA",Finanza Now
-https://5ecf54a359075.streamlock.net:443/Finanzanow2/Finanzanow2/playlist.m3u8
+#EXTINF:-1 group-title="NEWS ITALIA",Etna Espresso Channel
+https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",Giornale Radio TV
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
-#EXTINF:-1 group-title="NEWS ITALIA",Giornale Radio Tv
-https://5f204aff97bee.streamlock.net/GR_tv/livestream/chunklist_w1593681155.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",LaC News 24
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",Lira TV
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",Minformo TV
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:-1 group-title="NEWS ITALIA",Obiettivo News (ON Tv)
-https://load-balancer.azotosolutions.com/cdnedge7/smil:live7.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS ITALIA",Per Sempre News
-https://rst2.saiuzwebnetwork.it:8081/persemprenews/index.m3u8
-#EXTINF:-1 group-title="NEWS ITALIA",Qui Radio Londra Tv
-https://load-balancer.azotosolutions.com/cdnedge6/smil:live6.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS ITALIA",Senato Tv
-https://senato-live.morescreens.com/SENATO_1_001/1080p/chunklist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",Telegela 647
 https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
-#EXTINF:-1 group-title="NEWS ITALIA",TG COM 24
-https://live2.msf.cdn.mediaset.net/content/hls_h0_clr_vos/live/channel(kf)/index.m3u8
-#EXTINF:-1 group-title="NEWS ITALIA",Tgcom24
-https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",èTv Marche
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",èTv Rete 7
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS INTERNATIONAL",--- NEWS INTERNATIONAL ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 05-04-2026 H. 07.16---[/COLOR]
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 06-04-2026 H. 07.54---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",10 TV
 https://cdn-1.pishow.tv/live/391/master.m3u8
@@ -61,8 +43,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",3CatInfo
 https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",4DmásNoticias TV
-https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",4TV News
 https://cdn-4.pishow.tv/live/1007/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",6 TV Telugu
@@ -117,8 +97,6 @@ https://vodzong.mjunoon.tv:8087/streamtest/ABN-161/playlist.m3u8
 https://amg01821-lovetv-amg01821c27-lg-es-6726.playouts.now.amagi.tv/playlist/amg01821-lovetvfast-lovenews-lges/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",Advocate Broadcasting Network
-https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_045/Stream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Afghanistan International
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Africa 24
@@ -197,6 +175,12 @@ https://content.uplynk.com/channel/26bd482ffe364a1282bc3df28bd3c21f.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Ananda Barta
 https://account19.livebox.co.in/Anandabarta2hls/live.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",ANB News
+https://mumt05.tangotv.in/ANBNEWSNATIONAL/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",APN
+https://mumt01.tangotv.in/APN/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Argus News
+https://mumt05.tangotv.in/ARGUSNEWS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Arirang
 https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Arirang TV HD
@@ -211,6 +195,8 @@ https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Asianet Suvarna News
 https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Assam Talks
+https://mumt05.tangotv.in/ASSAMTALKS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Atacama Noticias
 https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",ATN News
@@ -229,6 +215,8 @@ https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_u
 https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/mobile_wifi_main_hd_abr_v2.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",BEK TV News
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEeast.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",BeritaSatu English
+https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",BFM Business
 https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",BFM DICI Alpes du Sud
@@ -269,6 +257,8 @@ https://flv.intechmedia.net/live/ch112.m3u8
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",BRK News
 https://cdn-1.pishow.tv/live/1037/master.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",BTV
+https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Bursa AS TV
 https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",BX Inform
@@ -307,12 +297,6 @@ https://lineup.cbsivideo.com/playout/8877a7d5-b094-4ac8-bc72-75a5fed68e5b/index.
 https://dai.google.com/linear/hls/event/dHA193vxQ_WqZNVoC-W5MA/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",CBS News Miami
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",CBS News Minnesota
-https://cbsn-min.cbsnstream.cbsnews.com/out/v1/76518f06941246ba810c8d175600bf74/master.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",CBS News New York
-https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",CBS News Pittsburgh
-https://cbsn-pit.cbsnstream.cbsnews.com/out/v1/6966dabf8150405ab26f854e3cd6a2b8/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",CBS News Sacramento
 https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",CCTV+ 1
@@ -359,12 +343,16 @@ https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 https://live.legitpro.co.in/ctvnakdplus/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",CVR English
 https://cdn-2.pishow.tv/live/425/master.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",CVR News
+https://mumt04.tangotv.in/CVRNEWS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Dabanga TV
 https://hls.dabangasudan.org/hls/stream.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",DD India
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",DD Mizoram
 https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",DD News
+https://mumt04.tangotv.in/DDNEWS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",DD News HD
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",De Ultimo Minuto TV
@@ -395,6 +383,8 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",DW Russian
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",DY 365
+https://mumt04.tangotv.in/DY365/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",EAC News TV
 https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Ecotel TV
@@ -420,7 +410,7 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",First Channel News
 https://amtvusdvr.tulix.tv/am3abr/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",First India News
-https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+https://mumt03.tangotv.in/1STINDIANEWS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Formula
 https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Fox News Channel
@@ -447,12 +437,14 @@ https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Good News Today
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",GS TV
+https://mumt05.tangotv.in/GSTV/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",GTC News
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/921cca59-daee-4f89-8c38-7ffe8de44f4c/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Guarantee News
 https://guaranteenews.in:8443/live/gnews/index.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",Guardian Talk Radio
-https://cdn-edge1.streamcomedia.com/abr_tngr969fm/abr-tngr969fm_streams/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Gujarat First
+https://mumt01.tangotv.in/GUJARATFIRST/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Gulistan News
 https://live.gulistannews.in/hls/gul.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Géopolis TV
@@ -471,6 +463,8 @@ https://mn-nl.mncdn.com/halabtoday/livestream/index.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Hamdard TV
 https://tv.hamdardtv.com/hamdard/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Har Khabar
+https://mumt01.tangotv.in/HARKHABAR/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Harbin Comprehensive News Channel
 https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Hermanas Mirabal TV
@@ -484,21 +478,29 @@ https://video11.videa.hu/static/live/8.2966061.2530409.1.5.590.590/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",HMTV
 https://cdn-1.pishow.tv/live/280/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",HNN 24x7
-https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8
+https://mumt02.tangotv.in/HNN24X7/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",HollyWire
 https://bozztv.com/hwotta/playlist/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Hornbill TV
 https://cdn-2.pishow.tv/live/1463/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",HTV9 HD
 https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Huma Betang TV
+https://v3.siar.us/humabetangtv/live/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",i24NEWS English USA
 https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/chunklist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",IBC 24
 https://cdn-3.pishow.tv/live/220/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",ICI RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Ind 24
+https://mumt02.tangotv.in/IND24/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Independent TV
 https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",India Ahead
+https://mumt05.tangotv.in/INDIAAHEAD/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",India Daily Live
+https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",India Today
 https://amg00644-amg00644c1-ondemandkorea-amesia-10266.playouts.now.amagi.tv/playlist/amg00644-tvtodaynetworkltdfast-indiatoday-ondemandkoreaamesia/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",India TV
@@ -507,6 +509,8 @@ https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/ind
 https://amg01550-amg01550c6-samsung-in-4679.playouts.now.amagi.tv/playlist/amg01550-indiatvfast-indiatvakasamsung-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",India TV Speed News
 https://cc-lyf4c0hwzg5dd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lyf4c0hwzg5dd/v1/vglive-sk-479089/main.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",India Voice
+https://mumt04.tangotv.in/INDIAVOICE/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Indywood TV
 https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",INews
@@ -518,7 +522,7 @@ https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",InfoWars Network
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",INH 24x7
-https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
+https://mumt01.tangotv.in/INH24X7/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Iran International
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Iran Press
@@ -539,6 +543,8 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://live.jswk.online/IK_RTPM/live/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",JK 24x7 News
 https://live.gulistannews.in/hls/jk.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",K News India
+https://mumt02.tangotv.in/KNEWSINDIA/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Kairali News
 https://cdn-3.pishow.tv/live/1469/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Kalaignar Seithigal
@@ -549,6 +555,10 @@ https://server.thelegitpro.in/kalingatv/kalingatv/index.fmp4.m3u8
 https://stream.logichost.in/kannurvision/live/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Kashish News
 https://server.thelegitpro.in/kashishnews/kashishnews/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Khabar Fast
+https://mumt04.tangotv.in/KHABARFAST/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Khabrain Abhi Tak
+https://mumt05.tangotv.in/KHABRAINABHITAK/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Kolkata TV
 https://cdn.ottlive.co.in/kolkatatv/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Korea TV
@@ -569,8 +579,6 @@ https://lencatelevision.com/hls/stream.m3u8
 https://stream-hls.castr.net/64490fcefe045f1b63012886/live_22d9a1f0c69c11ee9441219c2cc6d61f/index.fmp4.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Life TV
 https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",Lingkar TV
-https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",LiveNOW from FOX
 https://pb-k5p02dtnr2162.akamaized.net/LiveNOW_from_FOX.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Living India News
@@ -579,8 +587,12 @@ https://stream.ottlive.co.in/livingindia/index.m3u8
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",LN24SA
 https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Love Television
+https://streamer2.nexgen.bz/01-LOVE/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",LRT Radijas
 https://stream-live.lrt.lt/radijas/master.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",M Nadu TV
+https://mumt01.tangotv.in/MNADU/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",M-Net Info
 https://live.mnet.mk/hls/mnet-info.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",M95 Televisión Marbella
@@ -589,12 +601,12 @@ https://limited2.todostreaming.es/live/m95-livestream.m3u8
 https://cdn-3.pishow.tv/live/1476/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Mahaa News
 https://d8wpu6ewxtzy0.cloudfront.net/mahaanews/index.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",Makan 33
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Malai Murasu TV
 https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Manorama News
 https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Mantavya News
+https://mumt02.tangotv.in/MANTAVYA24X7NEWS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Mathrubhumi News
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Medi 1 TV Arabic
@@ -607,10 +619,8 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_d
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",Metro TV
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Mh 1 News
-https://livestream.jswk.online/mhonenews/live/index.m3u8
+https://mumt04.tangotv.in/MHONENEWS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Mihan TV
 https://iptv.mihantv.com/mihantv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Monaco Info
@@ -639,8 +649,8 @@ https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvmpcg/master_1.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",NDTV Marathi
 https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/master_1.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",NDTV Rajasthan
-https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",NE News
+https://mumt05.tangotv.in/NENEWS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Neo News
 https://vodzong.mjunoon.tv:8087/streamtest/Neo-110/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",News 12 New York
@@ -667,12 +677,14 @@ https://d18a8tqmogafg2.cloudfront.net/newsmalayalam/index.m3u8
 https://vodzong.mjunoon.tv:8087/streamtest/NEWS1-128/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",News Tamil 24x7
 https://d18a8tqmogafg2.cloudfront.net/newstamil/index.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",News12 Bronx
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12XH_A1/index_new.m3u8?omap=https
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",News12 Brooklyn
-https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12KH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",News12 Conneticut
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12CH_FFLD_MILF_A1/index_new.m3u8?omap=https
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",News12 Hudson Valley
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12HH_A1/index_new.m3u8?omap=https
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",News12 Long Island
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12LH_WEST_A1/index_new.m3u8?omap=https
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",News12 New Jersey
+https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12JH_CENT_A1/index_new.m3u8?omap=https
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",News12 Westchester
 https://mdc.ott.alticeusa.net/live4.ott.optimum.net/live4-uploads/N12WH_A1/index_new.m3u8?omap=https
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",News18 Assam North-East
@@ -781,10 +793,10 @@ https://server.thelegitpro.in/pratidintime/pratidintime/index.fmp4.m3u8
 https://eu1.servers10.com:8081/8192/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Prime News
+https://mumt02.tangotv.in/PRIMENEWS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Prime9 News
 https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",PRO TV Chisinau
-https://stream.protv.md/live/sursa-1/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Pro TV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Prudent Media
@@ -801,10 +813,16 @@ https://cdn-3.pishow.tv/live/439/master.m3u8
 https://pnt.janusmedia.tv/hls/pnt.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Puthiya Thalaimurai
 https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",QTV-1
-https://video10.qtv.com.cn/drm/qtv1at/manifest.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Radio Ancón
+https://www.streaming507.net:19360/anconvideo/anconvideo.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Radio Isla TV
 https://59a564764e2b6.streamlock.net/palestra/palestra/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Raj News Kannada
+https://mumt03.tangotv.in/RAJNEWSKANDA/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Raj News Malayalam
+https://mumt04.tangotv.in/RAJNEWSMALAYALAM/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Raj News Telugu
+https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",RCV TV
 https://59d39900ebfb8.streamlock.net/rcv/rcv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Real News Kerala
@@ -832,7 +850,7 @@ https://2-fss-2.streamhoster.com/pl_138/206532-6829902-1/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Rozana Spokesman
 https://live1.ottlive.co.in/spokesman/spokesman/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",RPP TV
-https://redirector.dps.live/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
+https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/rpptv/rpptv.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",RSelvaTV
 https://live.obslivestream.com/selvatv/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",RT Arabic
@@ -853,14 +871,20 @@ https://video1.makrodigital.com/rtu/rtu/chunks.m3u8?nimblesessionid=
 https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Sach Bedhadak
+https://mumt04.tangotv.in/SACHBEDHADAK/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Sadhna Plus News
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Sahana News
+https://mumt03.tangotv.in/SAHANANEWS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Sakshi Tv
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Salaam TV
 https://d2o3r1shda7xvv.cloudfront.net/index_5.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Samaa TV
 https://vodzong.mjunoon.tv:8087/streamtest/SAMAA-173/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Samachar Plus 24x7
+https://mumt05.tangotv.in/VERTENTSAMACHARPLUS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Samay Kolkata
 https://server.livelegitpro.in/samaykolkata/samaykolkata/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Sathiyam TV
@@ -887,6 +911,8 @@ https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3
 https://bozztv.com/rongo/rongo-somoy/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Start TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",STV Haryana News
+https://mumt01.tangotv.in/STVHARYANANEWS/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",STZ TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Suceso TV
@@ -909,6 +935,14 @@ https://stream.syritv.al/live/syritv/playlist.m3u8
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",T News
 https://cdn-1.pishow.tv/live/385/master.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",T13
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Tamil Janam
+https://mumt01.tangotv.in/JANAMTVTAMIL/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",TCM 10 HD
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",TDM Info. Macau
+https://live3.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",TeleMoldova +
 https://vdo.ssl-stream.com:3247/stream/play.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Telemundo Noticias Ahora
@@ -947,6 +981,8 @@ https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/43ea5771aa44421591f9dfd2b71f1b9b/i
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Top Stories by Newsy
 https://content.uplynk.com/channel/33c48f602cfd4474b957eb4ad999caf8.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",TRA 2
+https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",TRT Haber
@@ -977,8 +1013,6 @@ https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5
 https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",TV Sim Colatina
 https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",TV Sim São Mateus
-https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",TV Zoom
 https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",TV5 Kannada
@@ -1023,6 +1057,10 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://cdn-3.pishow.tv/live/461/master.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",VIP News
 https://live.vipnews24x7.co.in/vipnews24x7/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Vistaar News
+https://mumt04.tangotv.in/VISTAARNEWS/index.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",VNP
+https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",VOA Persian
 https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",VOA TV Africa
@@ -1031,10 +1069,6 @@ https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/playlist.m3u8
 https://svs.itworkscdn.net/vdltvlive/vdltv.smil/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Vísir
 https://live.visir.is/hls-live/visir.smil/playlist.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",Vĩnh Long TV1
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",Vĩnh Long TV5
-https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",W14DK-D 14.2 NEWSNET
 https://2-fss-2.streamhoster.com/pl_118/204972-1954106-1/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Welat TV (1080i)
@@ -1043,6 +1077,8 @@ https://stream.badinan.xyz/welat/tv/playlist.m3u8
 https://lowa8026-cmyk.github.io/iptv/WGAL-DT3/index.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",WGGS-DT2
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",WION World is One News
+https://wion-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",WJBK-DT1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",WSOC Now
@@ -1067,3 +1103,5 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:informacionnyy.smil/playlist.m3u8
 https://streaming.televizor-24-tochka.ru/live/27.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Россия 24 (Хабаровск)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Толк HD
+https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
