@@ -13,6 +13,8 @@ https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/p
 https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 #EXTINF:-1,E'live Brescia Tv
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/chunklist_w1234149773.m3u8
+#EXTINF:-1,ÈliveBrescia TV
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 #EXTINF:-1,Espansione TV
 https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Italia 8 Prestige
@@ -39,32 +41,30 @@ https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
 https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:-1,Super TV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,Supersix Lombardia
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1,SuperTv Brescia
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,Tele Mantova
-https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
-#EXTINF:-1,Tele Pavia
-http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1,Tele Piadena
-https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
-#EXTINF:-1,TeleBoario
+#EXTINF:-1,Supersix Lombardia
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1,Tele Boario
 https://router.xdevel.com/video0s976425-1205/stream/playlist_dvr.m3u8
 #EXTINF:-1,Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
-#EXTINF:-1,Telecolor
-https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 #EXTINF:-1,TeleColor Lombardia
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/chunklist_b3128000.m3u8
 #EXTINF:-1,TeleColor Lombardia
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 #EXTINF:-1,Teleleonessa
 https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/playlist.m3u8
-#EXTINF:-1,TeleLeonessa 
+#EXTINF:-1,TeleLeonessa
 https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w573230189.m3u8
 #EXTINF:-1,TeleMantova
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1,TeleMantova
 https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/chunklist_w219870635.m3u8
+#EXTINF:-1,Tele Pavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,Tele Piadena
+https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
 #EXTINF:-1,Telenova
 https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 #EXTINF:-1,Telereporter
@@ -77,5 +77,3 @@ https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/p
 https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S75141837/T3wd5WoxAo4B/playlist.m3u8
 #EXTINF:-1,TT24 Teletutto
 https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S64637685/c2e0XXmwILE9/playlist.m3u8
-#EXTINF:-1,ÈliveBrescia TV
-https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
