@@ -1,104 +1,98 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="REGIONALI ITALIA",[COLOR lime]---LAST UPDATE 08-04-2026 H. 19.17---[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="REGIONALI ITALIA",[COLOR lime]---LAST UPDATE 08-04-2026 H. 20.21---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 
 #EXTINF:-1,=== Abruzzo===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
+#EXTINF:-1,Info Media News
+https://64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/manifest.m3u8
 #EXTINF:-1,OndaTv (1984)
 https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w298613.m3u8
 #EXTINF:-1,R115
 https://5a1178b42cc03.streamlock.net/R115tv/R115tv/playlist.m3u8
+#EXTINF:-1,Radio Parsifal TV
+https://stream9.xdevel.com/video0s976542-1303/stream/playlist.m3u8
+#EXTINF:-1,Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1,Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
 #EXTINF:-1,Rete Tv Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/chunklist_w992954157.m3u8
-#EXTINF:-1,TV1 Sulmona
-https://5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8
+#EXTINF:-1,Super J TV
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1,Tele Ponte Abruzzo
 https://54627d4fc5996.streamlock.net/ekuotv/ekuotv/playlist.m3u8
 #EXTINF:-1,TeleAbruzzo (Abruzzo Tv)
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:-1,Rete 8
-https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
-#EXTINF:-1,Info Media News
-https://64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/manifest.m3u8
-#EXTINF:-1,Super J TV
-https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
-#EXTINF:-1,Tele Abruzzo
-http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:-1,Rete 8 Sport
-https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
-#EXTINF:-1 groups="MUSIC",Radio Parsifal TV
-https://stream9.xdevel.com/video0s976542-1303/stream/playlist.m3u8
+#EXTINF:-1,TV1 Sulmona
+https://5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8
 
 #EXTINF:-1,=== Basilicata===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,La Nuova Tv
 https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8
-#EXTINF:-1,Set Tv Cilento
-https://stream1.aswifi.it/settv/live/index.m3u8
 #EXTINF:-1,Le Cronache
 https://lorenzocarbone.me/hls/cronache.m3u8
 #EXTINF:-1,Radio Carina TV
 https://samson.streamerr.co:8081/carinatv/index.m3u8
+#EXTINF:-1,Set Tv Cilento
+https://stream1.aswifi.it/settv/live/index.m3u8
 
 #EXTINF:-1,=== Calabria===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
+#EXTINF:-1,CalabriaUno TV
+https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
 #EXTINF:-1,Castrovillari TV
 rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
 #EXTINF:-1,Esperia TV
 http://wms.shared.streamshow.it/esperiatv/esperiatv/chunklist_w1096393748.m3u8
 #EXTINF:-1,Esperia tv
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1,Jonica Radio Tv
+https://5a1178b42cc03.streamlock.net/jonica/jonica/playlist.m3u8
 #EXTINF:-1,LaC News 24
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+#EXTINF:-1,LaC OnAir
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.m3u8
+#EXTINF:-1,LaC Sat
+https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S18645024/mMAMHAA4IyPq/playlist.m3u8
 #EXTINF:-1,LaC Tv Calabria
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+#EXTINF:-1,L'altro Corriere TV
+https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
+#EXTINF:-1,MediaSud
+https://5f22d76e220e1.streamlock.net/mediasud/mediasud/playlist.m3u8
 #EXTINF:-1,Piana TV
 https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
 #EXTINF:-1,Promovideo Tv
 https://media2021.rtvweb.com/promovideo_web/promovideo/chunklist_w926768377.m3u8
-#EXTINF:-1,R.T.C. Telecalabria
-https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1,Tele Mia Extra
-https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
-#EXTINF:-1,Tele Mia
-https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
-#EXTINF:-1,Telejonio
-http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
-#EXTINF:-1,Video Calabria
-https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
-#EXTINF:-1,LaC TV
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
-#EXTINF:-1,Ten
-https://7640f9b3494e4d1fb307f886e3b60402.msvdn.net/live/S41081260/ohLhSxDNpDNC/playlist.m3u8
-#EXTINF:-1,RTI Calabria
-https://stream.ets-sistemi.it:8081/rticalabria/index.m3u8
-#EXTINF:-1,LaC OnAir
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.m3u8
-#EXTINF:-1,Tele A1
-https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
-#EXTINF:-1,L'altro Corriere TV
-https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
-#EXTINF:-1,ReggioTV
-https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
-#EXTINF:-1,Wedding TV
-https://604e46ac2bdee.streamlock.net:1936/marcorenzi/marcorenzi/playlist.m3u8
-#EXTINF:-1,MediaSud
-https://5f22d76e220e1.streamlock.net/mediasud/mediasud/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CalabriaUno TV" tvg-logo="" group-title="",CalabriaUno TV
-https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
-#EXTINF:-1,LaC Sat
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S18645024/mMAMHAA4IyPq/playlist.m3u8
-#EXTINF:-1,Jonica Radio Tv
-https://5a1178b42cc03.streamlock.net/jonica/jonica/playlist.m3u8
-#EXTINF:-1,Radio Touring 104
-https://streamingvideo.auranex.cloud/memfs/d6c19098-78a8-4ae7-aa93-82d4ae19b64f.m3u8
 #EXTINF:-1,Radio Digiesse
 https://w1.mediastreaming.it/digiesse/livestream/playlist.m3u8
+#EXTINF:-1,Radio Touring 104
+https://streamingvideo.auranex.cloud/memfs/d6c19098-78a8-4ae7-aa93-82d4ae19b64f.m3u8
+#EXTINF:-1,ReggioTV
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+#EXTINF:-1,R.T.C. Telecalabria
+https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
+#EXTINF:-1,RTI Calabria
+https://stream.ets-sistemi.it:8081/rticalabria/index.m3u8
+#EXTINF:-1,Tele A1
+https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
+#EXTINF:-1,Tele Mia
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+#EXTINF:-1,Tele Mia Extra
+https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+#EXTINF:-1,Telejonio
+http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
+#EXTINF:-1,Ten
+https://7640f9b3494e4d1fb307f886e3b60402.msvdn.net/live/S41081260/ohLhSxDNpDNC/playlist.m3u8
+#EXTINF:-1,Video Calabria
+https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
+#EXTINF:-1,Wedding TV
+https://604e46ac2bdee.streamlock.net:1936/marcorenzi/marcorenzi/playlist.m3u8
 
 #EXTINF:-1,=== Campania===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1,Astiletv
-https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
 #EXTINF:-1,Canale 21
 https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
 #EXTINF:-1,Canale 8
@@ -127,8 +121,6 @@ https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playl
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
 #EXTINF:-1,Nora TV
 https://57068da1deb21.streamlock.net/noratv/noratv/playlist.m3u8
-#EXTINF:-1,https://stream.nuvola.tv:8181/4aaa6328-1879-4ebf-b18a-498146d0c61c/oembed.json
-https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 #EXTINF:-1,Paradise Tv
 https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 #EXTINF:-1,Quarto Canale
@@ -167,6 +159,8 @@ https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/playlist.m3u8
 #EXTINF:-1,Videonola
 https://videonola.aswifi.it/videonolaabr/live.m3u8
+#EXTINF:-1,https://stream.nuvola.tv:8181/4aaa6328-1879-4ebf-b18a-498146d0c61c/oembed.json
+https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 
 #EXTINF:-1,=== Emilia Romagna===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
@@ -186,8 +180,6 @@ https://live.ipstream.it/etv/etv.stream/chunklist_w802107428.m3u8
 https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
 #EXTINF:-1,Icaro TV Rimini
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1,MadeinBO Radio Tv
-https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1,Radio Bruno
 https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 #EXTINF:-1,Radio Studio Delta TV
@@ -202,8 +194,6 @@ https://liberta.cdn.streamup.eu/origin/teleliberta_abr/playlist.m3u8
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1,Teletricolore Reggio
 https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
-#EXTINF:-1,TR Sport
-https://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1,TV Qui
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 #EXTINF:-1,Videoregione
@@ -217,8 +207,6 @@ http://195.231.82.127:8082/hls/test_low.m3u8
 https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/playlist.m3u8
 #EXTINF:-1,Fly Tv
 https://cloudvideo.servers10.com:8081/8144/index.m3u8
-#EXTINF:-1,Radio Punto Zero TV
-https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 #EXTINF:-1,RAN Friul
 https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/playlist.m3u8
 #EXTINF:-1,RAN Germ
@@ -233,6 +221,8 @@ https://load-balancer.azotosolutions.com/cdnedge34/ranslo/playlist.m3u8
 https://load-balancer.azotosolutions.com/cdnedge34/ransport/playlist.m3u8
 #EXTINF:-1,RAN Stereo
 https://load-balancer.azotosolutions.com/cdnedge34/ranstereo/playlist.m3u8
+#EXTINF:-1,Radio Punto Zero TV
+https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 #EXTINF:-1,SuperSix 24
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1,Tele Alto But
@@ -330,6 +320,8 @@ https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/p
 https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
 #EXTINF:-1,E'live Brescia Tv
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/chunklist_w1234149773.m3u8
+#EXTINF:-1,ÈliveBrescia TV
+https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 #EXTINF:-1,Espansione TV
 https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
 #EXTINF:-1,Italia 8 Prestige
@@ -356,22 +348,14 @@ https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
 https://live1.giocabet.tv/stream/6/index.m3u8
 #EXTINF:-1,Super TV
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,Supersix Lombardia
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1,SuperTv Brescia
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,Tele Mantova
-https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
-#EXTINF:-1,Tele Pavia
-http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1,Tele Piadena
-https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
-#EXTINF:-1,TeleBoario
+#EXTINF:-1,Supersix Lombardia
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1,Tele Boario
 https://router.xdevel.com/video0s976425-1205/stream/playlist_dvr.m3u8
 #EXTINF:-1,Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
-#EXTINF:-1,Telecolor
-https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 #EXTINF:-1,TeleColor Lombardia
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/chunklist_b3128000.m3u8
 #EXTINF:-1,TeleColor Lombardia
@@ -381,7 +365,13 @@ https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/playlist.m3u8
 #EXTINF:-1,TeleLeonessa
 https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w573230189.m3u8
 #EXTINF:-1,TeleMantova
+https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
+#EXTINF:-1,TeleMantova
 https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/chunklist_w219870635.m3u8
+#EXTINF:-1,Tele Pavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1,Tele Piadena
+https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
 #EXTINF:-1,Telenova
 https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
 #EXTINF:-1,Telereporter
@@ -394,8 +384,6 @@ https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/p
 https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S75141837/T3wd5WoxAo4B/playlist.m3u8
 #EXTINF:-1,TT24 Teletutto
 https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S64637685/c2e0XXmwILE9/playlist.m3u8
-#EXTINF:-1,ÈliveBrescia TV
-https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
 
 #EXTINF:-1,=== Marche===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
@@ -486,16 +474,36 @@ https://wb.top-ix.org/redirect/avtvlive/videonovara/streaming?type=m3u8
 
 #EXTINF:-1,=== Puglia===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
+#EXTINF:-1,Antenna Sud
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8
+#EXTINF:-1,Antenna Sud Extra
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8
+#EXTINF:-1,Antenna Sud Sport
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport1/master.m3u
+#EXTINF:-1,Aurora Arte
+https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u
 #EXTINF:-1,Canale 2
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u
 #EXTINF:-1,Canale 2 Altamura (576p) [Not 24/7]
 https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u
 #EXTINF:-1,Canale 7
 http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u
+#EXTINF:-1,Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u
 #EXTINF:-1,Canale 9
 https://585b674743bbb.streamlock.net/9026/9026/playlist.m3u
+#EXTINF:-1,Mediterranea TV
+https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u
+#EXTINF:-1,Radio Norba TV
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u
 #EXTINF:-1,RTM
 https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u
+#EXTINF:-1,STUDIO 100
+https://cdn16.streamshow.it/cloud-studio100/studio100/chunklist.m3u8
+#EXTINF:-1,TeleBari
+https://w1.mediastreaming.it/telebari/livestream/playlist.m3u
+#EXTINF:-1,Teledehon
+https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/playlist.m3u
 #EXTINF:-1,Telefoggia
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w386788975.m3u
 #EXTINF:-1,Telefoggia
@@ -504,38 +512,14 @@ http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u
 https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u
 #EXTINF:-1,Telemajg
 https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/chunklist_w656612441.m3u
-#EXTINF:-1,Antenna Sud
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u
-#EXTINF:-1,Antenna Sud Extra
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u
-#EXTINF:-1,Antenna Sud Sport
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/sport1/master.m3u
-#EXTINF:-1,Aurora Arte
-https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/chunklist.m3u
-#EXTINF:-1,Canale 2 TV
-https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u
-#EXTINF:-1,Canale 7
-http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u
-#EXTINF:-1,Mediterranea TV
-https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u
-#EXTINF:-1,Radio Norba TV
-https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u
-#EXTINF:-1,RTM
-https://5f22d76e220e1.streamlock.net/rtm/rtm/playlist.m3u
-#EXTINF:-1,TeleBari
-https://w1.mediastreaming.it/telebari/livestream/playlist.m3u
-#EXTINF:-1,Teledehon
-https://5f22d76e220e1.streamlock.net/rtmpteledehon/smil:rtmpteledehon.smil/playlist.m3u
-#EXTINF:-1,Telefoggia
-https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/playlist.m3u
 #EXTINF:-1,Telenorba
 https://stream10.xdevel.com/video2s976570-2117/stream/playlist_dvr.m3u
 #EXTINF:-1,TeleRama Lecce
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u
-#EXTINF:-1,Teleregione Puglia e Basilicata
-https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u
+#EXTINF:-1,Teleregione Color
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8
 #EXTINF:-1,Telesveva
-https://live2.telesveva.com/hls/svevahd.m3u
+https://live2.telesveva.com/hls/svevahd.m3u8
 #EXTINF:-1,Teletrullo
 https://80.teletrullo.tv/hls/teletrullo2.m3u
 
@@ -543,74 +527,66 @@ https://80.teletrullo.tv/hls/teletrullo2.m3u
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Odeon Sardegna
 https://streaming.softwarecreation.it/Odeon24SA/Odeon24SA/playlist.m3u8
-#EXTINF:-1,TCS TeleCostaSmeralda
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
-#EXTINF:-1,Sardegna 1
-https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
-#EXTINF:-1,Uno4 TV
-https://cdn.uno4.it/index.m3u8
-#EXTINF:-1,SUPERTV ARISTANIS
-https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
-#EXTINF:-1,Super TV Oristano
-https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/chunklist_w370669592.m3u8
 #EXTINF:-1,Radio Iglesias Sardegna
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
+#EXTINF:-1,Sardegna 1
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/live/S30721796/ZS3Xu8mn5f0J/playlist.m3u8
+#EXTINF:-1,Super Tv Aristanis
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
+#EXTINF:-1,Super Tv Oristano
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/chunklist_w370669592.m3u8
+#EXTINF:-1,Tcs Telecostasmeralda
+https://7e1cc2454f2242afabe05cc0a2f483cd.msvdn.net/tcs_live/tcs/tcs/playlist.m3u8
+#EXTINF:-1,Uno4 Tv
+https://cdn.uno4.it/index.m3u8
 
 #EXTINF:-1,=== Sicilia===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
+#EXTINF:-1,Alpauno
+https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
+#EXTINF:-1,Bella Radio Tv
+https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
 #EXTINF:-1,Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
-#EXTINF:-1,La3 Marsala (latr3)
+#EXTINF:-1,La3 Marsala (Latr3)
+https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
+#EXTINF:-1,La Tr3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:99,Nuova Tv 1
 https://nuovatv.net:8443/tv/stream.m3u8
 #EXTINF:-1,Nuova Tv 2
 https://nuovatv.net:8443/tv2/stream.m3u8
-#EXTINF:-1,Onda tv
+#EXTINF:-1,Onda Tv
 https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1247497225.m3u8
-#EXTINF:-1,Prima TV
-https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-#EXTINF:-1,RMC 101 TV
-https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/chunklist_w2083631440.m3u8
-#EXTINF:-1,RTP
-http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-#EXTINF:-1,Rei Tv
-https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
-#EXTINF:-1,Sicilia 24
-https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
-#EXTINF:-1,Tele Iblea
-https://5f22d76e220e1.streamlock.net:443/teleiblea/teleiblea/playlist.m3u8
-#EXTINF:-1,TeleMistretta
-https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
-#EXTINF:-1,Video Star TV
-https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
-#EXTINF:-1,WLTV
-https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
-#EXTINF:-1,Alpauno
-https://5f22d76e220e1.streamlock.net/alpaunotv/alpaunotv/playlist.m3u8
-#EXTINF:-1,Bella Radio TV
-https://server.bellaradio.it:1443/live/bellaradiotv/playlist.m3u8
-#EXTINF:-1,La TR3 Marsala
-https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1,OndaTV Giovani
 https://5926fc9c7c5b2.streamlock.net/9040/9040/playlist.m3u8
-#EXTINF:-1,Prima TV Sicilia
+#EXTINF:-1,Prima Tv
 https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
-#EXTINF:-1,Radio Taormina TV
+#EXTINF:-1,Prima Tv Sicilia
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1,Radio Taormina Tv
 https://router.xdevel.com/video1s3-7/stream/playlist_dvr.m3u8
-#EXTINF:-1,Radio Time TV
+#EXTINF:-1,Radio Time Tv
 https://router.xdevel.com/video0s975521-196/stream/playlist.m3u8
-#EXTINF:-1,RTA - Radio Tivù Azzurra
-https://video.azotosolutions.com:9553/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
 #EXTINF:-1,Rei Tv
 https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
-#EXTINF:-1,RTP
+#EXTINF:-1,Rei Tv
+https://5f22d76e220e1.streamlock.net/reitv/reitv/playlist.m3u8
+#EXTINF:-1,Rmc 101 Tv
+https://5db313b643fd8.streamlock.net/RMC101TV/RMC101TV/chunklist_w2083631440.m3u8
+#EXTINF:-1,Rta - Radio Tivù Azzurra
+https://video.azotosolutions.com:9553/radiotivuazzurralive/radiotivuazzurralive/playlist.m3u8
+#EXTINF:-1,Rtp
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1,Rtp
 https://router.xdevel.com/video0s975966-797/stream/playlist.m3u8
-#EXTINF:-1,RTP
+#EXTINF:-1,Rtp
 https://router.xdevel.com/video0s975966-797/stream/playlist.m3u8
-#EXTINF:-1,Sicilia 24 TV
+#EXTINF:-1,Sicilia 24
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
-#EXTINF:-1,TCF TV
+#EXTINF:-1,Sicilia 24 Tv
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:-1,Tcf Tv
 https://stream10.xdevel.com/video1s977294-1864/stream/playlist.m3u8
 #EXTINF:-1,Tele Monte Kronio
 https://648026e87a75e.streamlock.net/rmktv/rmktv/playlist.m3u8
@@ -619,21 +595,29 @@ https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:-1,Tele8
 https://57068da1deb21.streamlock.net/teletv8/teletv8/playlist.m3u8
 #EXTINF:-1,Teleiblea
+https://5f22d76e220e1.streamlock.net:443/teleiblea/teleiblea/playlist.m3u8
+#EXTINF:-1,Teleiblea
 https://5f22d76e220e1.streamlock.net/teleiblea/teleiblea/playlist.m3u8
-#EXTINF:-1,TeleMistretta
+#EXTINF:-1,Telemistretta
 https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
-#EXTINF:-1,TelePegaso
+#EXTINF:-1,Telemistretta
+https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+#EXTINF:-1,Telepegaso
 https://stream10.xdevel.com/video0s977504-2067/stream/playlist.m3u8
-#EXTINF:-1,TeleVideo Agrigento
+#EXTINF:-1,Televideo Agrigento
 https://media2021.rtvweb.com/tva/live/playlist.m3u8
-#EXTINF:-1,TGS
+#EXTINF:-1,Tgs
 https://router.xdevel.com/video1s975436-143/stream/playlist.m3u8
 #EXTINF:-1,Video Mediterraneo
 https://bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
 #EXTINF:-1,Video Regione
 https://streamcdnm9-57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/ZuaLjACsWIL4/playlist.m3u8
-#EXTINF:-1,Vintage Radio TV
+#EXTINF:-1,Video Star Tv
+https://stream9.xdevel.com/video0s976556-1321/stream/playlist.m3u8
+#EXTINF:-1,Vintage Radio Tv
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
+#EXTINF:-1,Wltv
+https://5db313b643fd8.streamlock.net/WLTV/WLTV/playlist.m3u8
 #EXTINF:-1,Zerouno Tv Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
 
@@ -651,7 +635,7 @@ https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1
 https://rst2.saiuzwebnetwork.it:8081/ideaplus/index.m3u8
 #EXTINF:-1,Mitology TV
 https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
-#EXTINF:-1,NTi canale 93
+#EXTINF:-1,NTi Canale 93
 https://www.ntimedia.it/video/S0B/S0B_master.m3u8
 #EXTINF:-1,Radio Italia Cina TV
 https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
@@ -663,8 +647,6 @@ https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
 #EXTINF:-1,SPORTVL
 https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/playlist.m3u8
-#EXTINF:-1,Tele San Domenico
-https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/mono.m3u8
 #EXTINF:-1,Telecentro 2
 https://5f22d76e220e1.streamlock.net/telecentro2/telecentro2/playlist.m3u8
 #EXTINF:-1,Telegraducato
@@ -717,14 +699,14 @@ https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
 https://stream10.xdevel.com/video0s977516-2077/stream/playlist.m3u8
 #EXTINF:-1,TeleAmbiente
 https://5f22d76e220e1.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8
-#EXTINF:-1,trg
+#EXTINF:-1,Trg
 https://www.trgmedia.it/hls/livestreamHD.m3u8
 #EXTINF:-1,Umbria TV
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:-1,Umbria+
 https://diretta.umbriapiu.it:8080/show/show.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="Valle D'Aosta",=== Valle D'Aosta===
+#EXTINF:-1,=== Valle D'Aosta===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/primantenna-ce5jqdufak1a.png" group-title="Valle D'Aosta",Primantenna
 https://585b674743bbb.streamlock.net/9062/9062/playlist.m3u8
