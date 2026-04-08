@@ -1,14 +1,12 @@
 #EXTM3U
 #EXTINF:-1,=== Friuli Venezia Giulia===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1,Canale 6 
+#EXTINF:-1,Canale 6
 http://195.231.82.127:8082/hls/test_low.m3u8
 #EXTINF:-1,Canale77
 https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/playlist.m3u8
 #EXTINF:-1,Fly Tv
 https://cloudvideo.servers10.com:8081/8144/index.m3u8
-#EXTINF:-1,Radio Punto Zero TV
-https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 #EXTINF:-1,RAN Friul
 https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/playlist.m3u8
 #EXTINF:-1,RAN Germ
@@ -23,6 +21,8 @@ https://load-balancer.azotosolutions.com/cdnedge34/ranslo/playlist.m3u8
 https://load-balancer.azotosolutions.com/cdnedge34/ransport/playlist.m3u8
 #EXTINF:-1,RAN Stereo
 https://load-balancer.azotosolutions.com/cdnedge34/ranstereo/playlist.m3u8
+#EXTINF:-1,Radio Punto Zero TV
+https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
 #EXTINF:-1,SuperSix 24
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1,Tele Alto But

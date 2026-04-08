@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,=== Campania===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1,Astiletv
-https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u8
 #EXTINF:-1,Canale 21
 https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
 #EXTINF:-1,Canale 8
@@ -29,10 +27,8 @@ https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/p
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1,Minformo Tv
 https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
-#EXTINF:-1,Nora TV 
+#EXTINF:-1,Nora TV
 https://57068da1deb21.streamlock.net/noratv/noratv/playlist.m3u8
-#EXTINF:-1,https://stream.nuvola.tv:8181/4aaa6328-1879-4ebf-b18a-498146d0c61c/oembed.json
-https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8
 #EXTINF:-1,Paradise Tv
 https://tsw.streamingwebtv24.it:1936/paradisetv/paradisetv/playlist.m3u8
 #EXTINF:-1,Quarto Canale
@@ -41,7 +37,7 @@ http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlis
 https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1,Radio Marte Tv
 https://router.xdevel.com/video0s975753-750/stream/playlist.m3u8
-#EXTINF:-1,RCS 75 
+#EXTINF:-1,RCS 75
 https://stream9.xdevel.com/video0s975429-131/stream/playlist.m3u8
 #EXTINF:-1,RTC Quarta Rete
 https://msh0232.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
@@ -71,3 +67,5 @@ https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/playlist.m3u8
 #EXTINF:-1,Videonola
 https://videonola.aswifi.it/videonolaabr/live.m3u8
+#EXTINF:-1,https://stream.nuvola.tv:8181/4aaa6328-1879-4ebf-b18a-498146d0c61c/oembed.json
+https://stream.nuvola.tv:8181/memfs/4aaa6328-1879-4ebf-b18a-498146d0c61c.m3u8

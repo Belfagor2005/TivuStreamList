@@ -1,27 +1,25 @@
 #EXTM3U
 #EXTINF:-1,=== Abruzzo===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
+#EXTINF:-1,Info Media News
+https://64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/manifest.m3u8
 #EXTINF:-1,OndaTv (1984)
 https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w298613.m3u8
-#EXTINF:-1,R115 
+#EXTINF:-1,R115
 https://5a1178b42cc03.streamlock.net/R115tv/R115tv/playlist.m3u8
+#EXTINF:-1,Radio Parsifal TV
+https://stream9.xdevel.com/video0s976542-1303/stream/playlist.m3u8
+#EXTINF:-1,Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1,Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
 #EXTINF:-1,Rete Tv Italia
 https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/chunklist_w992954157.m3u8
-#EXTINF:-1,TV1 Sulmona
-https://5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8
+#EXTINF:-1,Super J TV
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1,Tele Ponte Abruzzo
 https://54627d4fc5996.streamlock.net/ekuotv/ekuotv/playlist.m3u8
 #EXTINF:-1,TeleAbruzzo (Abruzzo Tv)
 http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:-1,Rete 8
-https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
-#EXTINF:-1,Info Media News
-https://64ede947d2367.streamlock.net/IMN/_definst_/IMN_source/manifest.m3u8
-#EXTINF:-1,Super J TV
-https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
-#EXTINF:-1,Tele Abruzzo
-http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-#EXTINF:-1,Rete 8 Sport
-https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
-#EXTINF:-1 groups="MUSIC",Radio Parsifal TV
-https://stream9.xdevel.com/video0s976542-1303/stream/playlist.m3u8
+#EXTINF:-1,TV1 Sulmona
+https://5926fc9c7c5b2.streamlock.net/9114/9114/playlist.m3u8
