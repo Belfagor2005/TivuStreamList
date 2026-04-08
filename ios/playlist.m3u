@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",[COLOR lime]---LAST UPDATE 08-04-2026 H. 13.02---[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",[COLOR lime]---LAST UPDATE 08-04-2026 H. 13.14---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1,=== Canali RAI ===
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1,=== Canali Mediaset ===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1,Rai 1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
@@ -18,7 +20,7 @@ http://ott-cdn.ucom.am:80/s29/index.m3u8
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1,Rai 2
 https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
-#EXTINF:-1,Rai 2 
+#EXTINF:-1,Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1,Rai 2 (link 2)
@@ -109,9 +111,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 http://78.130.250.2:8023/play/a04d/index.m3u8
 #EXTINF:-1,RaiPlay 3
 https://8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay3/hls/playlist_mo.m3u8
-
-#EXTINF:-1,=== Canali Mediaset ===
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1,20 Mediaset
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
 #EXTINF:-1,27 Twentyseven
@@ -122,7 +121,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1,Cine 34
 https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
-#EXTINF:-1,Focus 
+#EXTINF:-1,Focus
 https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
 #EXTINF:-1,Iris
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
@@ -140,7 +139,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:-1,Italia 2 TV
 http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-#EXTINF:-1,La5 
+#EXTINF:-1,La5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
 #EXTINF:-1,La7
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-HLS8/la7.m3u8
@@ -154,7 +153,7 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 #EXTINF:-1,Rete 4 HD
 https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
-#EXTINF:-1,Top Crime 
+#EXTINF:-1,Top Crime
 https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
 
 #EXTINF:-1,=== Abruzzo===
@@ -183,7 +182,6 @@ http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
 #EXTINF:-1 groups="MUSIC",Radio Parsifal TV
 https://stream9.xdevel.com/video0s976542-1303/stream/playlist.m3u8
-
 #EXTINF:-1,=== Basilicata===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,La Nuova Tv
@@ -194,7 +192,6 @@ https://stream1.aswifi.it/settv/live/index.m3u8
 https://lorenzocarbone.me/hls/cronache.m3u8
 #EXTINF:-1,Radio Carina TV
 https://samson.streamerr.co:8081/carinatv/index.m3u8
-
 #EXTINF:-1,=== Calabria===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Castrovillari TV
@@ -249,7 +246,6 @@ https://5a1178b42cc03.streamlock.net/jonica/jonica/playlist.m3u8
 https://streamingvideo.auranex.cloud/memfs/d6c19098-78a8-4ae7-aa93-82d4ae19b64f.m3u8
 #EXTINF:-1,Radio Digiesse
 https://w1.mediastreaming.it/digiesse/livestream/playlist.m3u8
-
 #EXTINF:-1,=== Campania===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Astiletv
@@ -322,7 +318,6 @@ https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/playlist.m3u8
 #EXTINF:-1,Videonola
 https://videonola.aswifi.it/videonolaabr/live.m3u8
-
 #EXTINF:-1,=== Emilia Romagna===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,12 TV Parma (540p) [Not 24/7]
@@ -363,7 +358,6 @@ https://livetr.teleromagna.it/mia/live/playlist.m3u8
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 #EXTINF:-1,Videoregione
 https://stream.videoregione.it/hls/vr99/index.m3u8
-
 #EXTINF:-1,=== Friuli Venezia Giulia===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Canale 6
@@ -404,7 +398,6 @@ https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
 http://195.231.82.127:8081/hls/test_low.m3u8
 #EXTINF:-1,VideoTeleCarnia
 https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
-
 #EXTINF:-1,=== Lazio===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Canale 10 Ostia (540p) [Not 24/7]
@@ -439,7 +432,6 @@ https://57068da1deb21.streamlock.net/teletibur/teletibur/chunklist_w1505891546.m
 https://streaming.ts2000tv.it:30443/ts2000tv/ts2000tv/playlist.m3u8
 #EXTINF:-1,TRL
 https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
-
 #EXTINF:-1,=== Liguria===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,111 TV
@@ -470,7 +462,6 @@ https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda0
 https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
 #EXTINF:-1,Welcome Liguria
 https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-
 #EXTINF:-1,=== Lombardia===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,70-80.it
@@ -551,7 +542,6 @@ https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S75141837/T3wd5WoxAo4B/p
 https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S64637685/c2e0XXmwILE9/playlist.m3u8
 #EXTINF:-1,ÈliveBrescia TV
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-
 #EXTINF:-1,=== Marche===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Arancia Television
@@ -580,7 +570,6 @@ https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
 https://cdn9.streamshow.it/cloud-veratv/veratv/playlist.m3u8
 #EXTINF:-1,VideoTolentino
 https://5c389faa13be3.streamlock.net:9553/8006/8006/playlist.m3u8
-
 #EXTINF:-1,=== Molise===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Telemolise
@@ -591,7 +580,6 @@ https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/chunklist_w1143191259.m3u8
 #EXTINF:-1,TRSP
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8
-
 #EXTINF:-1,=== Piemonte===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,GRP VeraTV
@@ -638,7 +626,6 @@ https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
 https://ed04.top-ix.org/avtvlive/videonovara/streaming/chunklist_w1517872620.m3u8
 #EXTINF:-1,Videonovara
 https://wb.top-ix.org/redirect/avtvlive/videonovara/streaming?type=m3u8
-
 #EXTINF:-1,=== Puglia===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Canale 2
@@ -693,7 +680,6 @@ https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u
 https://live2.telesveva.com/hls/svevahd.m3u
 #EXTINF:-1,Teletrullo
 https://80.teletrullo.tv/hls/teletrullo2.m3u
-
 #EXTINF:-1,=== Sardegna===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Odeon Sardegna
@@ -710,7 +696,6 @@ https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.
 https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/chunklist_w370669592.m3u8
 #EXTINF:-1,Radio Iglesias Sardegna
 https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
-
 #EXTINF:-1,=== Sicilia===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Etna Espresso Channel
@@ -791,7 +776,6 @@ https://streamcdnm9-57214cb172d84f8cb311b91513952b03.msvdn.net/live/S40896499/Zu
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 #EXTINF:-1,Zerouno Tv Music
 https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
-
 #EXTINF:-1,=== Toscana===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Antenna 3 Toscana
@@ -840,7 +824,6 @@ https://view.dacast.com/76305317bd6d5f2af13478c9b0ef4aef-live-6339ee65498e3ca8e7
 https://oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
 #EXTINF:-1,Vuemme
 https://5db313b643fd8.streamlock.net/vm/vm/playlist.m3u8
-
 #EXTINF:-1,=== Trentino Alto Adige===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,AltoAdige TV
@@ -857,7 +840,6 @@ https://tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8?FLID=1
 https://64b16f23efbee.streamlock.net/tv33bz/tv33bz/playlist.m3u8
 #EXTINF:-1,TV33 Trento
 https://64b16f23efbee.streamlock.net/tv33tn/tv33tn/playlist.m3u8
-
 #EXTINF:-1,=== Umbria===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,A.M. Terni
@@ -878,7 +860,6 @@ https://www.trgmedia.it/hls/livestreamHD.m3u8
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:-1,Umbria+
 https://diretta.umbriapiu.it:8080/show/show.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="Valle D'Aosta",=== Valle D'Aosta===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/primantenna-ce5jqdufak1a.png" group-title="Valle D'Aosta",Primantenna
@@ -887,7 +868,6 @@ https://585b674743bbb.streamlock.net/9062/9062/playlist.m3u8
 https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
 #EXTINF:-1,Telecity Valle d'Aosta
 https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8
-
 #EXTINF:-1,=== Veneto===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
 #EXTINF:-1,Antenna 3 Veneto
@@ -942,6 +922,7 @@ http://217.61.26.46:8080/hls/triveneta.m3u8
 https://5cdb29755e02b.streamlock.net:1936/live/diretta_1/playlist.m3u8
 #EXTINF:-1,TVA Vicenza
 http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="ITALIA",--- ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="ITALIA",[COLOR lime]---LAST UPDATE 08-04-2026 H. 12.16---[/COLOR]
@@ -1246,6 +1227,7 @@ https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg0
 https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",èTv Rete 7
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",--- SPORT ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="SPORT",ACCDN
@@ -1436,6 +1418,7 @@ https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SPORT",Беларусь 5
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 08-04-2026 H. 12.16---[/COLOR]
@@ -2524,6 +2507,7 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Толк HD
 https://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="MUSICA",--- MUSICA = RADIO TV ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 08-04-2026 H. 12.16---[/COLOR]
@@ -3232,6 +3216,7 @@ https://kino-1.catcast.tv/content/37745/index.m3u8
 https://kino-1.catcast.tv/content/37739/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",Страна FM
 https://live-stranafm.cdnvideo.ru/stranafm/smil:stranafm.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="WEBCAM",--- WEBCAM ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Africa 4
