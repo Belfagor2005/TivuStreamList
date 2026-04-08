@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="RADIO",[COLOR lime]---LAST UPDATE 08-04-2026 H. 12.16---[/COLOR]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="RADIO",[COLOR lime]---LAST UPDATE 08-04-2026 H. 18.36---[/COLOR]
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="RADIO",--- AD ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
@@ -21017,6 +21017,12 @@ https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio
 https://icecast.live.yle.fi/radio/YleX3M/icecast.audio
 #EXTINF:-1 tvg-logo="" group-title="Finlandia",YleX
 https://icecast.live.yle.fi/radio/YleX/icecast.audio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="RADIO",--- FJ ---
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="" group-title="FJ",2Day FM
+https://peridot.streamguys1.com:7155/2Day
+#EXTINF:-1 tvg-logo="" group-title="FJ",Mirchi FM
+https://peridot.streamguys1.com:7155/MirchiFiji
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="RADIO",--- FK ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="FK",BFBS Falkland Islands
@@ -23963,6 +23969,10 @@ https://evasion78s.ice.infomaniak.ch/evasion78s-128.mp3
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="GA",Vie Nouvelle Afrique
 https://xstreamer.galcom.org:8443/VieNouvelleAfrique
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="RADIO",--- GD ---
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
+#EXTINF:-1 tvg-logo="" group-title="GD",City Sound 97.5 FM
+https://auds1.intacs.com/citysoundfm
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="RADIO",--- Georgia ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="Georgia",LF Radio
