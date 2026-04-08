@@ -3,51 +3,30 @@
 
 #EXTINF:-1,Rai 2
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-
-#EXTINF:-1,Rai 3
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1,Rai 3 (720p)
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 
-#EXTINF:-1,Rai 4
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-
 #EXTINF:-1,Rai 4K
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-
-#EXTINF:-1,Rai 5
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 
 #EXTINF:-1,Rai 5 (1080p)
 http://78.130.250.2:8023/play/a04o/index.m3u8
 
-#EXTINF:-1,Rai Gulp
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-
 #EXTINF:-1,Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 
 #EXTINF:-1,Rai News 24 (1080p)
 http://78.130.250.2:8023/play/a04l/index.m3u8
-
-#EXTINF:-1,Rai Premium
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-
-#EXTINF:-1,Rai Scuola
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 
 #EXTINF:-1,Rai Scuola (1080p)
 http://78.130.250.2:8023/play/a04h/index.m3u8
 
 #EXTINF:-1,Rai Sport HD
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-
-#EXTINF:-1,Rai Storia
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-
-#EXTINF:-1,Rai Yoyo
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 
 #EXTINF:-1,Rai Yoyo (1080p)
 http://78.130.250.2:8023/play/a04d/index.m3u8
@@ -400,9 +379,6 @@ https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",èTv Rete 7
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="SPORT",--- SPORT ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
-
 #EXTINF:-1 tvg-logo="" group-title="SPORT",ACI Sport TV
 https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
 
@@ -414,9 +390,6 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hl
 
 #EXTINF:-1 tvg-logo="" group-title="SPORT",TR Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-
-#EXTINF:-1 group-title="NEWS ITALIA",[COLOR lime]---LAST UPDATE 08-04-2026 H. 12.16---[/COLOR]
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 
 #EXTINF:-1 group-title="NEWS ITALIA",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
@@ -442,14 +415,8 @@ https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 #EXTINF:-1 group-title="NEWS ITALIA",èTv Rete 7
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",[COLOR lime]---LAST UPDATE 08-04-2026 H. 12.16---[/COLOR]
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
-
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Africa 24 Sport
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
-
-#EXTINF:-1 group-title="MUSICA",[COLOR lime]---LAST UPDATE 08-04-2026 H. 12.16---[/COLOR]
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",51 Radio TV
 https://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
@@ -519,9 +486,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/p
 
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="WEBCAM",--- WEBCAM ---
-https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Praia do Guincho - Sul
 https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
