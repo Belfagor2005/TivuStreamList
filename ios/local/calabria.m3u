@@ -1,53 +1,55 @@
 #EXTM3U
 #EXTINF:-1,=== Calabria===
 https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1,CalabriaUno TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/calabriauno-tva.png" group-title="Calabria",CalabriaUno TV
 https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
-#EXTINF:-1,Castrovillari TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/castrovillari-tv.png" group-title="Calabria",Castrovillari TV
 rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
-#EXTINF:-1,Esperia TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/esperia-tv.png" group-title="Calabria",Esperia TV
 http://wms.shared.streamshow.it/esperiatv/esperiatv/chunklist_w1096393748.m3u8
-#EXTINF:-1,Esperia tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/esperia-tv.png" group-title="Calabria",Esperia TV
 https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
 #EXTINF:-1,Jonica Radio Tv
 https://5a1178b42cc03.streamlock.net/jonica/jonica/playlist.m3u8
-#EXTINF:-1,LaC News 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/lac-news-24.png" group-title="Calabria",LaC News 24
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1,LaC OnAir
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/324215/zPnHWY2/playlist.m3u8
-#EXTINF:-1,LaC Sat
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/lac-sat.png" group-title="Calabria",LaC Sat
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S18645024/mMAMHAA4IyPq/playlist.m3u8
-#EXTINF:-1,LaC Tv Calabria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/lac-tv-calabria.png" group-title="Calabria",LaC Tv Calabria
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
 #EXTINF:-1,L'altro Corriere TV
 https://52ee6512fee4427889eba89957975fa0.msvdn.net/live/S24350460/BEj8ZmQiQ9UG/playlist.m3u8
-#EXTINF:-1,MediaSud
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/mediasud-calabria.jpeg" group-title="Calabria",MediaSud Calabria
 https://5f22d76e220e1.streamlock.net/mediasud/mediasud/playlist.m3u8
-#EXTINF:-1,Piana TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/piana-tv.jpg" group-title="Calabria",Piana TV
 https://playerssl.telemia.tv/fileadmin/hls/PianaTV/pianatv_mediachunks.m3u8
-#EXTINF:-1,Promovideo Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/promovideo-tv.png" group-title="Calabria",Promovideo Tv
 https://media2021.rtvweb.com/promovideo_web/promovideo/chunklist_w926768377.m3u8
 #EXTINF:-1,Radio Digiesse
 https://w1.mediastreaming.it/digiesse/livestream/playlist.m3u8
 #EXTINF:-1,Radio Touring 104
 https://streamingvideo.auranex.cloud/memfs/d6c19098-78a8-4ae7-aa93-82d4ae19b64f.m3u8
-#EXTINF:-1,ReggioTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/reggio-tv.png" group-title="Calabria",Reggio Tv
 https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
-#EXTINF:-1,R.T.C. Telecalabria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rtc-telecalabria.jpg" group-title="Calabria",R.T.C. Telecalabria
 https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
-#EXTINF:-1,RTI Calabria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rti-calabria.png" group-title="Calabria",RTI Calabria
 https://stream.ets-sistemi.it:8081/rticalabria/index.m3u8
 #EXTINF:-1,Tele A1
 https://stream.ets-sistemi.it:8081/telea1-live/index.m3u8
-#EXTINF:-1,Tele Mia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-bruzzano.jpg" group-title="Calabria",Tele Bruzzano
+https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-mia.png" group-title="Calabria",Tele Mia
 https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
-#EXTINF:-1,Tele Mia Extra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-mia-extra.png" group-title="Calabria",Tele Mia Extra
 https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
-#EXTINF:-1,Telejonio
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telejonio.png" group-title="Calabria",Telejonio
 http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
 #EXTINF:-1,Ten
 https://7640f9b3494e4d1fb307f886e3b60402.msvdn.net/live/S41081260/ohLhSxDNpDNC/playlist.m3u8
-#EXTINF:-1,Video Calabria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/video-calabria.png" group-title="Calabria",Video Calabria
 https://a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/playlist.m3u8
 #EXTINF:-1,Wedding TV
 https://604e46ac2bdee.streamlock.net:1936/marcorenzi/marcorenzi/playlist.m3u8
