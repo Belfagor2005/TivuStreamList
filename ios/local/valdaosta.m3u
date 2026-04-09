@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,=== Valle D'Aosta===
-https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/primantenna-ce5jqdufak1a.png" group-title="Valle D'Aosta",Primantenna
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/icon.png" group-title="Valle D'Aosta",=== Valle D'Aosta===
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/primantenna-ce5jqdufak1a.png" group-title="Valle D'Aosta",Primantenna
 https://585b674743bbb.streamlock.net/9062/9062/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/sm/rete7.png" group-title="Valle D'Aosta",Rete7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/rete7.png" group-title="Valle D'Aosta",Rete7
 https://stream.ets-sistemi.it/live.rete7/rete7/playlist.m3u8
-#EXTINF:-1,Telecity Valle d'Aosta
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/Telecity.png" group-title="Valle D'Aosta",Telecity Valle d'Aosta
 https://64b16f23efbee.streamlock.net/telecityvda/telecityvda/playlist.m3u8

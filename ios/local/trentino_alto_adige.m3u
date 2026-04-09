@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1,=== Trentino Alto Adige===
-https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1,AltoAdige TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/icon.png" group-title="Trentino Alto Adige",=== Trentino Alto Adige===
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/altoadige-tv.png" group-title="Trentino Alto Adige",AltoAdige TV
 https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-#EXTINF:-1,Peer.tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telepace-trento-rbfvmw5kpoag.png" group-title="Trentino Alto Adige",Peer.tv
 https://iptv.peer.biz/live/peertv.m3u8
-#EXTINF:-1,RTTR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/peer-tv-alto-adige.png" group-title="Trentino Alto Adige",RTTR
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
-#EXTINF:-1,TelePace Trento
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telepace-trento-rbfvmw5kpoag.png" group-title="Trentino Alto Adige",TelePace Trento
 https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
-#EXTINF:-1,Trentino TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/trentino-tv.png" group-title="Trentino Alto Adige",Trentino Tv
 https://tntv.fluid.stream/TrentinoTV/livestream/playlist.m3u8?FLID=1
-#EXTINF:-1,TV33 Bolzano
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tv33-bolzano.jpg" group-title="Trentino Alto Adige",TV33 Bolzano
 https://64b16f23efbee.streamlock.net/tv33bz/tv33bz/playlist.m3u8
-#EXTINF:-1,TV33 Trento
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tv33-trento.jpg" group-title="Trentino Alto Adige",TV33 Trento 
 https://64b16f23efbee.streamlock.net/tv33tn/tv33tn/playlist.m3u8
