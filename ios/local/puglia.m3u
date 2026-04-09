@@ -19,6 +19,8 @@ http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u
 http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u
 #EXTINF:-1,Canale 9 
 https://585b674743bbb.streamlock.net/9026/9026/playlist.m3u
+#EXTINF:-1,Cittadella Tv
+https://59d7d6f47d7fc.streamlock.net/radiocittadella/radiocittadella/chunklist_w1661780412.m3u8
 #EXTINF:-1,Mediterranea TV
 https://stream10.xdevel.com/video1s975675-1403/stream/playlist.m3u
 #EXTINF:-1,Radio Norba TV
