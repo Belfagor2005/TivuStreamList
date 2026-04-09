@@ -19,6 +19,8 @@ https://media.velcom.it:8081/radioimmaginetv/index.fmp4.m3u8
 https://5926fc9c7c5b2.streamlock.net/9044/9044/playlist.m3u8
 #EXTINF:-1,Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1,RTR99 Ti Ricordi
+https://str38.fluid.stream/RTR99TV/livestream/chunklist_w708886143.m3u8
 #EXTINF:-1,StandbyTV
 https://5926fc9c7c5b2.streamlock.net/standbytv/standbytv/playlist.m3u8
 #EXTINF:-1,T9
