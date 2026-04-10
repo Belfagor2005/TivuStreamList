@@ -1,4 +1,4 @@
-# TivuStreamList
+# TivuGardenList +
 
 ![Screenshot](https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logo-garden-stream.png)
 
