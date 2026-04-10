@@ -23,12 +23,12 @@ list/
 │   ├── webcam_list.m3u                  # Webcam live
 │   ├── rai_med_list.m3u                 # Canali Rai e Mediaset
 │   ├── rakuten_it.m3u                   # Canali Rakuten TV Italia
-│   ├── tivustream_List.m3u              # Lista storica TivuStream
-│   ├── tivustream_Estero.m3u            # Lista storica esteri
+│   ├── tivugarden_List.m3u              # Lista storica TivuStream
+│   ├── tivugarden_Estero.m3u            # Lista storica esteri
 │   ├── radio_list.m3u                   # Tutte le radio
 │   ├── radio_country.m3u                # Radio per paese
 │   ├── radio_genre.m3u                  # Radio per genere
-│   ├── tivustream_RADIO_list.m3u        # Lista storica radio
+│   ├── tivugarden_RADIO_list.m3u        # Lista storica radio
 │   ├── startend.avi                     # Segnaposto video per separatori
 │   ├── ios_startend.avi                 # Segnaposto iOS (formato compatibile)
 │   ├── movie_countdown.mp4              # Video countdown per transizioni
