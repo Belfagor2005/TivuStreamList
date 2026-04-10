@@ -38,3 +38,6 @@ Oppure, se preferisci una delle liste specializzate:
 ---
 
 *Repository mantenuto con ❤️ da [Belfagor2005] e da [Buio2005]
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/Belfagor2005/TivuStreamList.svg?variant=adaptive)](https://starchart.cc/Belfagor2005/TivuStreamList)
