@@ -1,6 +1,6 @@
-# TivuStreamList
+# TivuGardenList+
 ![](https://komarev.com/ghpvc/?username=Belfagor2005)
-![Screenshot](https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logo-tivustream.png)
+![Screenshot](https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logo-garden-stream.png)
 
 Questo repository contiene playlist M3U generate automaticamente con canali **gratuiti e pubblici**, raccolti da fonti aperte su internet.  
 Non viene fornito alcun canale a pagamento (es. Sky, Netflix, DAZN, ecc.) né contenuti protetti da copyright in violazione di licenze.
@@ -103,3 +103,6 @@ Per le playlist regionali, sostituisci il nome della regione (es. `lombardia.m3u
 - Per segnalazioni o richieste, apri una issue in questo repository.
 
 *Repository mantenuto con ❤️ da [Belfagor2005](https://github.com/Belfagor2005) e [Buio2005](https://github.com/buio2005)*
+
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/Belfagor2005/TivuStreamList.svg?variant=adaptive)](https://starchart.cc/Belfagor2005/TivuStreamList)
