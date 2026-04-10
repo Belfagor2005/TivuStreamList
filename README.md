@@ -1,6 +1,6 @@
 # TivuStreamList
 ![](https://komarev.com/ghpvc/?username=Belfagor2005)
-![Screenshot](https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logo-tivustream.png)
+![Screenshot](https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logo-garden-stream.png)
 
 Questo repository contiene playlist M3U generate automaticamente con canali **gratuiti e pubblici**, raccolti da fonti aperte su internet.  
 Non viene fornito alcun canale a pagamento (es. Sky, Netflix, DAZN, ecc.) né contenuti protetti da copyright in violazione di licenze.
