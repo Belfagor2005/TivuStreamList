@@ -1,79 +1,79 @@
 #EXTM3U
-#EXTINF:-1,=== Lombardia===
-https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1,70-80.it
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/icon.png" group-title="Lombardia",=== Lombardia===
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/70-80it-tv-ti-ricordi.png" group-title="Lombardia",70-80.it
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-#EXTINF:-1,Antenna 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/antenna-2-bergamo.png" group-title="Lombardia",Antenna 2 Bergamo
 https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
-#EXTINF:-1,BABAYAGA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/bergamo-tv.png" group-title="Lombardia",Babayaga Tv
 https://stream1.xdevel.com/video0s975770-326/stream/playlist.m3u8
-#EXTINF:-1,Bergamo TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/bergamo-tv.png" group-title="Lombardia",Bergamo TV
 https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist.m3u8?DVR=
-#EXTINF:-1,Cremona 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/cremona-1.png" group-title="Lombardia",Cremona 1
 https://cdn2.streamshow.it/cloud-cremona1/cremona1/playlist.m3u8
-#EXTINF:-1,E'live Brescia Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/elive-brescia-tv.png" group-title="Lombardia",E'live Brescia Tv
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/chunklist_w1234149773.m3u8
-#EXTINF:-1,ÈliveBrescia TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/elive-brescia-tv.png" group-title="Lombardia",E'live Brescia Tv
 https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-#EXTINF:-1,Espansione TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/espansione-tv.png" group-title="Lombardia",Espansione TV
 https://srvx1.selftv.video/espansione/smil:live.smil/playlist.m3u8
-#EXTINF:-1,Italia 8 Prestige
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/italia8.jpeg" group-title="Lombardia",Italia 8 Prestige
 https://5f22d76e220e1.streamlock.net/italia8prestige/italia8prestige/playlist.m3u8
-#EXTINF:-1,Lombardia TV 80
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/lombardia-tv.png" group-title="Lombardia",Lombardia Tv 80
 https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
-#EXTINF:-1,Milano Pavia TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/milano-pavia-tv.png" group-title="Lombardia",Milano Pavia TV
 http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
-#EXTINF:-1,Onda Novara TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/onda-novara-tv.png" group-title="Lombardia",Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
-#EXTINF:-1,Onda Novara TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/onda-novara-tv.png" group-title="Lombardia",Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/playlist.m3u8
-#EXTINF:-1,Più Valli TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/più-valli-tv.png" group-title="Lombardia",Più Valli TV
 https://5db313b643fd8.streamlock.net/piuvallitv/piuvallitv/playlist.m3u8
-#EXTINF:-1,Radio 51 TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-51-tv.jpg" group-title="Lombardia",Radio 51 TV
 http://wms.shared.streamshow.it/canale51/canale51/playlist.m3u8
-#EXTINF:-1,Radio 60 70 80
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/60-70-80-tv.png" group-title="Lombardia",Radio 60 70 80
 https://5a1178b42cc03.streamlock.net/607080stream/607080stream/playlist.m3u8
-#EXTINF:-1,Radio Lombardia TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-lombardia-tv.jpg" group-title="Lombardia",Radio Lombardia TV
 https://stream9.xdevel.com/video0s976574-1330/stream/playlist.m3u8
-#EXTINF:-1,Radio Studio Più
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-studiopiù.jpg" group-title="Lombardia",Radio Studio Più
 https://5a1178b42cc03.streamlock.net/studiopiutv/studiopiutv/playlist.m3u8
-#EXTINF:-1,Rete 55
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rete-55.png" group-title="Lombardia",Rete 55
 https://live1.giocabet.tv/stream/6/index.m3u8
-#EXTINF:-1,Super TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/supertv-brescia.png" group-title="Lombardia",SuperTv Brescia
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,SuperTv Brescia
-http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
-#EXTINF:-1,Supersix Lombardia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/supersix-lombardia.png" group-title="Lombardia",Supersix Lombardia
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1,Tele Boario
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/teleboario.png" group-title="Lombardia",TeleBoario
 https://router.xdevel.com/video0s976425-1205/stream/playlist_dvr.m3u8
-#EXTINF:-1,Telecity Lombardia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telecity-lombardia.JPG" group-title="Lombardia",Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8
-#EXTINF:-1,TeleColor Lombardia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telecolor-lombardia.png" group-title="Lombardia",TeleColor Lombardia
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/chunklist_b3128000.m3u8
-#EXTINF:-1,TeleColor Lombardia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telecolor-lombardia.png" group-title="Lombardia",TeleColor Lombardia
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
-#EXTINF:-1,Teleleonessa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/teleleonessa.jpg" group-title="Lombardia",TeleLeonessa
 https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/playlist.m3u8
-#EXTINF:-1,TeleLeonessa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/teleleonessa.jpg" group-title="Lombardia",TeleLeonessa
 https://59d7d6f47d7fc.streamlock.net/teleleonessa/teleleonessa/chunklist_w573230189.m3u8
-#EXTINF:-1,TeleMantova
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telemantova.png" group-title="Lombardia",TeleMantova
 https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
-#EXTINF:-1,TeleMantova
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telemantova.png" group-title="Lombardia",TeleMantova
 https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/chunklist_w219870635.m3u8
-#EXTINF:-1,Tele Pavia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-pavia.png" group-title="Lombardia",Tele Pavia
 http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
-#EXTINF:-1,Tele Piadena
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-piadena.png" group-title="Lombardia",Tele Piadena
 https://stream3.xdevel.com/video0s975441-151/stream/playlist_dvr.m3u8
-#EXTINF:-1,Telenova
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telenova.png" group-title="Lombardia",Telenova
 https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
-#EXTINF:-1,Telereporter
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telereporter.png" group-title="Lombardia",Telereporter
 https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
-#EXTINF:-1,TSN TeleSondrioNews
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tsn-tele-sondrio-news.png" group-title="Lombardia",Tsn Tele Sondrio News
 https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/rewind-3600.m3u8
-#EXTINF:-1,TT Teletutto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-tutto.png" group-title="Lombardia",Tele Tutto
 https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S55287570/tq6PELOcQoAf/playlist.m3u8
-#EXTINF:-1,TT2 Teletutto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-tutto-2.png" group-title="Lombardia",Tele Tutto 2
 https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S75141837/T3wd5WoxAo4B/playlist.m3u8
-#EXTINF:-1,TT24 Teletutto
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-tutto-24.png" group-title="Lombardia",Tele Tutto 24
 https://3177cee185284d2990021eccc8b06ae6.msvdn.net/live/S64637685/c2e0XXmwILE9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/videobrescia.jpeg" group-title="Lombardia",Video Brescia
+https://59d7d6f47d7fc.streamlock.net/supertv/supertv/chunklist_w2031388123.m3u8
