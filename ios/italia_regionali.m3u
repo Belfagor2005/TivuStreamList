@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="REGIONALI ITALIA",---LAST UPDATE 11-04-2026 H. 12.30---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="REGIONALI ITALIA",---LAST UPDATE 11-04-2026 H. 13.03---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/icon.png" group-title="Abruzzo",=== Abruzzo===
@@ -213,82 +213,88 @@ https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/videoregione.jpg" group-title="Emilia Romagna",Videoregione
 https://stream.videoregione.it/hls/vr99/index.m3u8
 
-#EXTINF:-1,=== Friuli Venezia Giulia===
-https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1,Canale 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/icon.png" group-title="Friuli Venezia Giulia",=== Friuli Venezia Giulia===
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/canale-6-tvm.png" group-title="Friuli Venezia Giulia",Canale 6
 http://195.231.82.127:8082/hls/test_low.m3u8
-#EXTINF:-1,Canale77
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/canale-77.png" group-title="Friuli Venezia Giulia",Canale77
 https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/playlist.m3u8
-#EXTINF:-1,Fly Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/fly-tv.jpg" group-title="Friuli Venezia Giulia",Fly Tv
 https://cloudvideo.servers10.com:8081/8144/index.m3u8
-#EXTINF:-1,RAN Friul
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/mater-dei-tv.jpg" group-title="Friuli Venezia Giulia",Mater-Dei Tv
+https://rst2.saiuzwebnetwork.it:8081/materdeitv1/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/ran-friul.png" group-title="Friuli Venezia Giulia",Ran Friul
 https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/playlist.m3u8
-#EXTINF:-1,RAN Germ
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/ran-germ.png" group-title="Friuli Venezia Giulia",Ran Germ
 https://load-balancer.azotosolutions.com/cdnedge34/rangerm/playlist.m3u8
-#EXTINF:-1,RAN Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/ran-network.png" group-title="Friuli Venezia Giulia",Ran Network
 https://load-balancer.azotosolutions.com/cdnedge34/ranetwork/playlist.m3u8
-#EXTINF:-1,RAN News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/ran-news.png" group-title="Friuli Venezia Giulia",Ran News
 https://load-balancer.azotosolutions.com/cdnedge34/ranwes/playlist.m3u8
-#EXTINF:-1,RAN Slo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/ran-slo.png" group-title="Friuli Venezia Giulia",Ran Slo
 https://load-balancer.azotosolutions.com/cdnedge34/ranslo/playlist.m3u8
-#EXTINF:-1,RAN Sport
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/ran-sport.png" group-title="Friuli Venezia Giulia",Ran Sport
 https://load-balancer.azotosolutions.com/cdnedge34/ransport/playlist.m3u8
-#EXTINF:-1,RAN Stereo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/ran-stereo.png" group-title="Friuli Venezia Giulia",Ran Stereo
 https://load-balancer.azotosolutions.com/cdnedge34/ranstereo/playlist.m3u8
-#EXTINF:-1,Radio Punto Zero TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-punto-zero-tv.png" group-title="Friuli Venezia Giulia",Radio Punto Zero TV
 https://58d921499d3d3.streamlock.net/RPZ/livestream/playlist.m3u8
-#EXTINF:-1,SuperSix 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/supersix-24.png" group-title="Friuli Venezia Giulia",SuperSix 24
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1,Tele Alto But
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-alto-but.png" group-title="Friuli Venezia Giulia",Tele Alto But
 https://load-balancer.azotosolutions.com/cdnedge34/telealtobut/playlist.m3u8
-#EXTINF:-1,Telefriuli
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telefriuli.png" group-title="Friuli Venezia Giulia",TeleFriuli
 https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
-#EXTINF:-1,TeleQuattro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telequattro.png" group-title="Friuli Venezia Giulia",TeleQuattro
 http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w1388066579.m3u8
-#EXTINF:-1,TeleQuattro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telequattro.png" group-title="Friuli Venezia Giulia",TeleQuattro
 https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
-#EXTINF:-1,TV12
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/udinews-tv-12.png" group-title="Friuli Venezia Giulia",TV12
 https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
-#EXTINF:-1,TVM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tvm.JPG" group-title="Friuli Venezia Giulia",TVM
 http://195.231.82.127:8081/hls/test_low.m3u8
-#EXTINF:-1,VideoTeleCarnia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/video-tele-carina.png" group-title="Friuli Venezia Giulia",Video Tele Carnia
 https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
 
-#EXTINF:-1,=== Lazio===
-https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1,Canale 10 Ostia (540p) [Not 24/7]
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/icon.png" group-title="Lazio",=== Lazio===
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/canale-10.png" group-title="Lazio",Canale 10
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/chunklist_w2118955691.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/canale-10.png" group-title="Lazio",Canale 10 Ostia (540p) [Not 24/7]
 https://nrvideo1.newradio.it/desxcerbht/desxcerbht/playlist.m3u8
-#EXTINF:-1,Canale 21 Extra
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/canale21-extra.png" group-title="Lazio",Canale 21 Extra
 https://0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S38994111/B7j0ql4XaZtE/playlist.m3u8
-#EXTINF:-1,Extra TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/extra-tv-live.jpg" group-title="Lazio",Extra TV
 https://rst2.saiuzwebnetwork.it:8081/extratvlive/index.m3u8
-#EXTINF:-1,Gold TV Roma
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/gold-tv-roma.png" group-title="Lazio",Gold TV Roma
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-#EXTINF:-1,Laziotv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/laziotv.png" group-title="Lazio",LazioTV
 https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
-#EXTINF:-1,Odeon 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/odeon-24.png" group-title="Lazio",Odeon 24
 https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
-#EXTINF:-1,Radio Immagine TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-immagine-tv.jpg" group-title="Lazio",Radio Immagine TV
 https://media.velcom.it:8081/radioimmaginetv/index.fmp4.m3u8
-#EXTINF:-1,Radio Mambo TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-mambo-tv.png" group-title="Lazio",Radio Mambo TV
 https://5926fc9c7c5b2.streamlock.net/9044/9044/playlist.m3u8
-#EXTINF:-1,Rete Oro
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rete-oro.png" group-title="Lazio",Rete Oro
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-#EXTINF:-1,RTR99 Ti Ricordi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rete-sole-lazio.png" group-title="Lazio",Rete Sole (Lazio)
+https://5926fc9c7c5b2.streamlock.net/9332/9332/chunklist_w830303151.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rtr99-ti-ricordi.png" group-title="Lazio",RTR99 Ti Ricordi
 https://str38.fluid.stream/RTR99TV/livestream/chunklist_w708886143.m3u8
-#EXTINF:-1,StandbyTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/standby-tv.png" group-title="Lazio",StandbyTV
 https://5926fc9c7c5b2.streamlock.net/standbytv/standbytv/playlist.m3u8
-#EXTINF:-1,T9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/t9.png" group-title="Lazio",T9
 https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
-#EXTINF:-1,Teleambiente
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/teleambiente.png" group-title="Lazio",Teleambiente
 https://5f22d76e220e1.streamlock.net/teleambiente2024/teleambiente2024/playlist.m3u8
-#EXTINF:-1,Telegolfo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telegolfo-rtg.png" group-title="Lazio",Telegolfo RTG
 https://nrvideo1.newradio.it:1936/vmbjrayngd/vmbjrayngd/playlist.m3u8
-#EXTINF:-1,TeleTibur
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/teletibur.png" group-title="Lazio",TeleTibur
 https://57068da1deb21.streamlock.net/teletibur/teletibur/chunklist_w1505891546.m3u8
-#EXTINF:-1,TeleTusciaSabina 2000
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tuscia-sabina-2000.png" group-title="Lazio",Tuscia Sabina 2000
 https://streaming.ts2000tv.it:30443/ts2000tv/ts2000tv/playlist.m3u8
-#EXTINF:-1,TRL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/trl-tele-radio-leo.png" group-title="Lazio",TRL
 https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/icon.png" group-title="Liguria",=== Liguria===
