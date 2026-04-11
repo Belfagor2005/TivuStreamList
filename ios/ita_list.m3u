@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="ITALIA",--- ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 11-04-2026 H. 13.03---
+#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 11-04-2026 H. 16.56---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="ITALIA",111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
@@ -127,6 +127,8 @@ https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/p
 https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist_video.m3u8
 #EXTINF:-1 group-title="ITALIA",Maria Vision
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:CHANNEL_2/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Media TV
+https://stream3.aswifi.it/mediatv/stream/index.m3u8
 #EXTINF:-1 group-title="ITALIA",Medjugorje Italia TV
 https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Minformo TV
@@ -247,6 +249,8 @@ https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hl
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Stereo 5 TV
 https://stream1.aswifi.it/stereo5/live/index.m3u8
+#EXTINF:-1 group-title="ITALIA",Super J
+https://59d39900ebfb8.streamlock.net/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Super TV
 https://59d7d6f47d7fc.streamlock.net/supertv/supertv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Super!
@@ -265,6 +269,8 @@ https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Tele Quattro
 https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Tele2000
+https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
 #EXTINF:-1 group-title="ITALIA",TeleArena
 https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Telecolor Lombardia
@@ -319,6 +325,8 @@ https://eu1.servers10.com:8081/8032/index.m3u8
 https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
 #EXTINF:-1 group-title="ITALIA",TV Qui (Modena)
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",TVRS Marche
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Umbria TV
 https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",UniNettuno University TV
@@ -327,6 +335,8 @@ https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8
 https://amg00056-amg00056c12-rakuten-it-3240.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Vevo Pop Italy
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",VideoTolentino
+https://5c389faa13be3.streamlock.net:9553/8006/8006/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Yu-Gi-Oh! Italy
 https://amg01796-amg01796c17-rakuten-it-7492.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh3it-rakutenit/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",èTv Marche
