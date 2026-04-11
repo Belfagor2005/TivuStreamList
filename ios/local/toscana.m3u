@@ -1,47 +1,47 @@
 #EXTM3U
-#EXTINF:-1,=== Toscana===
-https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.avi
-#EXTINF:-1,Antenna 3 Toscana
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/icon.png" group-title="Toscana",=== Toscana===
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/antenna-3-toscana.jpg" group-title="Toscana",Antenna 3 Toscana
 https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
-#EXTINF:-1,C3T Canale 3 Toscana
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/canale-3.png" group-title="Toscana",C3T Canale 3 Toscana
 https://router.xdevel.com/video0s976737-1453/stream/playlist.m3u8
-#EXTINF:-1,Canale 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/canale-3.png" group-title="Toscana",C3T Canale 3 Toscana
 https://stream4.xdevel.com/video0s976737-1453/stream/playlist.m3u8
-#EXTINF:-1,Firenze Viola TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-firenze-viola.jpg" group-title="Toscana",Firenze Viola TV
 https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1
-#EXTINF:-1,Idea Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/idea-plus.png" group-title="Toscana",Idea Plus
 https://rst2.saiuzwebnetwork.it:8081/ideaplus/index.m3u8
-#EXTINF:-1,Mitology TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/mitology-tv.jpg" group-title="Toscana",Mitology TV
 https://64b16f23efbee.streamlock.net/mitologytv/mitologytv/playlist.m3u8
-#EXTINF:-1,NTi Canale 93
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/nti-canale-93.png" group-title="Toscana",NTi Canale 93
 https://www.ntimedia.it/video/S0B/S0B_master.m3u8
-#EXTINF:-1,Radio Italia Cina TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-italia-cina-tv.jpg" group-title="Toscana",Radio Italia Cina TV
 https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
-#EXTINF:-1,Radio Siena TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/siena-tv.png" group-title="Toscana",Siena Tv 
 https://router.xdevel.com/video0s976727-1441/stream/playlist.m3u8
-#EXTINF:-1,Retemia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rete-mia.png" group-title="Toscana",Retemia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-#EXTINF:-1,RTV38
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/televaldarno-rtv38.png" group-title="Toscana",RTV38 Televaldarno 
 https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
-#EXTINF:-1,SPORTVL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sport-vl.jpeg" group-title="Toscana",Sportvl
 https://59nyq4a2lwap-hls-live.mariatvcdn.it/tvlsport/79d485442e700b9ae37c4344c130998d.sdp/playlist.m3u8
-#EXTINF:-1,Telecentro 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telecentro-2.png" group-title="Toscana",Telecentro 2
 https://5f22d76e220e1.streamlock.net/telecentro2/telecentro2/playlist.m3u8
-#EXTINF:-1,Telegraducato
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telegranducato.png" group-title="Toscana",TeleGranducato
 https://www.granducatotv.eu/tv/granducato/hls/?cid=40
-#EXTINF:-1,TeleGranducato
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telegranducato.png" group-title="Toscana",TeleGranducato
 https://www.granducatotv.eu/tv/granducato/hls/index.flashls.m3u8.php?cid=0&m3u8=.m3u8
-#EXTINF:-1,TeleSanDomenico (TSD TV Arezzo)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telesandomenico-tsd-tv-arezzo.png" group-title="Toscana",TeleSanDomenico (TSD TV Arezzo)
 https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/mono.m3u8
-#EXTINF:-1,Teletruria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/teletruria.png" group-title="Toscana",Teletruria
 https://cb01a76aa80f4069b2bf82c90466134a.msvdn.net/live/S79636643/7iyY76l3IDBd/playlist.m3u8?DVR
-#EXTINF:-1,TV Prato
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tv-prato.png" group-title="Toscana",TV Prato
 https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/chunks.m3u8
-#EXTINF:-1,TV Prato
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tv-prato.png" group-title="Toscana",TV Prato
 https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/mono.m3u8
-#EXTINF:-1,TV9 Telemaremma
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tv9-telemaremma.png" group-title="Toscana",TV9 Telemaremma
 https://view.dacast.com/76305317bd6d5f2af13478c9b0ef4aef-live-6339ee65498e3ca8e75590daa7e447f5/adaptive.m3u8
-#EXTINF:-1,TVL
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tvl-tv-libera.png" group-title="Toscana",TVL (TV Libera)
 https://oj7lnw79lg82-hls-live.mariatvcdn.it/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
-#EXTINF:-1,Vuemme
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/vuemme.jpeg" group-title="Toscana",Vuemme
 https://5db313b643fd8.streamlock.net/vm/vm/playlist.m3u8
