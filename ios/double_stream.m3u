@@ -1,6 +1,33 @@
 #EXTM3U
 # Canali duplicati (stesso URL) - modificare manualmente
 
+#EXTINF:-1 group-title="ITALIA",RAI 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="ITALIA",RAI 3 (720p)
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+
+#EXTINF:-1 group-title="ITALIA",RAI 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
+#EXTINF:-1 group-title="ITALIA",RAI 5
+http://78.130.250.2:8023/play/a04o/index.m3u8
+
+#EXTINF:-1 group-title="ITALIA",RAI Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 group-title="ITALIA",RAI News 24
+http://78.130.250.2:8023/play/a04l/index.m3u8
+
+#EXTINF:-1 group-title="ITALIA",RAI Scuola
+http://78.130.250.2:8023/play/a04h/index.m3u8
+
+#EXTINF:-1 group-title="ITALIA",Rai Sport
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+
+#EXTINF:-1 group-title="ITALIA",RAI Yoyo
+http://78.130.250.2:8023/play/a04d/index.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Praia do Guincho - Sul
 https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
 
