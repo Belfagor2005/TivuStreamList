@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="PLEX TV",---LAST UPDATE 29-03-2026 H. 07.13---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/plex.png" group-title="PLEX TV",---LAST UPDATE 12-04-2026 H. 07.13---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1,FilmRise Sci-Fi
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-65e9d0ad8fe4ef7053c3c86a.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
@@ -25,7 +25,8 @@ https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6438eab12db1
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-69222e0c50fe592fd6d5b7e4.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
 #EXTINF:-1,Cinema Italiano
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-6438e8b683766488c3bc9d4b.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
-#EXTINF:-1,Sony One | Film Dhttps://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-69222d7d5028288613484a84.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
+#EXTINF:-1,Sony One | Film D
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-69222d7d5028288613484a84.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
 #EXTINF:-1,CHILI Alta Tensione
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-64c53f787ada8486dae11a29.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
 #EXTINF:-1,Cine Amore
@@ -428,7 +429,8 @@ https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-68e9436dda6b
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-62ee784852f7d73061eec493.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
 #EXTINF:-1,Stingray Soul Storm
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-61aaa17a784a2161d3caf801.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
-#EXTINF:-1,Remember the https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-61aa9f50784a2161d3caf7fb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
+#EXTINF:-1,Remember the 
+https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-61aa9f50784a2161d3caf7fb.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
 #EXTINF:-1,Stingray Hot Country
 https://epg.provider.plex.tv/library/parts/6430a9dcfc3be594776d55f4-61aa9e73784a2161d3caf7f9.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=wh8WCkbVyytfXbPjRUX-
 #EXTINF:-1,TRACE UK
