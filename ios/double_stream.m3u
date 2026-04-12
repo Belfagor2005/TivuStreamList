@@ -1,32 +1,44 @@
 #EXTM3U
 # Canali duplicati (stesso URL) - modificare manualmente
 
-#EXTINF:-1 group-title="ITALIA",RAI 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-chno=106 tvg-id="filmrise-sci-fi-it" tvg-name="FilmRise Sci-Fi" group-title="programmi_tv",FilmRise Sci-Fi
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 
-#EXTINF:-1 group-title="ITALIA",RAI 3 (720p)
-https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 tvg-chno=110 tvg-id="filmrise-relic-hunter-ita" tvg-name="Relic Hunter" group-title="programmi_tv",Relic Hunter
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 
-#EXTINF:-1 group-title="ITALIA",RAI 4K
-https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 tvg-chno=112 tvg-id="andromeda-it" tvg-name="Andromeda" group-title="programmi_tv",Andromeda
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 
-#EXTINF:-1 group-title="ITALIA",RAI 5
-http://78.130.250.2:8023/play/a04o/index.m3u8
+#EXTINF:-1 tvg-chno=128 tvg-id="filmrise-highway-to-heaven-it" tvg-name="Autostop per il Cielo" group-title="programmi_tv",Autostop per il Cielo
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 
-#EXTINF:-1 group-title="ITALIA",RAI Movie
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-chno=339 tvg-id="hard-knocks-fighting-championship" tvg-name="Hard Knocks Fighting Championship" group-title="sport",Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 
-#EXTINF:-1 group-title="ITALIA",RAI News 24
-http://78.130.250.2:8023/play/a04l/index.m3u8
+#EXTINF:-1 tvg-chno=408 tvg-id="brindiamo" tvg-name="Brindiamo!" group-title="lifestyle",Brindiamo!
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 
-#EXTINF:-1 group-title="ITALIA",RAI Scuola
-http://78.130.250.2:8023/play/a04h/index.m3u8
+#EXTINF:-1 tvg-chno=424 tvg-id="stingray-naturescape" tvg-name="Stingray Naturescape" group-title="lifestyle",Stingray Naturescape
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 
-#EXTINF:-1 group-title="ITALIA",Rai Sport
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+#EXTINF:-1 tvg-chno=541 tvg-id="stingray-greatest-hits" tvg-name="Stingray Greatest Hits" group-title="musica",Stingray Greatest Hits
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 
-#EXTINF:-1 group-title="ITALIA",RAI Yoyo
-http://78.130.250.2:8023/play/a04d/index.m3u8
+#EXTINF:-1 tvg-chno=542 tvg-id="stingray-hit-list" tvg-name="Stingray: Hitlist" group-title="musica",Stingray: Hitlist
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+
+#EXTINF:-1 tvg-chno=543 tvg-id="stingray-remember-the-80-s" tvg-name="Stingray: Remember the 80’s" group-title="musica",Stingray: Remember the 80’s
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+
+#EXTINF:-1 tvg-chno=544 tvg-id="qello-concerts-by-stingray" tvg-name="Qello Concerts by Stingray" group-title="musica",Qello Concerts by Stingray
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+
+#EXTINF:-1 tvg-chno=613 tvg-id="car-city-adventures-it" tvg-name="Car City Adventures" group-title="bambini",Car City Adventures
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+
+#EXTINF:-1 tvg-chno=758 tvg-id="filmrise-forensic-files-ita" tvg-name="Forensic Files" group-title="crime_e_mistério",Forensic Files
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="WEBCAM",Praia do Guincho - Sul
 https://video-auth1.iol.pt/beachcam/praiaguinchosul/playlist.m3u8
