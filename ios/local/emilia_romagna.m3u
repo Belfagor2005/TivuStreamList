@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/icon.png" group-title="Emilia Romagna",=== Emilia Romagna===
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/regioni/emiliaromagna.png" group-title="Emilia Romagna",=== Emilia Romagna===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/12-tv-parma.png" group-title="Emilia Romagna",12 Tv Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8

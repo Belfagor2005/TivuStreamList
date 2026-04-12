@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/icon.png" group-title="Friuli Venezia Giulia",=== Friuli Venezia Giulia===
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/friuliveneziagiulia.png" group-title="Friuli Venezia Giulia",=== Friuli Venezia Giulia===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/canale-6-tvm.png" group-title="Friuli Venezia Giulia",Canale 6
 http://195.231.82.127:8082/hls/test_low.m3u8

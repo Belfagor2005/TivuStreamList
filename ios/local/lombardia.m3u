@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/icon.png" group-title="Lombardia",=== Lombardia===
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/lombardia.png" group-title="Lombardia",=== Lombardia===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/70-80it-tv-ti-ricordi.png" group-title="Lombardia",70-80.it
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
