@@ -2,6 +2,19 @@
 ![](https://komarev.com/ghpvc/?username=Belfagor2005)
 ![Screenshot](https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logo-garden-stream.png)
 
+<p align="center">
+  <a href="https://github.com/Belfagor2005/[[TivuStreamList](https://github.com/Belfagor2005/TivuStreamList)](https://github.com/Belfagor2005/TivuStreamList)/actions/workflows/pylint.yml">
+    <img src="https://github.com/Belfagor2005/[[TivuStreamList](https://github.com/Belfagor2005/TivuStreamList)](https://github.com/Belfagor2005/TivuStreamList)/actions/workflows/pylint.yml/badge.svg" alt="Python package">
+  </a>
+  <a href="https://github.com/Belfagor2005/[TivuStreamList](https://github.com/Belfagor2005/TivuStreamList)/actions/workflows/ruff.yml">
+    <img src="https://github.com/Belfagor2005/[TivuStreamList](https://github.com/Belfagor2005/TivuStreamList)/actions/workflows/ruff.yml/badge.svg" alt="Ruff Status">
+  </a>
+  <a href="https://www.gnu.org/licenses/gpl-3.0.html">
+    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License">
+  </a>
+</p>
+
+
 Questo repository contiene playlist M3U generate automaticamente con canali **gratuiti e pubblici**, raccolti da fonti aperte su internet.  
 Non viene fornito alcun canale a pagamento (es. Sky, Netflix, DAZN, ecc.) né contenuti protetti da copyright in violazione di licenze.
 
