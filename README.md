@@ -106,5 +106,3 @@ Per le playlist regionali, sostituisci il nome della regione (es. `lombardia.m3u
 
 *Repository mantenuto con ❤️ da [Belfagor2005](https://github.com/Belfagor2005) e [Buio2005](https://github.com/buio2005)*
 
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/Belfagor2005/TivuStreamList.svg?variant=adaptive)](https://starchart.cc/Belfagor2005/TivuStreamList)
