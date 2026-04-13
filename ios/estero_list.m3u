@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",---LAST UPDATE 13-04-2026 H. 12.53---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",---LAST UPDATE 13-04-2026 H. 17.03---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- AD ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
@@ -935,6 +935,8 @@ https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8
 https://g5nl63z8lpq6-hls-live.5centscdn.com/tvistream/a5586d8ea3b7b021120a05c60dc59876.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",MaxTV/Dieu TV
 https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svizzera",Meteonews
+https://streaming.meteonews.net/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",QS24.tv
 https://h030.video-stream-hosting.de/quantisana-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",Radio 3i
@@ -945,16 +947,24 @@ https://585b674743bbb.streamlock.net/9030/9030/playlist.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svizzera",RTS 1
+https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-dash/rts1hd.mpd
+#EXTINF:-1 tvg-logo="" group-title="Svizzera",RTS 2
+https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-dash/rts2hd.mpd
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",RTV Islam
 https://protokolldns.xyz/rtvislamweb554/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",RTV Pendimi
 https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svizzera",Shiva Live TV
+https://streameurope.ch/live/shivalivetv.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",Sivan TV
 https://sivantv.livebox.co.in/sivantvhls/sivan.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",TeleTicino
 https://vstream-cdn.ch/hls/teleticino.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Svizzera",TV Rheintal
 https://rtmp-vm.fidion.de/live/tvrt.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Svizzera",TVM3
+https://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/inter.png" group-title="ESTERO",--- CI ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="CI",A12 TV
