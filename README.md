@@ -1,5 +1,5 @@
 # TivuGardenList+
-![](https://komarev.com/ghpvc/?username=Belfagor2005)<p>  <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License"></a></p>
+![](https://komarev.com/ghpvc/?username=Belfagor2005)  <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License"></a><p>
 
 ![Screenshot](https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logo-garden-stream.png)
 
