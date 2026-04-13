@@ -1,2 +1,9 @@
 #EXTM3U
-# Nessun canale duplicato trovato
+# Canali duplicati (stesso URL) - modificare manualmente
+
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Guardian Talk Radio
+https://guaranteenews.in:8443/live/gnews/index.m3u8
+
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",Trailers
+https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
+
