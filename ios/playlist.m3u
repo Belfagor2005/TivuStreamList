@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",---LAST UPDATE 13-04-2026 H. 12.48---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",---LAST UPDATE 13-04-2026 H. 12.54---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
@@ -1148,7 +1148,7 @@ https://pb-41uwb26l8gvwx.akamaized.net/World_Poker_Tour.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/news.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS ITALIA",---LAST UPDATE 13-04-2026 H. 12.17---
+#EXTINF:-1 group-title="NEWS ITALIA",---LAST UPDATE 13-04-2026 H. 12.53---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS ITALIA",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
@@ -1166,7 +1166,7 @@ https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/news.png" group-title="NEWS INTERNATIONAL",--- NEWS INTERNATIONAL ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",---LAST UPDATE 13-04-2026 H. 12.17---
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",---LAST UPDATE 13-04-2026 H. 12.53---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",10 TV
 https://cdn-1.pishow.tv/live/391/master.m3u8
@@ -2236,7 +2236,7 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/musical.png" group-title="MUSICA",--- MUSICA = RADIO TV ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="MUSICA",---LAST UPDATE 13-04-2026 H. 12.17---
+#EXTINF:-1 group-title="MUSICA",---LAST UPDATE 13-04-2026 H. 12.53---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
@@ -4245,6 +4245,10 @@ https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/episod
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/episode/616833346e3813001a8a81c5/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJlYmRmODZlLWU4NzEtNDk1MC1hN2Q5LWE3NTM1OTM4YjYxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxYzljMGIxNC0zNzExLTExZjEtYjdjOS00NjhkNTAwZDdkYmEiLCJjbGllbnRJUCI6IjUuMTMzLjQ4LjAiLCJjaXR5IjoiUmVnZ2lvIE5lbGwnZW1pbGlhIiwicG9zdGFsQ29kZSI6IjQyMTI0IiwiY291bnRyeSI6IklUIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJJVCIsImRldmljZUxhdCI6NDQuNzQwMDAxNjc4NDY2OCwiZGV2aWNlTG9uIjoxMC42MDAwMDAzODE0Njk3MjcsInByZWZlcnJlZExhbmd1YWdlIjoiaXQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyMi4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6ImI3NTkxNWQyLTY3M2ItNGExOS05NDE4LTY4YmI3OTk0NzVkNyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJFdXJvcGUvUm9tZSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImI3NTkxNWQyLTY3M2ItNGExOS05NDE4LTY4YmI3OTk0NzVkNyIsImZ3VmNJRDJDb3BwYSI6ImI3NTkxNWQyLTY3M2ItNGExOS05NDE4LTY4YmI3OTk0NzVkNyIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiYjc1OTE1ZDItNjczYi00YTE5LTk0MTgtNjhiYjc5OTQ3NWQ3IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAxNiwxMDAyMCwxMDAyMSwxMDAyMywxMDAxMywxMDAxNCwxMDAxNSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3NjA2ODIwNTkxNSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOklUOllqYzFPVEUxWkRJdE5qY3pZaTAwWVRFNUxUazBNVGd0TmpoaVlqYzVPVFEzTldRMyIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzYxNTQ2MDUsImlhdCI6MTc3NjA2ODIwNSwianRpIjoiNGE4YmU3NzQtMWEwYy00YjFjLTk3NmItZWUzMjlmZDJiYzg3In0.mFlLTKw2QZoMZP4700qXetGTs1loPLEmZwoFX0s4ryU&masterJWTPassthrough=true&advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=b75915d2-673b-4a19-9418-68bb799475d7&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=b75915d2-673b-4a19-9418-68bb799475d7&deviceLat=44.7400&deviceLon=10.6000&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=IT&serverSideAds=false&sessionID=1c9c0b14-3711-11f1-b7c9-468d500d7dba&sid=1c9c0b14-3711-11f1-b7c9-468d500d7dba&userId=&audioLanguage=it
 #EXTINF:-1 tvg-name="The Bride",The Bride
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/episode/6246b10fef11000014d22395/master.m3u8?jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjJlYmRmODZlLWU4NzEtNDk1MC1hN2Q5LWE3NTM1OTM4YjYxNCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiIxYzljMGIxNC0zNzExLTExZjEtYjdjOS00NjhkNTAwZDdkYmEiLCJjbGllbnRJUCI6IjUuMTMzLjQ4LjAiLCJjaXR5IjoiUmVnZ2lvIE5lbGwnZW1pbGlhIiwicG9zdGFsQ29kZSI6IjQyMTI0IiwiY291bnRyeSI6IklUIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJJVCIsImRldmljZUxhdCI6NDQuNzQwMDAxNjc4NDY2OCwiZGV2aWNlTG9uIjoxMC42MDAwMDAzODE0Njk3MjcsInByZWZlcnJlZExhbmd1YWdlIjoiaXQiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEyMi4wLjAiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjguMC4wLTExMWIyYjlkYzAwYmQwYmVhOTAzMGIzMDY2MjE1OWVkOWU3YzhiYzYiLCJjbGllbnRJRCI6ImI3NTkxNWQyLTY3M2ItNGExOS05NDE4LTY4YmI3OTk0NzVkNyIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJFdXJvcGUvUm9tZSIsInNlcnZlclNpZGVBZHMiOmZhbHNlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsibXVsdGlQb2RBZHMiOnsiY29ob3J0IjoiIiwiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVySGxzTmciOnsiZGVtdXhlZEF1ZGlvIjoiaml0In19LCJmbXNQYXJhbXMiOnsiZndWY0lEMiI6ImI3NTkxNWQyLTY3M2ItNGExOS05NDE4LTY4YmI3OTk0NzVkNyIsImZ3VmNJRDJDb3BwYSI6ImI3NTkxNWQyLTY3M2ItNGExOS05NDE4LTY4YmI3OTk0NzVkNyIsImN1c3RvbVBhcmFtcyI6eyJmbXNfbGl2ZXJhbXBfaWRsIjoiIiwiZm1zX2VtYWlsaGFzaCI6IiIsImZtc19zdWJzY3JpYmVyaWQiOiIiLCJmbXNfaWZhIjoiIiwiZm1zX2lkZnYiOiIiLCJmbXNfdXNlcmlkIjoiYjc1OTE1ZDItNjczYi00YTE5LTk0MTgtNjhiYjc5OTQ3NWQ3IiwiZm1zX3ZjaWQydHlwZSI6InVzZXJpZCIsImZtc19yYW1wX2lkIjoiIiwiZm1zX2hoX3JhbXBfaWQiOiIiLCJmbXNfYmlkaWR0eXBlIjoiIiwiX2Z3XzNQX1VJRCI6IiIsImZtc19ydWxlaWQiOiIxMDAwMCwxMDAwOSwxMDAxNiwxMDAyMCwxMDAyMSwxMDAyMywxMDAxMywxMDAxNCwxMDAxNSJ9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwic2Vzc2lvblN0YXJ0VGltZSI6MTc3NjA2ODIwNTkxNSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOklUOllqYzFPVEUxWkRJdE5qY3pZaTAwWVRFNUxUazBNVGd0TmpoaVlqYzVPVFEzTldRMyIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE3NzYxNTQ2MDUsImlhdCI6MTc3NjA2ODIwNSwianRpIjoiNGE4YmU3NzQtMWEwYy00YjFjLTk3NmItZWUzMjlmZDJiYzg3In0.mFlLTKw2QZoMZP4700qXetGTs1loPLEmZwoFX0s4ryU&masterJWTPassthrough=true&advertisingId=&appName=web&appVersion=8.0.0-111b2b9dc00bd0bea9030b30662159ed9e7c8bc6&app_name=web&clientDeviceType=0&clientID=b75915d2-673b-4a19-9418-68bb799475d7&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=b75915d2-673b-4a19-9418-68bb799475d7&deviceLat=44.7400&deviceLon=10.6000&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=122.0.0&marketingRegion=IT&serverSideAds=false&sessionID=1c9c0b14-3711-11f1-b7c9-468d500d7dba&sid=1c9c0b14-3711-11f1-b7c9-468d500d7dba&userId=&audioLanguage=it
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/rakuten-classico-eu-italy.png" group-title="RAKUTEN TV ITALIA",--- RAKUTEN TV ITALIA ---
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/tv_image/rakuten-classico-eu-italy.png" group-title="RAKUTEN TV ITALIA",---LAST UPDATE 13-04-2026 H. 12.52---
+https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-chno=38 tvg-id="bizzarro-movies" tvg-name="Bizzarro Movies" group-title="film",Bizzarro Movies
 https://9d597739.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0JpenphcnJvTW92aWVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-chno=39 tvg-id="cinema-italiano" tvg-name="Cinema Italiano" group-title="film",Cinema Italiano
@@ -4447,7 +4451,7 @@ https://amg01076-amg01076c23-rakuten-it-8815.playouts.now.amagi.tv/playlist/amg0
 https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/plex.png" group-title="PLEX TV",--- PLEX TV ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/plex.png" group-title="PLEX TV",---LAST UPDATE 13-04-2026 H. 06.11---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/plex.png" group-title="PLEX TV",---LAST UPDATE 13-04-2026 H. 12.53---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/1ba52ec0-cbc2-4a05-92e8-702c02215515/FilmRise_SciFi_1500x1000_Light_Logo.png" group-title="PLEX TV - Hit TV",FilmRise Sci-Fi
