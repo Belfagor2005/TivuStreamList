@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",---LAST UPDATE 14-04-2026 H. 14.49---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",---LAST UPDATE 14-04-2026 H. 19.48---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -162,14 +162,14 @@ https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.
 https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/la-7.png" group-title="Canali Ita",La7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/la-7.png" group-title="Canali Ita",La7
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/la7d.png" group-title="Canali Ita",La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/la7d.png" group-title="Canali Ita",La7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/la7d.png" group-title="Canali Ita",La7 Cinema
 https://d15umi5iaezxgx.cloudfront.net/LA7D/DRM/DASH/Live_Audio-init.mp4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/la7d.png" group-title="Canali Ita",La7 Cinema
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MjIwMTg3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9sYTdkL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVmODYzNDJiZTQyZTEwNTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls0OF19.J9XZ6nnVPVhi5PBABI5s36pagNuoSpVIGPeTnoPWOyLSsUD7hh3xpx-3MfacDJ5eOMCNwEc3PGRGZkLG_qcSOA==/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/TV8.jpg" group-title="Canali Ita",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/TV8.jpg" group-title="Canali Ita",TV8
@@ -1192,7 +1192,7 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=Ug
 http://185.57.68.33/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/news.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS ITALIA",---LAST UPDATE 14-04-2026 H. 14.48---
+#EXTINF:-1 group-title="NEWS ITALIA",---LAST UPDATE 14-04-2026 H. 19.47---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS ITALIA",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
@@ -1210,7 +1210,7 @@ https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/news.png" group-title="NEWS INTERNATIONAL",--- NEWS INTERNATIONAL ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",---LAST UPDATE 14-04-2026 H. 14.48---
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",---LAST UPDATE 14-04-2026 H. 19.47---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",10 TV
 https://cdn-1.pishow.tv/live/391/master.m3u8
@@ -2280,7 +2280,7 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/musical.png" group-title="MUSICA",--- MUSICA = RADIO TV ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="MUSICA",---LAST UPDATE 14-04-2026 H. 14.48---
+#EXTINF:-1 group-title="MUSICA",---LAST UPDATE 14-04-2026 H. 19.47---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
