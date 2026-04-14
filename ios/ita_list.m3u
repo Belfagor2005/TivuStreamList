@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="ITALIA",--- ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 14-04-2026 H. 14.48---
+#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 14-04-2026 H. 19.47---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="ITALIA",111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
@@ -142,9 +142,9 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/p
 #EXTINF:-1 group-title="ITALIA",La TR3 Marsala
 https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",La7
-https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:-1 group-title="ITALIA",La7 Cinema
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+#EXTINF:-1 group-title="ITALIA",La7 Cinema
+https://cachehsi1a.netplus.ch/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzc2MjIwMTg3Iiwic2lwIjoiIiwicGF0aCI6Ii9saXZlL2Vkcy9sYTdkL2Jyb3dzZXItSExTOC8iLCJzZXNzaW9uX2Nkbl9pZCI6IjVmODYzNDJiZTQyZTEwNTAiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzEwLjAuMjI5LjE5Iiwic2Vzc2lvbl90aW1lb3V0IjowLCJhdWQiOiI0MSIsInNvdXJjZXMiOls0OF19.J9XZ6nnVPVhi5PBABI5s36pagNuoSpVIGPeTnoPWOyLSsUD7hh3xpx-3MfacDJ5eOMCNwEc3PGRGZkLG_qcSOA==/live/eds/la7d/browser-HLS8/la7d.m3u8
 #EXTINF:-1 group-title="ITALIA",LaC News 24
 https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Lazio TV
