@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="ITALIA",--- ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 15-04-2026 H. 19.47---
+#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 15-04-2026 H. 21.36---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="ITALIA",111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
@@ -369,6 +369,14 @@ https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Sport Italia
 https://amg01370-italiansportcom-sportitalia-rakuten-3hmdb.amagi.tv/hls/amagi_hls_data_rakutenAA-sportitalia-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="ITALIA",SportItalia HD
+https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",SportItalia HD Plus
+https://edge-001.streamup.eu/sportitalia/sihd_abr2/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",SportItalia Primavera Tv
+https://edge-001.streamup.eu/sportitalia/silive24_abr/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",SportItalia Solocalcio
+https://edge-001.streamup.eu/sportitalia/sisolocalcio_abr/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",ST Europe Channel
 https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Stereo 5 TV
