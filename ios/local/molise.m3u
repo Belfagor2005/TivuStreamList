@@ -5,9 +5,9 @@ https://github.com/Belfagor2005/TivuStreamList/raw/refs/heads/list/ios/startend.
 https://stream3.aswifi.it/mediatv/stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telemolise.png" group-title="Molise",Telemolise
 http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tlt-molise.jpg" group-title="Molise",TLT Molise
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tlt-molise.png" group-title="Molise",TLT Molise
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tlt-molise.jpg" group-title="Molise",TLT Molise
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tlt-molise.png" group-title="Molise",TLT Molise
 https://5f22d76e220e1.streamlock.net/tltmolise/tltmolise/chunklist_w1143191259.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/trsp-televisione-radio-san-pietro.jpg" group-title="Molise",TRSP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/trsp-televisione-radio-san-pietro.png" group-title="Molise",TRSP
 https://5a1178b42cc03.streamlock.net/trsptv/trsptv/playlist.m3u8

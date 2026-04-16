@@ -3,15 +3,15 @@
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/am-terni-channel.png" group-title="Umbria",A.M. Terni
 https://stream9.xdevel.com/video0s976364-1176/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-errevutì.JPG" group-title="Umbria",Errevutì
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-errevutì.png" group-title="Umbria",Errevutì
 https://stream10.xdevel.com/video0s977339-1877/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/etv-umbria.jpg" group-title="Umbria",ETV Umbria
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/etv-umbria.png" group-title="Umbria",ETV Umbria
 https://live.ipstream.it/etvumbria/etvumbria.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/retesole-umbria.png" group-title="Umbria",Retesole Umbria
 https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-orte.jpg" group-title="Umbria",Tele Radio Orte
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-orte.png" group-title="Umbria",Tele Radio Orte
 https://stream10.xdevel.com/video0s977516-2077/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/teleambiente-tv.jpeg" group-title="Umbria",TeleAmbiente
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/teleambiente-tv.png" group-title="Umbria",TeleAmbiente
 https://5f22d76e220e1.streamlock.net/teleambiente3/teleambiente3/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/trg-tv-tele-radio-gubbio.png" group-title="Umbria",Trg
 https://www.trgmedia.it/hls/livestreamHD.m3u8

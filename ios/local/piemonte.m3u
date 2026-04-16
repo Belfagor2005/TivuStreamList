@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/piemonte.png" group-title="Piemonte",=== Piemonte===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/grp-televisione.jpg" group-title="Piemonte",GRP VeraTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/grp-televisione.png" group-title="Piemonte",GRP VeraTV
 https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/love-music.jpeg" group-title="Piemonte",LOVE MUSIC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/love-music.png" group-title="Piemonte",LOVE MUSIC
 https://d4k.it/hls/live1/live.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/motori-tv.png" group-title="Piemonte",Motori TV
 https://5f22d76e220e1.streamlock.net/servizio01/servizio01/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/onda-novara-tv.png" group-title="Piemonte",Onda Novara TV
 https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/oropa-tv.jpeg" group-title="Piemonte",Oropa TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/oropa-tv.png" group-title="Piemonte",Oropa TV
 https://5926fc9c7c5b2.streamlock.net/9078/9078/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/primantenna.png" group-title="Piemonte",Primantenna
 https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
@@ -19,7 +19,7 @@ https://streamsrv2.nets-sr.com:19360/4youtv/4youtv.m3u8
 https://load-balancer.azotosolutions.com/cdnedge5/smil:live5.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/jukebox-tv.png" group-title="Piemonte",Radio JukeBox
 https://5926fc9c7c5b2.streamlock.net/9108/9108/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rbe-tv-radio-beckwith-evangelica.jpg" group-title="Piemonte",RBE-TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rbe-tv-radio-beckwith-evangelica.png" group-title="Piemonte",RBE-TV
 https://5f22d76e220e1.streamlock.net/rbetv/rbetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/rete-biella.png" group-title="Piemonte",Rete Biella
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
@@ -27,15 +27,15 @@ https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
 https://wb.top-ix.org/redirect/retebiella/_definst_/streaming?type=m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/sesta-rete-piemonte.png" group-title="Piemonte",Sesta Rete
 https://stream10.xdevel.com/video0s977089-1792/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telebiella.jpeg" group-title="Piemonte",Telebiella
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telebiella.png" group-title="Piemonte",Telebiella
 https://wb.top-ix.org/redirect/avtvlive/telebiella/streaming?type=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telecity-piemonte.jpg" group-title="Piemonte",Telecity Piemonte
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telecity-piemonte.png" group-title="Piemonte",Telecity Piemonte
 https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telecupole.png" group-title="Piemonte",TeleCupole
 https://d4k.it/hls/live2/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-ritmo.jpg" group-title="Piemonte",TeleRitmo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-ritmo.png" group-title="Piemonte",TeleRitmo
 https://ed06.top-ix.org/avtvlive/teleritmo/streaming/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-ritmo.jpg" group-title="Piemonte",TeleRitmo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-ritmo.png" group-title="Piemonte",TeleRitmo
 https://wb.top-ix.org/redirect/avtvlive/teleritmo/streaming?type=m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/vco-azzurra-tv.png" group-title="Piemonte",VCO Azzurra TV
 https://wb.top-ix.org/redirect/avtvlive/azzurra/streaming?type=m3u8

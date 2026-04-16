@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/di-tv.png" group-title="Emilia Romagna",DI-TV 80
 https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/di-tv-92.JPG" group-title="Emilia Romagna",DI.TV 92
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/di-tv-92.png" group-title="Emilia Romagna",DI.TV 92
 https://media2021.rtvweb.com/di_tv_92/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/etv-rete7.png" group-title="Emilia Romagna",ETV Rete7
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
@@ -15,15 +15,15 @@ https://live.ipstream.it/etv/etv.stream/chunklist_w802107428.m3u8
 https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/icaro-tv.png" group-title="Emilia Romagna",Icaro Tv
 https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/madeinbo-radio-tv.JPG" group-title="Emilia Romagna",MadeinBO Radio Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/madeinbo-radio-tv.png" group-title="Emilia Romagna",MadeinBO Radio Tv
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-bruno-tv.png" group-title="Emilia Romagna",Radio Bruno
 https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-studio-delta.jpg" group-title="Emilia Romagna",Radio Studio Delta TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/radio-studio-delta.png" group-title="Emilia Romagna",Radio Studio Delta TV
 https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/telestense.png" group-title="Emilia Romagna",Telestense
 https://64b16f23efbee.streamlock.net/teleestense/teleestense/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-romagna-24.jpg" group-title="Emilia Romagna",Tele Romagna 24
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-romagna-24.png" group-title="Emilia Romagna",Tele Romagna 24
 http://livetr.teleromagna.it/mia/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tele-tricolore.png" group-title="Emilia Romagna",Tele Tricolore
 https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
@@ -37,5 +37,5 @@ https://livetr.teleromagna.it/teleromagna/live/live/teleromagna480/chunks.m3u8
 https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tv-qui-modena.png" group-title="Emilia Romagna",Tv Qui Modena
 https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/videoregione.jpg" group-title="Emilia Romagna",Videoregione
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/videoregione.png" group-title="Emilia Romagna",Videoregione
 https://stream.videoregione.it/hls/vr99/index.m3u8

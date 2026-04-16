@@ -5,9 +5,9 @@ https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.
 http://195.231.82.127:8082/hls/test_low.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/canale-77.png" group-title="Friuli Venezia Giulia",Canale77
 https://load-balancer.azotosolutions.com/cdnedge16/smil:live16.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/fly-tv.jpg" group-title="Friuli Venezia Giulia",Fly Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/fly-tv.png" group-title="Friuli Venezia Giulia",Fly Tv
 https://cloudvideo.servers10.com:8081/8144/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/mater-dei-tv.jpg" group-title="Friuli Venezia Giulia",Mater-Dei Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/mater-dei-tv.png" group-title="Friuli Venezia Giulia",Mater-Dei Tv
 https://rst2.saiuzwebnetwork.it:8081/materdeitv1/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/ran-friul.png" group-title="Friuli Venezia Giulia",Ran Friul
 https://load-balancer.azotosolutions.com/cdnedge34/ranfriul/playlist.m3u8
@@ -37,7 +37,7 @@ http://wms.shared.streamshow.it/telequattro/telequattro/chunklist_w1388066579.m3
 https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/udinews-tv-12.png" group-title="Friuli Venezia Giulia",TV12
 https://59d7d6f47d7fc.streamlock.net/tv12/tv12/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tvm.JPG" group-title="Friuli Venezia Giulia",TVM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/tvm.png" group-title="Friuli Venezia Giulia",TVM
 http://195.231.82.127:8081/hls/test_low.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/video-tele-carina.png" group-title="Friuli Venezia Giulia",Video Tele Carnia
 https://rst2.saiuzwebnetwork.it:8081/vtccarnia/index.m3u8
