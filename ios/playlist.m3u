@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",---LAST UPDATE 16-04-2026 H. 17.47---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/icon.png" group-title="",---LAST UPDATE 16-04-2026 H. 18.04---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz"
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/rai.png" group-title="Canali RAI",=== Canali RAI===
@@ -359,7 +359,7 @@ https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/videonola-dibtmrfa4k9a.png" group-title="Campania",VideoNola
 https://videonola.aswifi.it/videonolaabr/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/regioni/emiliaromagna.png" group-title="Emilia Romagna",=== Emilia Romagna===
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logoz/regioni/emiliaromagna.png" group-title="Emilia Romagna",=== Emilia Romagna===
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/tv_image/12-tv-parma.png" group-title="Emilia Romagna",12 Tv Parma
 https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8
@@ -1200,7 +1200,7 @@ https://bl.rutube.ru/livestream/11bbbec75a2ceb8cf446ad16813c6eec/index.m3u8?s=Ug
 http://185.57.68.33/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/news.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS ITALIA",---LAST UPDATE 16-04-2026 H. 17.40---
+#EXTINF:-1 group-title="NEWS ITALIA",---LAST UPDATE 16-04-2026 H. 18.00---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS ITALIA",Etna Espresso Channel
 https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
@@ -1218,7 +1218,7 @@ https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
 https://live.ipstream.it/etv/etv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/news.png" group-title="NEWS INTERNATIONAL",--- NEWS INTERNATIONAL ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",---LAST UPDATE 16-04-2026 H. 17.40---
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",---LAST UPDATE 16-04-2026 H. 18.00---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",10 TV
 https://cdn-1.pishow.tv/live/391/master.m3u8
@@ -2288,7 +2288,7 @@ https://streaming.televizor-24-tochka.ru/live/27.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA24/variant.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/musical.png" group-title="MUSICA",--- MUSICA = RADIO TV ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="MUSICA",---LAST UPDATE 16-04-2026 H. 17.40---
+#EXTINF:-1 group-title="MUSICA",---LAST UPDATE 16-04-2026 H. 18.00---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="MUSICA",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
