@@ -2,7 +2,6 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
 [![License](https://img.shields.io/badge/License-meat-red)]
-![Python package](https://github.com/Belfagor2005/AGPTEAM/actions/workflows/pylint.yml/badge.svg)
 [![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](Maintainers.md#maintainers "Donate")
 
 ![Screenshot](https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logo-garden-stream.png)
