@@ -2,7 +2,7 @@
 
 ![Visitors](https://komarev.com/ghpvc/?username=Belfagor2005&label=Repository%20Views&color=blueviolet)
 [![License](https://img.shields.io/badge/License-meat-red)]
-[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](Maintainers.md#maintainers "Donate")
+[![Donate](https://img.shields.io/badge/_-Donate-red.svg?logo=githubsponsors&labelColor=555555&style=for-the-badge)](https://ko-fi.com/lululla)
 
 ![Screenshot](https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/refs/heads/list/logo-garden-stream.png)
 
