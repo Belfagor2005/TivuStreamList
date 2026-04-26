@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/logoz/regioni/nazionali.png" group-title="ITALIA",--- ITALIA ---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 25-04-2026 H. 14.51---
+#EXTINF:-1 group-title="ITALIA",---LAST UPDATE 26-04-2026 H. 07.47---
 https://raw.githubusercontent.com/Belfagor2005/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="ITALIA",111 TV
 https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
@@ -441,6 +441,8 @@ https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
 https://58d921499d3d3.streamlock.net/TeleRama/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",TeleRegione 118
 https://streaming.softwarecreation.it/TR118/TR118/playlist.m3u8
+#EXTINF:-1 group-title="ITALIA",Telerent 7Gold
+https://stream10.xdevel.com/video0s977504-2067/stream/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",Teleromagna
 https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
 #EXTINF:-1 group-title="ITALIA",TeleSanDomenico
