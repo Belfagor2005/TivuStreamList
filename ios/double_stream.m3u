@@ -1,9 +1,15 @@
 #EXTM3U
 # Canali duplicati (stesso URL) - modificare manualmente
 
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",24 Horas
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",Guardian Talk Radio
 https://guaranteenews.in:8443/live/gnews/index.m3u8
 
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",Trailers
-https://live20.bozztv.com/akamaissh101/ssh101/rctvhdtra/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",Magic TV
+https://bss1.neterra.tv/magictv/magictv.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="MUSICA",X Level Media
+https://tuvideoonline.com.ar:3332/live/xlevelmedialive.m3u8
 
