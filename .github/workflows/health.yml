@@ -151,13 +151,10 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           mkdir -p reports
           
-          # Copia i file
+          # Copia il report health nella cartella reports (se non lo è già)
           cp health_report.txt reports/latest_report.txt
-          if [ -f reports/down_channels.m3u ]; then
-              cp reports/down_channels.m3u reports/down_channels.m3u
-          fi
           
-          # Aggiungi entrambi
+          # Aggiungi i file (il file M3U è già in reports/)
           git add reports/latest_report.txt reports/down_channels.m3u
           
           git diff --staged --quiet || {
