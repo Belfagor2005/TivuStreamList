@@ -1,5 +1,5 @@
 Playlist Health Check Report
-Generated: 2026-08-13 02:06 UTC
+Generated: 2026-08-14 02:04 UTC
 
 --- Details ---
 
@@ -11,16 +11,16 @@ Generated: 2026-08-13 02:06 UTC
 [OK] RAI 2 | OK | EPG MISSING
 [OK] RAI 3 | OK | EPG MISSING
 [OK] RAI 3 | OK | EPG MISSING
-[OK] RAI 4 | OK | EPG MISSING
+[DOWN] RAI 4 | DOWN | EPG MISSING
 [OK] RAI 4 | OK | EPG MISSING
 [OK] RAI 4K | OK | EPG MISSING
 [OK] RAI 4K | OK | EPG MISSING
-[OK] RAI 5 | OK | EPG MISSING
+[DOWN] RAI 5 | DOWN | EPG MISSING
 [OK] RAI Italia Africa | OK | EPG MISSING
 [OK] RAI Italia Americas | OK | EPG MISSING
 [OK] RAI Italia Australia | OK | EPG MISSING
-[OK] RAI Movie | OK | EPG MISSING
-[OK] Rai Premium | OK | EPG MISSING
+[DOWN] RAI Movie | DOWN | EPG MISSING
+[DOWN] Rai Premium | DOWN | EPG MISSING
 [OK] RAI Radio 2 | OK | EPG MISSING
 [OK] RAI Scuola | OK | EPG MISSING
 [OK] RAI Scuola | OK | EPG MISSING
@@ -84,14 +84,14 @@ Generated: 2026-08-13 02:06 UTC
 [OK]  Rai 3 TGR Toscana | OK | EPG MISSING
 [OK]  Rai 3 TGR Marche | OK | EPG MISSING
 [OK]  Rai 3 TGR Umbria | OK | EPG MISSING
-[OK]  Rai 3 TGR Lazio | OK | EPG MISSING
-[OK]  Rai 3 TGR Abruzzo | OK | EPG MISSING
+[DOWN]  Rai 3 TGR Lazio | DOWN | EPG MISSING
+[DOWN]  Rai 3 TGR Abruzzo | DOWN | EPG MISSING
 [OK]  Rai 3 TGR Molise | OK | EPG MISSING
 [OK]  Rai 3 TGR Campania | OK | EPG MISSING
 [OK]  Rai 3 TGR Puglia | OK | EPG MISSING
 [OK]  Rai 3 TGR Basilicata | OK | EPG MISSING
-[OK]  Rai 3 TGR Calabria | OK | EPG MISSING
-[OK]  Rai 3 TGR Sardegna | OK | EPG MISSING
+[DOWN]  Rai 3 TGR Calabria | DOWN | EPG MISSING
+[DOWN]  Rai 3 TGR Sardegna | DOWN | EPG MISSING
 [OK]  Rai 3 TGR Sicilia | OK | EPG MISSING
 [SKIP] === Canali Nazionali=== | Placeholder
 [OK] La7 | OK | EPG MISSING
@@ -339,7 +339,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] TV7 | OK | EPG MISSING
 [DOWN] VideoNola | DOWN | EPG MISSING
 [SKIP] === Emilia Romagna=== | Placeholder
-[OK] Rai 3 TGR Emilia-Romagna | OK | EPG MISSING
+[DOWN] Rai 3 TGR Emilia-Romagna | DOWN | EPG MISSING
 [OK] 7 Gold Sestarete | OK | EPG MISSING
 [OK] 12 Tv Parma | OK | EPG MISSING
 [OK] 12 TV Parma | OK | EPG MISSING
@@ -396,7 +396,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] TVM | OK | EPG MISSING
 [OK] Video Tele Carnia | OK | EPG MISSING
 [SKIP] === Lazio=== | Placeholder
-[OK] Rai 3 TGR Lazio | OK | EPG MISSING
+[DOWN] Rai 3 TGR Lazio | DOWN | EPG MISSING
 [OK] Alma TV | OK | EPG MISSING
 [OK] AP Channel | OK | EPG MISSING
 [OK] Canale 10 | OK | EPG MISSING
@@ -410,7 +410,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Gold TV Roma | OK | EPG MISSING
 [OK] La Rockaforte TV | OK | EPG MISSING
 [OK] La Voce TV | OK | EPG MISSING
-[DOWN] LazioTV | DOWN | EPG MISSING
+[OK] LazioTV | OK | EPG MISSING
 [OK] Manà Manà Sport | OK | EPG MISSING
 [OK] Odeon 24 | OK | EPG MISSING
 [OK] Radio Immagine TV | OK | EPG MISSING
@@ -602,7 +602,7 @@ Generated: 2026-08-13 02:06 UTC
 [DOWN] Telesveva | DOWN | EPG MISSING
 [OK] Teletrullo | OK | EPG MISSING
 [SKIP] === Sardegna=== | Placeholder
-[OK] Rai 3 TGR Sardegna | OK | EPG MISSING
+[DOWN] Rai 3 TGR Sardegna | DOWN | EPG MISSING
 [OK] Aristanis Super TV Oristano | OK | EPG MISSING
 [OK] Odeon Sardegna | OK | EPG MISSING
 [OK] Radio Iglesias Sardegna | OK | EPG MISSING
@@ -1064,7 +1064,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Sport TV 7 [PT] | OK | EPG MISSING
 [OK] Sportdigital FUSSBALL HD (1080p) | OK | EPG MISSING
 [OK] Sportitalia 24 (720p) [Geo-blocked] | OK | EPG MISSING
-[DOWN] Sportitalia Motori (720p) [Geo-blocked] | DOWN | EPG MISSING
+[OK] Sportitalia Motori (720p) [Geo-blocked] | OK | EPG MISSING
 [OK] Sportitalia Solocalcio (1080p) | OK | EPG MISSING
 [OK] SportKlub 1 [HR] | OK | EPG MISSING
 [OK] SportKlub 10 [HR] | OK | EPG MISSING
@@ -1113,7 +1113,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Talent TV (720p) | OK | EPG MISSING
 [OK] talkSPORT (1080p) | OK | EPG MISSING
 [DOWN] TDM Sports Ch. 93 (720p) | DOWN | EPG MISSING
-[OK] Tele Rebelde | OK | EPG MISSING
+[DOWN] Tele Rebelde | DOWN | EPG MISSING
 [DOWN] Teledeporte (1080p) | DOWN | EPG MISSING
 [OK] Teletrak (720p) | OK | EPG MISSING
 [DOWN] Ten Sports Pakistan | DOWN | EPG MISSING
@@ -1160,11 +1160,11 @@ Generated: 2026-08-13 02:06 UTC
 [DOWN] TVP Sport (1080p) | DOWN | EPG MISSING
 [OK] TVR Sport | OK | EPG MISSING
 [OK] TVRI Sport | OK | EPG MISSING
-[OK] TVS Bowling Network | OK | EPG MISSING
+[DOWN] TVS Bowling Network | DOWN | EPG MISSING
 [OK] TVS Boxing | OK | EPG MISSING
 [OK] TVS Classic Sports | OK | EPG MISSING
 [OK] TVS Sports | OK | EPG MISSING
-[OK] TVS Sports Bureau | OK | EPG MISSING
+[DOWN] TVS Sports Bureau | DOWN | EPG MISSING
 [OK] TVS Turbo | OK | EPG MISSING
 [OK] TVS Women Sports | OK | EPG MISSING
 [OK] TyC Sports | OK | EPG MISSING
@@ -1202,7 +1202,7 @@ Generated: 2026-08-13 02:06 UTC
 [DOWN] МАТЧ! Игра (720p) | DOWN | EPG MISSING
 [OK] Матч! Планета (720p) | OK | EPG MISSING
 [OK] СТАРТ Триумф | OK | EPG MISSING
-[DOWN] УТРК Спорт (480p) [Not 24/7] | DOWN | EPG MISSING
+[OK] УТРК Спорт (480p) [Not 24/7] | OK | EPG MISSING
 [DOWN] Футбол (720p) | DOWN | EPG MISSING
 [OK] 山东体育 (1080p) [Geo-blocked] | OK | EPG MISSING
 [OK] 江苏体育 (576p) | OK | EPG MISSING
@@ -1229,7 +1229,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Mathrubhumi News | OK | EPG MISSING
 [OK] Minformo TV | OK | EPG MISSING
 [OK] Radio Capital TiVu | OK | EPG MISSING
-[OK] Real News Kerala | OK | EPG MISSING
+[DOWN] Real News Kerala | DOWN | EPG MISSING
 [OK] Sky TG24 | OK | EPG MISSING
 [OK] Sky TG24 | OK | EPG MISSING
 [OK] TG Norba 24 | OK | EPG MISSING
@@ -1396,10 +1396,10 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Desh TV | OK | EPG MISSING
 [OK] Di TV | OK | EPG MISSING
 [OK] Dijlah TV | OK | EPG MISSING
-[DOWN] Dim TV | DOWN | EPG MISSING
+[OK] Dim TV | OK | EPG MISSING
 [OK] Dotto TV | OK | EPG MISSING
 [OK] Dunya News | OK | EPG MISSING
-[DOWN] Dunya News UK | DOWN | EPG MISSING
+[OK] Dunya News UK | OK | EPG MISSING
 [OK] DVB TV | OK | EPG MISSING
 [OK] DW Arabic | OK | EPG MISSING
 [OK] DW English | OK | EPG MISSING
@@ -1517,7 +1517,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Moon TV | OK | EPG MISSING
 [OK] Naftemporiki TV | OK | EPG MISSING
 [OK] Nagaland TV | OK | EPG MISSING
-[DOWN] Nanduti | DOWN | EPG MISSING
+[OK] Nanduti | OK | EPG MISSING
 [OK] National Iranian Congress TV | OK | EPG MISSING
 [DOWN] NBC 2 | DOWN | EPG MISSING
 [OK] NBC News NOW | OK | EPG MISSING
@@ -1603,7 +1603,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Pratidin Time | OK | EPG MISSING
 [OK] Prensa Latina TV | OK | EPG MISSING
 [DOWN] Press TV | DOWN | EPG MISSING
-[DOWN] Prime9 News | DOWN | EPG MISSING
+[OK] Prime9 News | OK | EPG MISSING
 [DOWN] PRO TV Chisinau | DOWN | EPG MISSING
 [OK] PROTV News | OK | EPG MISSING
 [OK] Prudent Media | OK | EPG MISSING
@@ -1619,7 +1619,7 @@ Generated: 2026-08-13 02:06 UTC
 [DOWN] RCR | DOWN | EPG MISSING
 [OK] RCV TV | OK | EPG MISSING
 [OK] RDN | OK | EPG MISSING
-[OK] Real News Kerala | OK | EPG MISSING
+[DOWN] Real News Kerala | DOWN | EPG MISSING
 [OK] Realitatea TV | OK | EPG MISSING
 [OK] Record News | OK | EPG MISSING
 [OK] Red TV Lebanon | OK | EPG MISSING
@@ -1641,7 +1641,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] RT France | OK | EPG MISSING
 [OK] RT India | OK | EPG MISSING
 [OK] RTU | OK | EPG MISSING
-[OK] Rudaw TV | OK | EPG MISSING
+[DOWN] Rudaw TV | DOWN | EPG MISSING
 [OK] Russia-24 | OK | EPG MISSING
 [OK] SABC Lehae | OK | EPG MISSING
 [OK] SABC News | OK | EPG MISSING
@@ -1686,12 +1686,12 @@ Generated: 2026-08-13 02:06 UTC
 [OK] TOI Global | OK | EPG MISSING
 [OK] Tolk | OK | EPG MISSING
 [OK] TOLOnews | OK | EPG MISSING
-[OK] Tonghua TV | OK | EPG MISSING
+[DOWN] Tonghua TV | DOWN | EPG MISSING
 [OK] Top News | OK | EPG MISSING
 [OK] Top Stories by Newsy | OK | EPG MISSING
 [OK] TRA 2 | OK | EPG MISSING
 [OK] Trailers EN | OK | EPG MISSING
-[DOWN] TRT | DOWN | EPG MISSING
+[OK] TRT | OK | EPG MISSING
 [OK] TRT Arabi | OK | EPG MISSING
 [OK] TRT Haber | OK | EPG MISSING
 [OK] TRT World | OK | EPG MISSING
@@ -1750,7 +1750,7 @@ Generated: 2026-08-13 02:06 UTC
 [SKIP] --- MUSICA = RADIO TV --- | Placeholder
 [OK] ---LAST UPDATE 10-08-2026 H. 01.05--- | OK | EPG MISSING
 [OK] 13 Festival | OK | EPG MISSING
-[OK] 15+ Music | OK | EPG MISSING
+[DOWN] 15+ Music | DOWN | EPG MISSING
 [OK] 3ABN Praise Him Music Network | OK | EPG MISSING
 [DOWN] 4 Fun TV | DOWN | EPG MISSING
 [DOWN] 4 Music | DOWN | EPG MISSING
@@ -1798,7 +1798,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] California Music Channel | OK | EPG MISSING
 [OK] Calimafm | OK | EPG MISSING
 [OK] Canal Clave | OK | EPG MISSING
-[DOWN] City Eden Meditation Music | DOWN | EPG MISSING
+[OK] City Eden Meditation Music | OK | EPG MISSING
 [OK] City TV | OK | EPG MISSING
 [OK] CKNO-FM | OK | EPG MISSING
 [OK] Clubbing TV France | OK | EPG MISSING
@@ -1845,7 +1845,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Gex TV | OK | EPG MISSING
 [OK] Gigant FM | OK | EPG MISSING
 [OK] GO TV | OK | EPG MISSING
-[OK] Gugak TV | OK | EPG MISSING
+[DOWN] Gugak TV | DOWN | EPG MISSING
 [OK] HEi Now | OK | EPG MISSING
 [OK] High Vision TV | OK | EPG MISSING
 [OK] Hitradio O3 | OK | EPG MISSING
@@ -1887,7 +1887,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] La-X | OK | EPG MISSING
 [OK] Latin Zone | OK | EPG MISSING
 [OK] Lausitzwelle | OK | EPG MISSING
-[DOWN] Lingkar TV | DOWN | EPG MISSING
+[OK] Lingkar TV | OK | EPG MISSING
 [OK] LiraTV | OK | EPG MISSING
 [OK] Littoral FM TV | OK | EPG MISSING
 [OK] Live99FM | OK | EPG MISSING
@@ -1897,7 +1897,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] LRT Opus | OK | EPG MISSING
 [OK] M-1 | OK | EPG MISSING
 [OK] m2o TV | OK | EPG MISSING
-[DOWN] Madras FM TV | DOWN | EPG MISSING
+[OK] Madras FM TV | OK | EPG MISSING
 [OK] Magic TV | OK | EPG MISSING
 [OK] Makao TV | OK | EPG MISSING
 [DOWN] Marina TV | DOWN | EPG MISSING
@@ -1970,7 +1970,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Power Hit Radio | OK | EPG MISSING
 [OK] Power Love | OK | EPG MISSING
 [OK] PowerTurk Akustik | OK | EPG MISSING
-[DOWN] PowerTurk Slow | DOWN | EPG MISSING
+[OK] PowerTurk Slow | OK | EPG MISSING
 [OK] PowerTurk Taptaze | OK | EPG MISSING
 [OK] PRIDEtv LATAM | OK | EPG MISSING
 [OK] PTC Chakde | OK | EPG MISSING
@@ -2007,7 +2007,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Radio Fx Net | OK | EPG MISSING
 [OK] Radio Hit FM TV | OK | EPG MISSING
 [OK] Radio Ibiza | OK | EPG MISSING
-[OK] Radio Ideal | OK | EPG MISSING
+[DOWN] Radio Ideal | DOWN | EPG MISSING
 [OK] Radio Immagine Tv | OK | EPG MISSING
 [OK] Radio Italia Cina TV | OK | EPG MISSING
 [OK] Radio Italia Trend TV | OK | EPG MISSING
@@ -2080,7 +2080,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Sol Musica | OK | EPG MISSING
 [OK] Solo Bailalo | OK | EPG MISSING
 [OK] Songdew TV | OK | EPG MISSING
-[DOWN] SONGTV Russia | DOWN | EPG MISSING
+[OK] SONGTV Russia | OK | EPG MISSING
 [OK] SOY Plancha TV | OK | EPG MISSING
 [OK] SpektraTV | OK | EPG MISSING
 [OK] Spirit TV | OK | EPG MISSING
@@ -2790,7 +2790,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Areia Branca | OK | EPG MISSING
 [OK] Armação de Pêra | OK | EPG MISSING
 [OK] Arrifana | OK | EPG MISSING
-[OK] Austria - Spitzerberg Airfield | OK | EPG MISSING
+[DOWN] Austria - Spitzerberg Airfield | DOWN | EPG MISSING
 [OK] Austria 1 | OK | EPG MISSING
 [OK] Baía de Cascais | OK | EPG MISSING
 [OK] Brazil: Rio (Copacabana Beach) | OK | EPG MISSING
@@ -3112,7 +3112,7 @@ Generated: 2026-08-13 02:06 UTC
 [DOWN] Кингисепп 2 | DOWN | EPG MISSING
 [OK] Кингисепп 2 | OK | EPG MISSING
 [DOWN] Кингисепп 4 | DOWN | EPG MISSING
-[OK] Кингисепп 4 | OK | EPG MISSING
+[DOWN] Кингисепп 4 | DOWN | EPG MISSING
 [OK] Киржач 1 | OK | EPG MISSING
 [OK] Киржач 2 | OK | EPG MISSING
 [OK] Киржач 3 | OK | EPG MISSING
@@ -3124,7 +3124,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Красноярск - Бобровый Лог 6 | OK | EPG MISSING
 [OK] Красноярск - Бобровый Лог 8 | OK | EPG MISSING
 [OK] Красноярск - Бобровый Лог 9 | OK | EPG MISSING
-[DOWN] Красноярск 5 | DOWN | EPG MISSING
+[OK] Красноярск 5 | OK | EPG MISSING
 [OK] Красноярск 8 | OK | EPG MISSING
 [DOWN] Красноярск 10 | DOWN | EPG MISSING
 [OK] Красноярск 12 | OK | EPG MISSING
@@ -3321,7 +3321,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Тверь - Компьютерия 3 | OK | EPG MISSING
 [OK] Тверь - Компьютерия 4 | OK | EPG MISSING
 [OK] Тверь - Компьютерия 5 | OK | EPG MISSING
-[DOWN] Тольятти 1 | DOWN | EPG MISSING
+[OK] Тольятти 1 | OK | EPG MISSING
 [OK] Тольятти 2 | OK | EPG MISSING
 [OK] Томск - Площадь Южная | OK | EPG MISSING
 [OK] Томск - Река Томь | OK | EPG MISSING
@@ -3344,7 +3344,7 @@ Generated: 2026-08-13 02:06 UTC
 [OK] Турция 12 | OK | EPG MISSING
 [OK] Турция 13 | OK | EPG MISSING
 [OK] Улан-Удэ 1 | OK | EPG MISSING
-[DOWN] Улан-Удэ 1 | DOWN | EPG MISSING
+[OK] Улан-Удэ 1 | OK | EPG MISSING
 [OK] Улан-Удэ 4 | OK | EPG MISSING
 [OK] Ульяновск 1 | OK | EPG MISSING
 [OK] Ульяновск 2 | OK | EPG MISSING
@@ -3429,7 +3429,7 @@ Generated: 2026-08-13 02:06 UTC
 
 Total tested: 3390
 Skipped: 33
-Working: 3160
-Broken: 230
+Working: 3153
+Broken: 237
 EPG OK: 0
 EPG Missing: 3390
