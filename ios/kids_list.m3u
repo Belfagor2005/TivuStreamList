@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/bambini.png" group-title="KIDS",--- KIDS ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="KIDS",---LAST UPDATE 17-08-2026 H. 00.44---
+#EXTINF:-1 group-title="KIDS",---LAST UPDATE 24-08-2026 H. 00.46---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="KIDS",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
