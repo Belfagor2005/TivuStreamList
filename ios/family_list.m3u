@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/family.png" group-title="FAMILY",--- FAMILY ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="FAMILY",---LAST UPDATE 24-08-2026 H. 00.46---
+#EXTINF:-1 group-title="FAMILY",---LAST UPDATE 31-08-2026 H. 02.35---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 tvg-logo="" group-title="FAMILY",Asia TV
 https://stream.asiatvnet.com/1/live/master.m3u8

@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/news.png" group-title="NEWS ITALIA",--- NEWS ITALIA ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS ITALIA",---LAST UPDATE 24-08-2026 H. 00.46---
+#EXTINF:-1 group-title="NEWS ITALIA",---LAST UPDATE 31-08-2026 H. 02.35---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS ITALIA",Camera dei Deputati
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
@@ -67,7 +67,7 @@ https://vg-tv9yupp.vgcdn.net/vglive-sk-468570/v1/01PDx4Vtw4YF6XfduRwwS6nKZ6sPAC9
 https://yuppmedtaorire.akamaized.net/v1/master/a0d00732PK4bEpVFy72Qz9yLRzjXHsjAGuAvbZT7/v6news_nim_https/140622/v6news/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/logoz/regioni/news.png" group-title="NEWS INTERNATIONAL",--- NEWS INTERNATIONAL ---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/startend.avi
-#EXTINF:-1 group-title="NEWS INTERNATIONAL",---LAST UPDATE 24-08-2026 H. 00.46---
+#EXTINF:-1 group-title="NEWS INTERNATIONAL",---LAST UPDATE 31-08-2026 H. 02.35---
 https://raw.githubusercontent.com/OwnerPlugins/TivuStreamList/list/ios/movie_countdown.mp4
 #EXTINF:-1 group-title="NEWS INTERNATIONAL",10 TV
 https://cdn-1.pishow.tv/live/391/master.m3u8
